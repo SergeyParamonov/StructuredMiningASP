@@ -1,0 +1,30 @@
+language_bias(lives_in_relation).
+language_bias(isa_relation).
+language_bias(has_pet_relation).
+positive(pete). 
+positive(ann). 
+positive(john). 
+
+negative(kate).
+negative(bob).
+negative(mat).
+
+{ inpattern(Relation) } :- language_bias(Relation).
+
+ :- livesin(X,Y), inpattern(lives_in_relation), positive(X).
+ :- livesin(X,Y), inpattern(lives_in_relation), positive(Y).
+
+ :- isa(X,Y), inpattern(isa), positive(X).
+ :- isa(X,Y), inpattern(isa), positive(Y).
+
+ :- haspet(X,Y), inpattern(has_pet_relation), positive(X).
+ :- haspet(X,Y), inpattern(has_pet_relation), positive(Y).
+
+covered(X) :- livesin(X,Y), inpattern(lives_in_relation), negative(X).
+covered(X) :- livesin(X,Y), inpattern(lives_in_relation), negative(X).
+covered(X) :- isa(X,Y), inpattern(isa), negative(X).
+covered(X) :- isa(X,Y), inpattern(isa), negative(X).
+covered(X) :- haspet(X,Y), inpattern(has_pet_relation), negative(X).
+covered(X) :- haspet(X,Y), inpattern(has_pet_relation), negative(X).
+
+#maximize{1,X:covered(X)}.
