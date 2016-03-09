@@ -1,3 +1,5 @@
+%to be tested on "fake dataset", disjunctive atoms are hardcoded and they need to be changed for other datasets
+
 threshold(5).
 col(1..10).
 val(x). val(o).
