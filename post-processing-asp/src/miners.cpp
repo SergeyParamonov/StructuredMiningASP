@@ -12,6 +12,17 @@ class Miner{
     virtual void run_solver(string dataset_name, string outputfile){}
     virtual vector<unique_ptr<Pattern>> parse_solver_output(string filepath){}
     virtual ~Miner(){}
+
+    void write_asp_patterns_to_file(vector<unique_ptr<Pattern>> patterns, string outputfilename){
+      cout << "writing ASP data to the file: " << outputfilename; 
+      ofstream myfile;
+      myfile.open(outputfilename);
+      for (auto &p: patterns){
+        myfile << p->make_ASP_str();
+      }
+      myfile.close();
+    }
+
 };
 
 class ItemsetMiner : public Miner{
@@ -35,6 +46,7 @@ class ItemsetMiner : public Miner{
       }
       return move(v);
     };
+
 };
 
 unique_ptr<Miner> pick_miner(string datatype){
