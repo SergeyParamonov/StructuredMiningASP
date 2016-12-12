@@ -78,7 +78,7 @@ class Itemset : public Pattern{
        return items;
      }
      string make_ASP_str(){
-       string asp_repr = (boost::format("pattern_id(%1%).") % id).str(); 
+       string asp_repr = (boost::format("pattern(%1%).") % id).str(); 
        asp_repr += (boost::format(" support(%1%,%2%).") % id % frequency).str(); 
        for (auto i: items){
           asp_repr += (boost::format(" item(%1%,%2%).") % id % i).str();

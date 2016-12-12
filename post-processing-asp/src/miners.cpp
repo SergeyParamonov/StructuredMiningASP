@@ -31,7 +31,7 @@ class ItemsetMiner : public Miner{
     ~ItemsetMiner(){};
 
     void run_solver(string dataset_name, string outputfile){
-      string miner_name = "bin/eclat -v ':%a'";
+      string miner_name = "bin/eclat -v ':%a' -s30";
       string command = miner_name + " " + dataset_name +" -o " + outputfile + "\n";
       cout << "executing the command " << command;
       system(command.c_str());
