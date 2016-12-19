@@ -1,0 +1,1787 @@
+pattern(1). support(1,7924). item(1,84). item(1,80). size(1,2).
+pattern(2). support(2,7924). item(2,84). size(2,1).
+pattern(3). support(3,7906). item(3,33). item(3,84). item(3,80). size(3,3).
+pattern(4). support(4,7906). item(4,33). item(4,84). size(4,2).
+pattern(5). support(5,7914). item(5,33). item(5,80). size(5,2).
+pattern(6). support(6,7914). item(6,33). size(6,1).
+pattern(7). support(7,7288). item(7,87). item(7,84). item(7,80). size(7,3).
+pattern(8). support(8,7288). item(8,87). item(8,84). size(8,2).
+pattern(9). support(9,7288). item(9,87). item(9,33). item(9,84). item(9,80). size(9,4).
+pattern(10). support(10,7288). item(10,87). item(10,33). item(10,84). size(10,3).
+pattern(11). support(11,7296). item(11,87). item(11,33). item(11,80). size(11,3).
+pattern(12). support(12,7296). item(12,87). item(12,33). size(12,2).
+pattern(13). support(13,7488). item(13,87). item(13,80). size(13,2).
+pattern(14). support(14,7488). item(14,87). size(14,1).
+pattern(15). support(15,6620). item(15,35). item(15,84). item(15,80). size(15,3).
+pattern(16). support(16,6620). item(16,35). item(16,84). size(16,2).
+pattern(17). support(17,6602). item(17,35). item(17,33). item(17,80). item(17,84). size(17,4).
+pattern(18). support(18,6602). item(18,35). item(18,33). item(18,80). size(18,3).
+pattern(19). support(19,6602). item(19,35). item(19,33). item(19,84). size(19,3).
+pattern(20). support(20,6602). item(20,35). item(20,33). size(20,2).
+pattern(21). support(21,6272). item(21,35). item(21,87). item(21,84). item(21,80). size(21,4).
+pattern(22). support(22,6272). item(22,35). item(22,87). item(22,84). size(22,3).
+pattern(23). support(23,6272). item(23,35). item(23,87). item(23,33). item(23,80). item(23,84). size(23,5).
+pattern(24). support(24,6272). item(24,35). item(24,87). item(24,33). item(24,80). size(24,4).
+pattern(25). support(25,6272). item(25,35). item(25,87). item(25,33). item(25,84). size(25,4).
+pattern(26). support(26,6272). item(26,35). item(26,87). item(26,33). size(26,3).
+pattern(27). support(27,6464). item(27,35). item(27,87). item(27,80). size(27,3).
+pattern(28). support(28,6464). item(28,35). item(28,87). size(28,2).
+pattern(29). support(29,6812). item(29,35). item(29,80). size(29,2).
+pattern(30). support(30,6812). item(30,35). size(30,1).
+pattern(31). support(31,5420). item(31,38). item(31,84). item(31,80). size(31,3).
+pattern(32). support(32,5420). item(32,38). item(32,84). size(32,2).
+pattern(33). support(33,5402). item(33,38). item(33,33). item(33,80). item(33,84). size(33,4).
+pattern(34). support(34,5402). item(34,38). item(34,33). item(34,80). size(34,3).
+pattern(35). support(35,5402). item(35,38). item(35,33). item(35,84). size(35,3).
+pattern(36). support(36,5402). item(36,38). item(36,33). size(36,2).
+pattern(37). support(37,4784). item(37,38). item(37,87). item(37,84). item(37,80). size(37,4).
+pattern(38). support(38,4784). item(38,38). item(38,87). item(38,84). size(38,3).
+pattern(39). support(39,4784). item(39,38). item(39,87). item(39,33). item(39,80). item(39,84). size(39,5).
+pattern(40). support(40,4784). item(40,38). item(40,87). item(40,33). item(40,80). size(40,4).
+pattern(41). support(41,4784). item(41,38). item(41,87). item(41,33). item(41,84). size(41,4).
+pattern(42). support(42,4784). item(42,38). item(42,87). item(42,33). size(42,3).
+pattern(43). support(43,4976). item(43,38). item(43,87). item(43,80). size(43,3).
+pattern(44). support(44,4976). item(44,38). item(44,87). size(44,2).
+pattern(45). support(45,4364). item(45,38). item(45,35). item(45,84). item(45,80). size(45,4).
+pattern(46). support(46,4364). item(46,38). item(46,35). item(46,84). size(46,3).
+pattern(47). support(47,4346). item(47,38). item(47,35). item(47,33). item(47,80). item(47,84). size(47,5).
+pattern(48). support(48,4346). item(48,38). item(48,35). item(48,33). item(48,80). size(48,4).
+pattern(49). support(49,4346). item(49,38). item(49,35). item(49,33). item(49,84). size(49,4).
+pattern(50). support(50,4346). item(50,38). item(50,35). item(50,33). size(50,3).
+pattern(51). support(51,4016). item(51,38). item(51,35). item(51,87). item(51,84). item(51,80). size(51,5).
+pattern(52). support(52,4016). item(52,38). item(52,35). item(52,87). item(52,84). size(52,4).
+pattern(53). support(53,4016). item(53,38). item(53,35). item(53,87). item(53,33). item(53,80). item(53,84). size(53,6).
+pattern(54). support(54,4016). item(54,38). item(54,35). item(54,87). item(54,33). item(54,80). size(54,5).
+pattern(55). support(55,4016). item(55,38). item(55,35). item(55,87). item(55,33). item(55,84). size(55,5).
+pattern(56). support(56,4016). item(56,38). item(56,35). item(56,87). item(56,33). size(56,4).
+pattern(57). support(57,4208). item(57,38). item(57,35). item(57,87). item(57,80). size(57,4).
+pattern(58). support(58,4208). item(58,38). item(58,35). item(58,87). size(58,3).
+pattern(59). support(59,4556). item(59,38). item(59,35). item(59,80). size(59,3).
+pattern(60). support(60,4556). item(60,38). item(60,35). size(60,2).
+pattern(61). support(61,5612). item(61,38). item(61,80). size(61,2).
+pattern(62). support(62,5612). item(62,38). size(62,1).
+pattern(63). support(63,4984). item(63,56). item(63,84). item(63,80). size(63,3).
+pattern(64). support(64,4984). item(64,56). item(64,84). size(64,2).
+pattern(65). support(65,4984). item(65,56). item(65,33). item(65,80). item(65,84). size(65,4).
+pattern(66). support(66,4984). item(66,56). item(66,33). item(66,80). size(66,3).
+pattern(67). support(67,4984). item(67,56). item(67,33). item(67,84). size(67,3).
+pattern(68). support(68,4984). item(68,56). item(68,33). size(68,2).
+pattern(69). support(69,4544). item(69,56). item(69,87). item(69,84). item(69,80). size(69,4).
+pattern(70). support(70,4544). item(70,56). item(70,87). item(70,84). size(70,3).
+pattern(71). support(71,4544). item(71,56). item(71,87). item(71,33). item(71,80). item(71,84). size(71,5).
+pattern(72). support(72,4544). item(72,56). item(72,87). item(72,33). item(72,80). size(72,4).
+pattern(73). support(73,4544). item(73,56). item(73,87). item(73,33). item(73,84). size(73,4).
+pattern(74). support(74,4544). item(74,56). item(74,87). item(74,33). size(74,3).
+pattern(75). support(75,4736). item(75,56). item(75,87). item(75,80). size(75,3).
+pattern(76). support(76,4736). item(76,56). item(76,87). size(76,2).
+pattern(77). support(77,4232). item(77,56). item(77,35). item(77,84). item(77,80). size(77,4).
+pattern(78). support(78,4232). item(78,56). item(78,35). item(78,84). size(78,3).
+pattern(79). support(79,4232). item(79,56). item(79,35). item(79,33). item(79,80). item(79,84). size(79,5).
+pattern(80). support(80,4232). item(80,56). item(80,35). item(80,33). item(80,80). size(80,4).
+pattern(81). support(81,4232). item(81,56). item(81,35). item(81,33). item(81,84). size(81,4).
+pattern(82). support(82,4232). item(82,56). item(82,35). item(82,33). size(82,3).
+pattern(83). support(83,3936). item(83,56). item(83,35). item(83,87). item(83,84). item(83,80). size(83,5).
+pattern(84). support(84,3936). item(84,56). item(84,35). item(84,87). item(84,84). size(84,4).
+pattern(85). support(85,3936). item(85,56). item(85,35). item(85,87). item(85,33). item(85,80). item(85,84). size(85,6).
+pattern(86). support(86,3936). item(86,56). item(86,35). item(86,87). item(86,33). item(86,80). size(86,5).
+pattern(87). support(87,3936). item(87,56). item(87,35). item(87,87). item(87,33). item(87,84). size(87,5).
+pattern(88). support(88,3936). item(88,56). item(88,35). item(88,87). item(88,33). size(88,4).
+pattern(89). support(89,4128). item(89,56). item(89,35). item(89,87). item(89,80). size(89,4).
+pattern(90). support(90,4128). item(90,56). item(90,35). item(90,87). size(90,3).
+pattern(91). support(91,4424). item(91,56). item(91,35). item(91,80). size(91,3).
+pattern(92). support(92,4424). item(92,56). item(92,35). size(92,2).
+pattern(93). support(93,3400). item(93,56). item(93,38). item(93,84). item(93,80). size(93,4).
+pattern(94). support(94,3400). item(94,56). item(94,38). item(94,84). size(94,3).
+pattern(95). support(95,3400). item(95,56). item(95,38). item(95,33). item(95,80). item(95,84). size(95,5).
+pattern(96). support(96,3400). item(96,56). item(96,38). item(96,33). item(96,80). size(96,4).
+pattern(97). support(97,3400). item(97,56). item(97,38). item(97,33). item(97,84). size(97,4).
+pattern(98). support(98,3400). item(98,56). item(98,38). item(98,33). size(98,3).
+pattern(99). support(99,2960). item(99,56). item(99,38). item(99,87). item(99,84). item(99,80). size(99,5).
+pattern(100). support(100,2960). item(100,56). item(100,38). item(100,87). item(100,84). size(100,4).
+pattern(101). support(101,2960). item(101,56). item(101,38). item(101,87). item(101,33). item(101,80). item(101,84). size(101,6).
+pattern(102). support(102,2960). item(102,56). item(102,38). item(102,87). item(102,33). item(102,80). size(102,5).
+pattern(103). support(103,2960). item(103,56). item(103,38). item(103,87). item(103,33). item(103,84). size(103,5).
+pattern(104). support(104,2960). item(104,56). item(104,38). item(104,87). item(104,33). size(104,4).
+pattern(105). support(105,3152). item(105,56). item(105,38). item(105,87). item(105,80). size(105,4).
+pattern(106). support(106,3152). item(106,56). item(106,38). item(106,87). size(106,3).
+pattern(107). support(107,2872). item(107,56). item(107,38). item(107,35). item(107,84). item(107,80). size(107,5).
+pattern(108). support(108,2872). item(108,56). item(108,38). item(108,35). item(108,84). size(108,4).
+pattern(109). support(109,2872). item(109,56). item(109,38). item(109,35). item(109,33). item(109,80). item(109,84). size(109,6).
+pattern(110). support(110,2872). item(110,56). item(110,38). item(110,35). item(110,33). item(110,80). size(110,5).
+pattern(111). support(111,2872). item(111,56). item(111,38). item(111,35). item(111,33). item(111,84). size(111,5).
+pattern(112). support(112,2872). item(112,56). item(112,38). item(112,35). item(112,33). size(112,4).
+pattern(113). support(113,2576). item(113,56). item(113,38). item(113,35). item(113,87). item(113,84). item(113,80). size(113,6).
+pattern(114). support(114,2576). item(114,56). item(114,38). item(114,35). item(114,87). item(114,84). size(114,5).
+pattern(115). support(115,2576). item(115,56). item(115,38). item(115,35). item(115,87). item(115,33). item(115,80). item(115,84). size(115,7).
+pattern(116). support(116,2576). item(116,56). item(116,38). item(116,35). item(116,87). item(116,33). item(116,80). size(116,6).
+pattern(117). support(117,2576). item(117,56). item(117,38). item(117,35). item(117,87). item(117,33). item(117,84). size(117,6).
+pattern(118). support(118,2576). item(118,56). item(118,38). item(118,35). item(118,87). item(118,33). size(118,5).
+pattern(119). support(119,2768). item(119,56). item(119,38). item(119,35). item(119,87). item(119,80). size(119,5).
+pattern(120). support(120,2768). item(120,56). item(120,38). item(120,35). item(120,87). size(120,4).
+pattern(121). support(121,3064). item(121,56). item(121,38). item(121,35). item(121,80). size(121,4).
+pattern(122). support(122,3064). item(122,56). item(122,38). item(122,35). size(122,3).
+pattern(123). support(123,3592). item(123,56). item(123,38). item(123,80). size(123,3).
+pattern(124). support(124,3592). item(124,56). item(124,38). size(124,2).
+pattern(125). support(125,5176). item(125,56). item(125,80). size(125,2).
+pattern(126). support(126,5176). item(126,56). size(126,1).
+pattern(127). support(127,4744). item(127,60). item(127,84). item(127,80). size(127,3).
+pattern(128). support(128,4744). item(128,60). item(128,84). size(128,2).
+pattern(129). support(129,4744). item(129,60). item(129,33). item(129,80). item(129,84). size(129,4).
+pattern(130). support(130,4744). item(130,60). item(130,33). item(130,80). size(130,3).
+pattern(131). support(131,4744). item(131,60). item(131,33). item(131,84). size(131,3).
+pattern(132). support(132,4744). item(132,60). item(132,33). size(132,2).
+pattern(133). support(133,4304). item(133,60). item(133,87). item(133,84). item(133,80). size(133,4).
+pattern(134). support(134,4304). item(134,60). item(134,87). item(134,84). size(134,3).
+pattern(135). support(135,4304). item(135,60). item(135,87). item(135,33). item(135,80). item(135,84). size(135,5).
+pattern(136). support(136,4304). item(136,60). item(136,87). item(136,33). item(136,80). size(136,4).
+pattern(137). support(137,4304). item(137,60). item(137,87). item(137,33). item(137,84). size(137,4).
+pattern(138). support(138,4304). item(138,60). item(138,87). item(138,33). size(138,3).
+pattern(139). support(139,4496). item(139,60). item(139,87). item(139,80). size(139,3).
+pattern(140). support(140,4496). item(140,60). item(140,87). size(140,2).
+pattern(141). support(141,3992). item(141,60). item(141,35). item(141,84). item(141,80). size(141,4).
+pattern(142). support(142,3992). item(142,60). item(142,35). item(142,84). size(142,3).
+pattern(143). support(143,3992). item(143,60). item(143,35). item(143,33). item(143,80). item(143,84). size(143,5).
+pattern(144). support(144,3992). item(144,60). item(144,35). item(144,33). item(144,80). size(144,4).
+pattern(145). support(145,3992). item(145,60). item(145,35). item(145,33). item(145,84). size(145,4).
+pattern(146). support(146,3992). item(146,60). item(146,35). item(146,33). size(146,3).
+pattern(147). support(147,3696). item(147,60). item(147,35). item(147,87). item(147,84). item(147,80). size(147,5).
+pattern(148). support(148,3696). item(148,60). item(148,35). item(148,87). item(148,84). size(148,4).
+pattern(149). support(149,3696). item(149,60). item(149,35). item(149,87). item(149,33). item(149,80). item(149,84). size(149,6).
+pattern(150). support(150,3696). item(150,60). item(150,35). item(150,87). item(150,33). item(150,80). size(150,5).
+pattern(151). support(151,3696). item(151,60). item(151,35). item(151,87). item(151,33). item(151,84). size(151,5).
+pattern(152). support(152,3696). item(152,60). item(152,35). item(152,87). item(152,33). size(152,4).
+pattern(153). support(153,3888). item(153,60). item(153,35). item(153,87). item(153,80). size(153,4).
+pattern(154). support(154,3888). item(154,60). item(154,35). item(154,87). size(154,3).
+pattern(155). support(155,4184). item(155,60). item(155,35). item(155,80). size(155,3).
+pattern(156). support(156,4184). item(156,60). item(156,35). size(156,2).
+pattern(157). support(157,3208). item(157,60). item(157,38). item(157,84). item(157,80). size(157,4).
+pattern(158). support(158,3208). item(158,60). item(158,38). item(158,84). size(158,3).
+pattern(159). support(159,3208). item(159,60). item(159,38). item(159,33). item(159,80). item(159,84). size(159,5).
+pattern(160). support(160,3208). item(160,60). item(160,38). item(160,33). item(160,80). size(160,4).
+pattern(161). support(161,3208). item(161,60). item(161,38). item(161,33). item(161,84). size(161,4).
+pattern(162). support(162,3208). item(162,60). item(162,38). item(162,33). size(162,3).
+pattern(163). support(163,2768). item(163,60). item(163,38). item(163,87). item(163,84). item(163,80). size(163,5).
+pattern(164). support(164,2768). item(164,60). item(164,38). item(164,87). item(164,84). size(164,4).
+pattern(165). support(165,2768). item(165,60). item(165,38). item(165,87). item(165,33). item(165,80). item(165,84). size(165,6).
+pattern(166). support(166,2768). item(166,60). item(166,38). item(166,87). item(166,33). item(166,80). size(166,5).
+pattern(167). support(167,2768). item(167,60). item(167,38). item(167,87). item(167,33). item(167,84). size(167,5).
+pattern(168). support(168,2768). item(168,60). item(168,38). item(168,87). item(168,33). size(168,4).
+pattern(169). support(169,2960). item(169,60). item(169,38). item(169,87). item(169,80). size(169,4).
+pattern(170). support(170,2960). item(170,60). item(170,38). item(170,87). size(170,3).
+pattern(171). support(171,2680). item(171,60). item(171,38). item(171,35). item(171,84). item(171,80). size(171,5).
+pattern(172). support(172,2680). item(172,60). item(172,38). item(172,35). item(172,84). size(172,4).
+pattern(173). support(173,2680). item(173,60). item(173,38). item(173,35). item(173,33). item(173,80). item(173,84). size(173,6).
+pattern(174). support(174,2680). item(174,60). item(174,38). item(174,35). item(174,33). item(174,80). size(174,5).
+pattern(175). support(175,2680). item(175,60). item(175,38). item(175,35). item(175,33). item(175,84). size(175,5).
+pattern(176). support(176,2680). item(176,60). item(176,38). item(176,35). item(176,33). size(176,4).
+pattern(177). support(177,2576). item(177,60). item(177,38). item(177,35). item(177,87). item(177,80). size(177,5).
+pattern(178). support(178,2576). item(178,60). item(178,38). item(178,35). item(178,87). size(178,4).
+pattern(179). support(179,2872). item(179,60). item(179,38). item(179,35). item(179,80). size(179,4).
+pattern(180). support(180,2872). item(180,60). item(180,38). item(180,35). size(180,3).
+pattern(181). support(181,3400). item(181,60). item(181,38). item(181,80). size(181,3).
+pattern(182). support(182,3400). item(182,60). item(182,38). size(182,2).
+pattern(183). support(183,3964). item(183,60). item(183,56). item(183,84). item(183,80). size(183,4).
+pattern(184). support(184,3964). item(184,60). item(184,56). item(184,84). size(184,3).
+pattern(185). support(185,3964). item(185,60). item(185,56). item(185,33). item(185,80). item(185,84). size(185,5).
+pattern(186). support(186,3964). item(186,60). item(186,56). item(186,33). item(186,80). size(186,4).
+pattern(187). support(187,3964). item(187,60). item(187,56). item(187,33). item(187,84). size(187,4).
+pattern(188). support(188,3964). item(188,60). item(188,56). item(188,33). size(188,3).
+pattern(189). support(189,3596). item(189,60). item(189,56). item(189,87). item(189,84). item(189,80). size(189,5).
+pattern(190). support(190,3596). item(190,60). item(190,56). item(190,87). item(190,84). size(190,4).
+pattern(191). support(191,3596). item(191,60). item(191,56). item(191,87). item(191,33). item(191,80). item(191,84). size(191,6).
+pattern(192). support(192,3596). item(192,60). item(192,56). item(192,87). item(192,33). item(192,80). size(192,5).
+pattern(193). support(193,3596). item(193,60). item(193,56). item(193,87). item(193,33). item(193,84). size(193,5).
+pattern(194). support(194,3596). item(194,60). item(194,56). item(194,87). item(194,33). size(194,4).
+pattern(195). support(195,3788). item(195,60). item(195,56). item(195,87). item(195,80). size(195,4).
+pattern(196). support(196,3788). item(196,60). item(196,56). item(196,87). size(196,3).
+pattern(197). support(197,3488). item(197,60). item(197,56). item(197,35). item(197,84). item(197,80). size(197,5).
+pattern(198). support(198,3488). item(198,60). item(198,56). item(198,35). item(198,84). size(198,4).
+pattern(199). support(199,3488). item(199,60). item(199,56). item(199,35). item(199,33). item(199,80). item(199,84). size(199,6).
+pattern(200). support(200,3488). item(200,60). item(200,56). item(200,35). item(200,33). item(200,80). size(200,5).
+pattern(201). support(201,3488). item(201,60). item(201,56). item(201,35). item(201,33). item(201,84). size(201,5).
+pattern(202). support(202,3488). item(202,60). item(202,56). item(202,35). item(202,33). size(202,4).
+pattern(203). support(203,3192). item(203,60). item(203,56). item(203,35). item(203,87). item(203,84). item(203,80). size(203,6).
+pattern(204). support(204,3192). item(204,60). item(204,56). item(204,35). item(204,87). item(204,84). size(204,5).
+pattern(205). support(205,3192). item(205,60). item(205,56). item(205,35). item(205,87). item(205,33). item(205,80). item(205,84). size(205,7).
+pattern(206). support(206,3192). item(206,60). item(206,56). item(206,35). item(206,87). item(206,33). item(206,80). size(206,6).
+pattern(207). support(207,3192). item(207,60). item(207,56). item(207,35). item(207,87). item(207,33). item(207,84). size(207,6).
+pattern(208). support(208,3192). item(208,60). item(208,56). item(208,35). item(208,87). item(208,33). size(208,5).
+pattern(209). support(209,3384). item(209,60). item(209,56). item(209,35). item(209,87). item(209,80). size(209,5).
+pattern(210). support(210,3384). item(210,60). item(210,56). item(210,35). item(210,87). size(210,4).
+pattern(211). support(211,3680). item(211,60). item(211,56). item(211,35). item(211,80). size(211,4).
+pattern(212). support(212,3680). item(212,60). item(212,56). item(212,35). size(212,3).
+pattern(213). support(213,2872). item(213,60). item(213,56). item(213,38). item(213,84). item(213,80). size(213,5).
+pattern(214). support(214,2872). item(214,60). item(214,56). item(214,38). item(214,84). size(214,4).
+pattern(215). support(215,2872). item(215,60). item(215,56). item(215,38). item(215,33). item(215,80). item(215,84). size(215,6).
+pattern(216). support(216,2872). item(216,60). item(216,56). item(216,38). item(216,33). item(216,80). size(216,5).
+pattern(217). support(217,2872). item(217,60). item(217,56). item(217,38). item(217,33). item(217,84). size(217,5).
+pattern(218). support(218,2872). item(218,60). item(218,56). item(218,38). item(218,33). size(218,4).
+pattern(219). support(219,2504). item(219,60). item(219,56). item(219,38). item(219,87). item(219,84). item(219,80). size(219,6).
+pattern(220). support(220,2504). item(220,60). item(220,56). item(220,38). item(220,87). item(220,84). size(220,5).
+pattern(221). support(221,2504). item(221,60). item(221,56). item(221,38). item(221,87). item(221,33). item(221,80). item(221,84). size(221,7).
+pattern(222). support(222,2504). item(222,60). item(222,56). item(222,38). item(222,87). item(222,33). item(222,80). size(222,6).
+pattern(223). support(223,2504). item(223,60). item(223,56). item(223,38). item(223,87). item(223,33). item(223,84). size(223,6).
+pattern(224). support(224,2504). item(224,60). item(224,56). item(224,38). item(224,87). item(224,33). size(224,5).
+pattern(225). support(225,2696). item(225,60). item(225,56). item(225,38). item(225,87). item(225,80). size(225,5).
+pattern(226). support(226,2696). item(226,60). item(226,56). item(226,38). item(226,87). size(226,4).
+pattern(227). support(227,2608). item(227,60). item(227,56). item(227,38). item(227,35). item(227,84). item(227,80). size(227,6).
+pattern(228). support(228,2608). item(228,60). item(228,56). item(228,38). item(228,35). item(228,84). size(228,5).
+pattern(229). support(229,2608). item(229,60). item(229,56). item(229,38). item(229,35). item(229,33). item(229,80). item(229,84). size(229,7).
+pattern(230). support(230,2608). item(230,60). item(230,56). item(230,38). item(230,35). item(230,33). item(230,80). size(230,6).
+pattern(231). support(231,2608). item(231,60). item(231,56). item(231,38). item(231,35). item(231,33). item(231,84). size(231,6).
+pattern(232). support(232,2608). item(232,60). item(232,56). item(232,38). item(232,35). item(232,33). size(232,5).
+pattern(233). support(233,2504). item(233,60). item(233,56). item(233,38). item(233,35). item(233,87). item(233,80). size(233,6).
+pattern(234). support(234,2504). item(234,60). item(234,56). item(234,38). item(234,35). item(234,87). size(234,5).
+pattern(235). support(235,2800). item(235,60). item(235,56). item(235,38). item(235,35). item(235,80). size(235,5).
+pattern(236). support(236,2800). item(236,60). item(236,56). item(236,38). item(236,35). size(236,4).
+pattern(237). support(237,3064). item(237,60). item(237,56). item(237,38). item(237,80). size(237,4).
+pattern(238). support(238,3064). item(238,60). item(238,56). item(238,38). size(238,3).
+pattern(239). support(239,4156). item(239,60). item(239,56). item(239,80). size(239,3).
+pattern(240). support(240,4156). item(240,60). item(240,56). size(240,2).
+pattern(241). support(241,4936). item(241,60). item(241,80). size(241,2).
+pattern(242). support(242,4936). item(242,60). size(242,1).
+pattern(243). support(243,4548). item(243,20). item(243,84). item(243,80). size(243,3).
+pattern(244). support(244,4548). item(244,20). item(244,84). size(244,2).
+pattern(245). support(245,4530). item(245,20). item(245,33). item(245,84). item(245,80). size(245,4).
+pattern(246). support(246,4530). item(246,20). item(246,33). item(246,84). size(246,3).
+pattern(247). support(247,4538). item(247,20). item(247,33). item(247,80). size(247,3).
+pattern(248). support(248,4538). item(248,20). item(248,33). size(248,2).
+pattern(249). support(249,4208). item(249,20). item(249,87). item(249,84). item(249,80). size(249,4).
+pattern(250). support(250,4208). item(250,20). item(250,87). item(250,84). size(250,3).
+pattern(251). support(251,4208). item(251,20). item(251,87). item(251,33). item(251,84). item(251,80). size(251,5).
+pattern(252). support(252,4208). item(252,20). item(252,87). item(252,33). item(252,84). size(252,4).
+pattern(253). support(253,4216). item(253,20). item(253,87). item(253,33). item(253,80). size(253,4).
+pattern(254). support(254,4216). item(254,20). item(254,87). item(254,33). size(254,3).
+pattern(255). support(255,4408). item(255,20). item(255,87). item(255,80). size(255,3).
+pattern(256). support(256,4408). item(256,20). item(256,87). size(256,2).
+pattern(257). support(257,3348). item(257,20). item(257,35). item(257,84). item(257,80). size(257,4).
+pattern(258). support(258,3348). item(258,20). item(258,35). item(258,84). size(258,3).
+pattern(259). support(259,3330). item(259,20). item(259,35). item(259,33). item(259,80). item(259,84). size(259,5).
+pattern(260). support(260,3330). item(260,20). item(260,35). item(260,33). item(260,80). size(260,4).
+pattern(261). support(261,3330). item(261,20). item(261,35). item(261,33). item(261,84). size(261,4).
+pattern(262). support(262,3330). item(262,20). item(262,35). item(262,33). size(262,3).
+pattern(263). support(263,3296). item(263,20). item(263,35). item(263,87). item(263,84). item(263,80). size(263,5).
+pattern(264). support(264,3296). item(264,20). item(264,35). item(264,87). item(264,84). size(264,4).
+pattern(265). support(265,3296). item(265,20). item(265,35). item(265,87). item(265,33). item(265,80). item(265,84). size(265,6).
+pattern(266). support(266,3296). item(266,20). item(266,35). item(266,87). item(266,33). item(266,80). size(266,5).
+pattern(267). support(267,3296). item(267,20). item(267,35). item(267,87). item(267,33). item(267,84). size(267,5).
+pattern(268). support(268,3296). item(268,20). item(268,35). item(268,87). item(268,33). size(268,4).
+pattern(269). support(269,3488). item(269,20). item(269,35). item(269,87). item(269,80). size(269,4).
+pattern(270). support(270,3488). item(270,20). item(270,35). item(270,87). size(270,3).
+pattern(271). support(271,3540). item(271,20). item(271,35). item(271,80). size(271,3).
+pattern(272). support(272,3540). item(272,20). item(272,35). size(272,2).
+pattern(273). support(273,2596). item(273,20). item(273,38). item(273,80). size(273,3).
+pattern(274). support(274,2596). item(274,20). item(274,38). size(274,2).
+pattern(275). support(275,4748). item(275,20). item(275,80). size(275,2).
+pattern(276). support(276,4748). item(276,20). size(276,1).
+pattern(277). support(277,3744). item(277,53). item(277,35). item(277,80). item(277,87). item(277,33). item(277,84). size(277,6).
+pattern(278). support(278,3744). item(278,53). item(278,35). item(278,80). item(278,87). item(278,33). size(278,5).
+pattern(279). support(279,3744). item(279,53). item(279,35). item(279,80). item(279,87). item(279,84). size(279,5).
+pattern(280). support(280,3744). item(280,53). item(280,35). item(280,80). item(280,87). size(280,4).
+pattern(281). support(281,3744). item(281,53). item(281,35). item(281,80). item(281,33). item(281,84). size(281,5).
+pattern(282). support(282,3744). item(282,53). item(282,35). item(282,80). item(282,33). size(282,4).
+pattern(283). support(283,3744). item(283,53). item(283,35). item(283,80). item(283,84). size(283,4).
+pattern(284). support(284,3744). item(284,53). item(284,35). item(284,80). size(284,3).
+pattern(285). support(285,3744). item(285,53). item(285,35). item(285,87). item(285,33). item(285,84). size(285,5).
+pattern(286). support(286,3744). item(286,53). item(286,35). item(286,87). item(286,33). size(286,4).
+pattern(287). support(287,3744). item(287,53). item(287,35). item(287,87). item(287,84). size(287,4).
+pattern(288). support(288,3744). item(288,53). item(288,35). item(288,87). size(288,3).
+pattern(289). support(289,3744). item(289,53). item(289,35). item(289,33). item(289,84). size(289,4).
+pattern(290). support(290,3744). item(290,53). item(290,35). item(290,33). size(290,3).
+pattern(291). support(291,3744). item(291,53). item(291,35). item(291,84). size(291,3).
+pattern(292). support(292,3744). item(292,53). item(292,35). size(292,2).
+pattern(293). support(293,2784). item(293,53). item(293,38). item(293,80). item(293,87). item(293,33). item(293,84). size(293,6).
+pattern(294). support(294,2784). item(294,53). item(294,38). item(294,80). item(294,87). item(294,33). size(294,5).
+pattern(295). support(295,2784). item(295,53). item(295,38). item(295,80). item(295,87). item(295,84). size(295,5).
+pattern(296). support(296,2784). item(296,53). item(296,38). item(296,80). item(296,87). size(296,4).
+pattern(297). support(297,2784). item(297,53). item(297,38). item(297,80). item(297,33). item(297,84). size(297,5).
+pattern(298). support(298,2784). item(298,53). item(298,38). item(298,80). item(298,33). size(298,4).
+pattern(299). support(299,2784). item(299,53). item(299,38). item(299,80). item(299,84). size(299,4).
+pattern(300). support(300,2784). item(300,53). item(300,38). item(300,80). size(300,3).
+pattern(301). support(301,2784). item(301,53). item(301,38). item(301,87). item(301,33). item(301,84). size(301,5).
+pattern(302). support(302,2784). item(302,53). item(302,38). item(302,87). item(302,33). size(302,4).
+pattern(303). support(303,2784). item(303,53). item(303,38). item(303,87). item(303,84). size(303,4).
+pattern(304). support(304,2784). item(304,53). item(304,38). item(304,87). size(304,3).
+pattern(305). support(305,2784). item(305,53). item(305,38). item(305,33). item(305,84). size(305,4).
+pattern(306). support(306,2784). item(306,53). item(306,38). item(306,33). size(306,3).
+pattern(307). support(307,2784). item(307,53). item(307,38). item(307,84). size(307,3).
+pattern(308). support(308,2784). item(308,53). item(308,38). size(308,2).
+pattern(309). support(309,2736). item(309,53). item(309,56). item(309,35). item(309,80). item(309,87). item(309,33). item(309,84). size(309,7).
+pattern(310). support(310,2736). item(310,53). item(310,56). item(310,35). item(310,80). item(310,87). item(310,33). size(310,6).
+pattern(311). support(311,2736). item(311,53). item(311,56). item(311,35). item(311,80). item(311,87). item(311,84). size(311,6).
+pattern(312). support(312,2736). item(312,53). item(312,56). item(312,35). item(312,80). item(312,87). size(312,5).
+pattern(313). support(313,2736). item(313,53). item(313,56). item(313,35). item(313,80). item(313,33). item(313,84). size(313,6).
+pattern(314). support(314,2736). item(314,53). item(314,56). item(314,35). item(314,80). item(314,33). size(314,5).
+pattern(315). support(315,2736). item(315,53). item(315,56). item(315,35). item(315,80). item(315,84). size(315,5).
+pattern(316). support(316,2736). item(316,53). item(316,56). item(316,35). item(316,80). size(316,4).
+pattern(317). support(317,2736). item(317,53). item(317,56). item(317,35). item(317,87). item(317,33). item(317,84). size(317,6).
+pattern(318). support(318,2736). item(318,53). item(318,56). item(318,35). item(318,87). item(318,33). size(318,5).
+pattern(319). support(319,2736). item(319,53). item(319,56). item(319,35). item(319,87). item(319,84). size(319,5).
+pattern(320). support(320,2736). item(320,53). item(320,56). item(320,35). item(320,87). size(320,4).
+pattern(321). support(321,2736). item(321,53). item(321,56). item(321,35). item(321,33). item(321,84). size(321,5).
+pattern(322). support(322,2736). item(322,53). item(322,56). item(322,35). item(322,33). size(322,4).
+pattern(323). support(323,2736). item(323,53). item(323,56). item(323,35). item(323,84). size(323,4).
+pattern(324). support(324,2736). item(324,53). item(324,56). item(324,35). size(324,3).
+pattern(325). support(325,3216). item(325,53). item(325,56). item(325,80). item(325,87). item(325,33). item(325,84). size(325,6).
+pattern(326). support(326,3216). item(326,53). item(326,56). item(326,80). item(326,87). item(326,33). size(326,5).
+pattern(327). support(327,3216). item(327,53). item(327,56). item(327,80). item(327,87). item(327,84). size(327,5).
+pattern(328). support(328,3216). item(328,53). item(328,56). item(328,80). item(328,87). size(328,4).
+pattern(329). support(329,3216). item(329,53). item(329,56). item(329,80). item(329,33). item(329,84). size(329,5).
+pattern(330). support(330,3216). item(330,53). item(330,56). item(330,80). item(330,33). size(330,4).
+pattern(331). support(331,3216). item(331,53). item(331,56). item(331,80). item(331,84). size(331,4).
+pattern(332). support(332,3216). item(332,53). item(332,56). item(332,80). size(332,3).
+pattern(333). support(333,3216). item(333,53). item(333,56). item(333,87). item(333,33). item(333,84). size(333,5).
+pattern(334). support(334,3216). item(334,53). item(334,56). item(334,87). item(334,33). size(334,4).
+pattern(335). support(335,3216). item(335,53). item(335,56). item(335,87). item(335,84). size(335,4).
+pattern(336). support(336,3216). item(336,53). item(336,56). item(336,87). size(336,3).
+pattern(337). support(337,3216). item(337,53). item(337,56). item(337,33). item(337,84). size(337,4).
+pattern(338). support(338,3216). item(338,53). item(338,56). item(338,33). size(338,3).
+pattern(339). support(339,3216). item(339,53). item(339,56). item(339,84). size(339,3).
+pattern(340). support(340,3216). item(340,53). item(340,56). size(340,2).
+pattern(341). support(341,2736). item(341,53). item(341,60). item(341,35). item(341,80). item(341,87). item(341,33). item(341,84). size(341,7).
+pattern(342). support(342,2736). item(342,53). item(342,60). item(342,35). item(342,80). item(342,87). item(342,33). size(342,6).
+pattern(343). support(343,2736). item(343,53). item(343,60). item(343,35). item(343,80). item(343,87). item(343,84). size(343,6).
+pattern(344). support(344,2736). item(344,53). item(344,60). item(344,35). item(344,80). item(344,87). size(344,5).
+pattern(345). support(345,2736). item(345,53). item(345,60). item(345,35). item(345,80). item(345,33). item(345,84). size(345,6).
+pattern(346). support(346,2736). item(346,53). item(346,60). item(346,35). item(346,80). item(346,33). size(346,5).
+pattern(347). support(347,2736). item(347,53). item(347,60). item(347,35). item(347,80). item(347,84). size(347,5).
+pattern(348). support(348,2736). item(348,53). item(348,60). item(348,35). item(348,80). size(348,4).
+pattern(349). support(349,2736). item(349,53). item(349,60). item(349,35). item(349,87). item(349,33). item(349,84). size(349,6).
+pattern(350). support(350,2736). item(350,53). item(350,60). item(350,35). item(350,87). item(350,33). size(350,5).
+pattern(351). support(351,2736). item(351,53). item(351,60). item(351,35). item(351,87). item(351,84). size(351,5).
+pattern(352). support(352,2736). item(352,53). item(352,60). item(352,35). item(352,87). size(352,4).
+pattern(353). support(353,2736). item(353,53). item(353,60). item(353,35). item(353,33). item(353,84). size(353,5).
+pattern(354). support(354,2736). item(354,53). item(354,60). item(354,35). item(354,33). size(354,4).
+pattern(355). support(355,2736). item(355,53). item(355,60). item(355,35). item(355,84). size(355,4).
+pattern(356). support(356,2736). item(356,53). item(356,60). item(356,35). size(356,3).
+pattern(357). support(357,2520). item(357,53). item(357,60). item(357,56). item(357,80). item(357,87). item(357,33). item(357,84). size(357,7).
+pattern(358). support(358,2520). item(358,53). item(358,60). item(358,56). item(358,80). item(358,87). item(358,33). size(358,6).
+pattern(359). support(359,2520). item(359,53). item(359,60). item(359,56). item(359,80). item(359,87). item(359,84). size(359,6).
+pattern(360). support(360,2520). item(360,53). item(360,60). item(360,56). item(360,80). item(360,87). size(360,5).
+pattern(361). support(361,2520). item(361,53). item(361,60). item(361,56). item(361,80). item(361,33). item(361,84). size(361,6).
+pattern(362). support(362,2520). item(362,53). item(362,60). item(362,56). item(362,80). item(362,33). size(362,5).
+pattern(363). support(363,2520). item(363,53). item(363,60). item(363,56). item(363,80). item(363,84). size(363,5).
+pattern(364). support(364,2520). item(364,53). item(364,60). item(364,56). item(364,80). size(364,4).
+pattern(365). support(365,2520). item(365,53). item(365,60). item(365,56). item(365,87). item(365,33). item(365,84). size(365,6).
+pattern(366). support(366,2520). item(366,53). item(366,60). item(366,56). item(366,87). item(366,33). size(366,5).
+pattern(367). support(367,2520). item(367,53). item(367,60). item(367,56). item(367,87). item(367,84). size(367,5).
+pattern(368). support(368,2520). item(368,53). item(368,60). item(368,56). item(368,87). size(368,4).
+pattern(369). support(369,2520). item(369,53). item(369,60). item(369,56). item(369,33). item(369,84). size(369,5).
+pattern(370). support(370,2520). item(370,53). item(370,60). item(370,56). item(370,33). size(370,4).
+pattern(371). support(371,2520). item(371,53). item(371,60). item(371,56). item(371,84). size(371,4).
+pattern(372). support(372,2520). item(372,53). item(372,60). item(372,56). size(372,3).
+pattern(373). support(373,3216). item(373,53). item(373,60). item(373,80). item(373,87). item(373,33). item(373,84). size(373,6).
+pattern(374). support(374,3216). item(374,53). item(374,60). item(374,80). item(374,87). item(374,33). size(374,5).
+pattern(375). support(375,3216). item(375,53). item(375,60). item(375,80). item(375,87). item(375,84). size(375,5).
+pattern(376). support(376,3216). item(376,53). item(376,60). item(376,80). item(376,87). size(376,4).
+pattern(377). support(377,3216). item(377,53). item(377,60). item(377,80). item(377,33). item(377,84). size(377,5).
+pattern(378). support(378,3216). item(378,53). item(378,60). item(378,80). item(378,33). size(378,4).
+pattern(379). support(379,3216). item(379,53). item(379,60). item(379,80). item(379,84). size(379,4).
+pattern(380). support(380,3216). item(380,53). item(380,60). item(380,80). size(380,3).
+pattern(381). support(381,3216). item(381,53). item(381,60). item(381,87). item(381,33). item(381,84). size(381,5).
+pattern(382). support(382,3216). item(382,53). item(382,60). item(382,87). item(382,33). size(382,4).
+pattern(383). support(383,3216). item(383,53). item(383,60). item(383,87). item(383,84). size(383,4).
+pattern(384). support(384,3216). item(384,53). item(384,60). item(384,87). size(384,3).
+pattern(385). support(385,3216). item(385,53). item(385,60). item(385,33). item(385,84). size(385,4).
+pattern(386). support(386,3216). item(386,53). item(386,60). item(386,33). size(386,3).
+pattern(387). support(387,3216). item(387,53). item(387,60). item(387,84). size(387,3).
+pattern(388). support(388,3216). item(388,53). item(388,60). size(388,2).
+pattern(389). support(389,2496). item(389,53). item(389,20). item(389,80). item(389,87). item(389,33). item(389,84). size(389,6).
+pattern(390). support(390,2496). item(390,53). item(390,20). item(390,80). item(390,87). item(390,33). size(390,5).
+pattern(391). support(391,2496). item(391,53). item(391,20). item(391,80). item(391,87). item(391,84). size(391,5).
+pattern(392). support(392,2496). item(392,53). item(392,20). item(392,80). item(392,87). size(392,4).
+pattern(393). support(393,2496). item(393,53). item(393,20). item(393,80). item(393,33). item(393,84). size(393,5).
+pattern(394). support(394,2496). item(394,53). item(394,20). item(394,80). item(394,33). size(394,4).
+pattern(395). support(395,2496). item(395,53). item(395,20). item(395,80). item(395,84). size(395,4).
+pattern(396). support(396,2496). item(396,53). item(396,20). item(396,80). size(396,3).
+pattern(397). support(397,2496). item(397,53). item(397,20). item(397,87). item(397,33). item(397,84). size(397,5).
+pattern(398). support(398,2496). item(398,53). item(398,20). item(398,87). item(398,33). size(398,4).
+pattern(399). support(399,2496). item(399,53). item(399,20). item(399,87). item(399,84). size(399,4).
+pattern(400). support(400,2496). item(400,53). item(400,20). item(400,87). size(400,3).
+pattern(401). support(401,2496). item(401,53). item(401,20). item(401,33). item(401,84). size(401,4).
+pattern(402). support(402,2496). item(402,53). item(402,20). item(402,33). size(402,3).
+pattern(403). support(403,2496). item(403,53). item(403,20). item(403,84). size(403,3).
+pattern(404). support(404,2496). item(404,53). item(404,20). size(404,2).
+pattern(405). support(405,4608). item(405,53). item(405,80). item(405,87). item(405,33). item(405,84). size(405,5).
+pattern(406). support(406,4608). item(406,53). item(406,80). item(406,87). item(406,33). size(406,4).
+pattern(407). support(407,4608). item(407,53). item(407,80). item(407,87). item(407,84). size(407,4).
+pattern(408). support(408,4608). item(408,53). item(408,80). item(408,87). size(408,3).
+pattern(409). support(409,4608). item(409,53). item(409,80). item(409,33). item(409,84). size(409,4).
+pattern(410). support(410,4608). item(410,53). item(410,80). item(410,33). size(410,3).
+pattern(411). support(411,4608). item(411,53). item(411,80). item(411,84). size(411,3).
+pattern(412). support(412,4608). item(412,53). item(412,80). size(412,2).
+pattern(413). support(413,4608). item(413,53). item(413,87). item(413,33). item(413,84). size(413,4).
+pattern(414). support(414,4608). item(414,53). item(414,87). item(414,33). size(414,3).
+pattern(415). support(415,4608). item(415,53). item(415,87). item(415,84). size(415,3).
+pattern(416). support(416,4608). item(416,53). item(416,87). size(416,2).
+pattern(417). support(417,4608). item(417,53). item(417,33). item(417,84). size(417,3).
+pattern(418). support(418,4608). item(418,53). item(418,33). size(418,2).
+pattern(419). support(419,4608). item(419,53). item(419,84). size(419,2).
+pattern(420). support(420,4608). item(420,53). size(420,1).
+pattern(421). support(421,3976). item(421,69). item(421,87). item(421,80). item(421,33). item(421,84). size(421,5).
+pattern(422). support(422,3976). item(422,69). item(422,87). item(422,80). item(422,33). size(422,4).
+pattern(423). support(423,3976). item(423,69). item(423,87). item(423,80). item(423,84). size(423,4).
+pattern(424). support(424,3976). item(424,69). item(424,87). item(424,80). size(424,3).
+pattern(425). support(425,3976). item(425,69). item(425,87). item(425,33). item(425,84). size(425,4).
+pattern(426). support(426,3976). item(426,69). item(426,87). item(426,33). size(426,3).
+pattern(427). support(427,3976). item(427,69). item(427,87). item(427,84). size(427,3).
+pattern(428). support(428,3976). item(428,69). item(428,87). size(428,2).
+pattern(429). support(429,2960). item(429,69). item(429,35). item(429,87). item(429,80). item(429,33). item(429,84). size(429,6).
+pattern(430). support(430,2960). item(430,69). item(430,35). item(430,87). item(430,80). item(430,33). size(430,5).
+pattern(431). support(431,2960). item(431,69). item(431,35). item(431,87). item(431,80). item(431,84). size(431,5).
+pattern(432). support(432,2960). item(432,69). item(432,35). item(432,87). item(432,80). size(432,4).
+pattern(433). support(433,2960). item(433,69). item(433,35). item(433,87). item(433,33). item(433,84). size(433,5).
+pattern(434). support(434,2960). item(434,69). item(434,35). item(434,87). item(434,33). size(434,4).
+pattern(435). support(435,2960). item(435,69). item(435,35). item(435,87). item(435,84). size(435,4).
+pattern(436). support(436,2960). item(436,69). item(436,35). item(436,87). size(436,3).
+pattern(437). support(437,3160). item(437,69). item(437,35). item(437,80). item(437,33). item(437,84). size(437,5).
+pattern(438). support(438,3160). item(438,69). item(438,35). item(438,80). item(438,33). size(438,4).
+pattern(439). support(439,3160). item(439,69). item(439,35). item(439,80). item(439,84). size(439,4).
+pattern(440). support(440,3160). item(440,69). item(440,35). item(440,80). size(440,3).
+pattern(441). support(441,3160). item(441,69). item(441,35). item(441,33). item(441,84). size(441,4).
+pattern(442). support(442,3160). item(442,69). item(442,35). item(442,33). size(442,3).
+pattern(443). support(443,3160). item(443,69). item(443,35). item(443,84). size(443,3).
+pattern(444). support(444,3160). item(444,69). item(444,35). size(444,2).
+pattern(445). support(445,2824). item(445,69). item(445,38). item(445,80). item(445,33). item(445,84). size(445,5).
+pattern(446). support(446,2824). item(446,69). item(446,38). item(446,80). item(446,33). size(446,4).
+pattern(447). support(447,2824). item(447,69). item(447,38). item(447,80). item(447,84). size(447,4).
+pattern(448). support(448,2824). item(448,69). item(448,38). item(448,80). size(448,3).
+pattern(449). support(449,2824). item(449,69). item(449,38). item(449,33). item(449,84). size(449,4).
+pattern(450). support(450,2824). item(450,69). item(450,38). item(450,33). size(450,3).
+pattern(451). support(451,2824). item(451,69). item(451,38). item(451,84). size(451,3).
+pattern(452). support(452,2824). item(452,69). item(452,38). size(452,2).
+pattern(453). support(453,2960). item(453,69). item(453,56). item(453,87). item(453,80). item(453,33). item(453,84). size(453,6).
+pattern(454). support(454,2960). item(454,69). item(454,56). item(454,87). item(454,80). item(454,33). size(454,5).
+pattern(455). support(455,2960). item(455,69). item(455,56). item(455,87). item(455,80). item(455,84). size(455,5).
+pattern(456). support(456,2960). item(456,69). item(456,56). item(456,87). item(456,80). size(456,4).
+pattern(457). support(457,2960). item(457,69). item(457,56). item(457,87). item(457,33). item(457,84). size(457,5).
+pattern(458). support(458,2960). item(458,69). item(458,56). item(458,87). item(458,33). size(458,4).
+pattern(459). support(459,2960). item(459,69). item(459,56). item(459,87). item(459,84). size(459,4).
+pattern(460). support(460,2960). item(460,69). item(460,56). item(460,87). size(460,3).
+pattern(461). support(461,2552). item(461,69). item(461,56). item(461,35). item(461,80). item(461,33). item(461,84). size(461,6).
+pattern(462). support(462,2552). item(462,69). item(462,56). item(462,35). item(462,80). item(462,33). size(462,5).
+pattern(463). support(463,2552). item(463,69). item(463,56). item(463,35). item(463,80). item(463,84). size(463,5).
+pattern(464). support(464,2552). item(464,69). item(464,56). item(464,35). item(464,80). size(464,4).
+pattern(465). support(465,2552). item(465,69). item(465,56). item(465,35). item(465,33). item(465,84). size(465,5).
+pattern(466). support(466,2552). item(466,69). item(466,56). item(466,35). item(466,33). size(466,4).
+pattern(467). support(467,2552). item(467,69). item(467,56). item(467,35). item(467,84). size(467,4).
+pattern(468). support(468,2552). item(468,69). item(468,56). item(468,35). size(468,3).
+pattern(469). support(469,3304). item(469,69). item(469,56). item(469,80). item(469,33). item(469,84). size(469,5).
+pattern(470). support(470,3304). item(470,69). item(470,56). item(470,80). item(470,33). size(470,4).
+pattern(471). support(471,3304). item(471,69). item(471,56). item(471,80). item(471,84). size(471,4).
+pattern(472). support(472,3304). item(472,69). item(472,56). item(472,80). size(472,3).
+pattern(473). support(473,3304). item(473,69). item(473,56). item(473,33). item(473,84). size(473,4).
+pattern(474). support(474,3304). item(474,69). item(474,56). item(474,33). size(474,3).
+pattern(475). support(475,3304). item(475,69). item(475,56). item(475,84). size(475,3).
+pattern(476). support(476,3304). item(476,69). item(476,56). size(476,2).
+pattern(477). support(477,2720). item(477,69). item(477,60). item(477,87). item(477,80). item(477,33). item(477,84). size(477,6).
+pattern(478). support(478,2720). item(478,69). item(478,60). item(478,87). item(478,80). item(478,33). size(478,5).
+pattern(479). support(479,2720). item(479,69). item(479,60). item(479,87). item(479,80). item(479,84). size(479,5).
+pattern(480). support(480,2720). item(480,69). item(480,60). item(480,87). item(480,80). size(480,4).
+pattern(481). support(481,2720). item(481,69). item(481,60). item(481,87). item(481,33). item(481,84). size(481,5).
+pattern(482). support(482,2720). item(482,69). item(482,60). item(482,87). item(482,33). size(482,4).
+pattern(483). support(483,2720). item(483,69). item(483,60). item(483,87). item(483,84). size(483,4).
+pattern(484). support(484,2720). item(484,69). item(484,60). item(484,87). size(484,3).
+pattern(485). support(485,2500). item(485,69). item(485,60). item(485,56). item(485,80). item(485,33). item(485,84). size(485,6).
+pattern(486). support(486,2500). item(486,69). item(486,60). item(486,56). item(486,80). item(486,33). size(486,5).
+pattern(487). support(487,2500). item(487,69). item(487,60). item(487,56). item(487,80). item(487,84). size(487,5).
+pattern(488). support(488,2500). item(488,69). item(488,60). item(488,56). item(488,80). size(488,4).
+pattern(489). support(489,2500). item(489,69). item(489,60). item(489,56). item(489,33). item(489,84). size(489,5).
+pattern(490). support(490,2500). item(490,69). item(490,60). item(490,56). item(490,33). size(490,4).
+pattern(491). support(491,2500). item(491,69). item(491,60). item(491,56). item(491,84). size(491,4).
+pattern(492). support(492,2500). item(492,69). item(492,60). item(492,56). size(492,3).
+pattern(493). support(493,3064). item(493,69). item(493,60). item(493,80). item(493,33). item(493,84). size(493,5).
+pattern(494). support(494,3064). item(494,69). item(494,60). item(494,80). item(494,33). size(494,4).
+pattern(495). support(495,3064). item(495,69). item(495,60). item(495,80). item(495,84). size(495,4).
+pattern(496). support(496,3064). item(496,69). item(496,60). item(496,80). size(496,3).
+pattern(497). support(497,3064). item(497,69). item(497,60). item(497,33). item(497,84). size(497,4).
+pattern(498). support(498,3064). item(498,69). item(498,60). item(498,33). size(498,3).
+pattern(499). support(499,3064). item(499,69). item(499,60). item(499,84). size(499,3).
+pattern(500). support(500,3064). item(500,69). item(500,60). size(500,2).
+pattern(501). support(501,2592). item(501,69). item(501,53). item(501,80). item(501,33). item(501,84). item(501,87). size(501,6).
+pattern(502). support(502,2592). item(502,69). item(502,53). item(502,80). item(502,33). item(502,84). size(502,5).
+pattern(503). support(503,2592). item(503,69). item(503,53). item(503,80). item(503,33). item(503,87). size(503,5).
+pattern(504). support(504,2592). item(504,69). item(504,53). item(504,80). item(504,33). size(504,4).
+pattern(505). support(505,2592). item(505,69). item(505,53). item(505,80). item(505,84). item(505,87). size(505,5).
+pattern(506). support(506,2592). item(506,69). item(506,53). item(506,80). item(506,84). size(506,4).
+pattern(507). support(507,2592). item(507,69). item(507,53). item(507,80). item(507,87). size(507,4).
+pattern(508). support(508,2592). item(508,69). item(508,53). item(508,80). size(508,3).
+pattern(509). support(509,2592). item(509,69). item(509,53). item(509,33). item(509,84). item(509,87). size(509,5).
+pattern(510). support(510,2592). item(510,69). item(510,53). item(510,33). item(510,84). size(510,4).
+pattern(511). support(511,2592). item(511,69). item(511,53). item(511,33). item(511,87). size(511,4).
+pattern(512). support(512,2592). item(512,69). item(512,53). item(512,33). size(512,3).
+pattern(513). support(513,2592). item(513,69). item(513,53). item(513,84). item(513,87). size(513,4).
+pattern(514). support(514,2592). item(514,69). item(514,53). item(514,84). size(514,3).
+pattern(515). support(515,2592). item(515,69). item(515,53). item(515,87). size(515,3).
+pattern(516). support(516,2592). item(516,69). item(516,53). size(516,2).
+pattern(517). support(517,4464). item(517,69). item(517,80). item(517,33). item(517,84). size(517,4).
+pattern(518). support(518,4464). item(518,69). item(518,80). item(518,33). size(518,3).
+pattern(519). support(519,4464). item(519,69). item(519,80). item(519,84). size(519,3).
+pattern(520). support(520,4464). item(520,69). item(520,80). size(520,2).
+pattern(521). support(521,4464). item(521,69). item(521,33). item(521,84). size(521,3).
+pattern(522). support(522,4464). item(522,69). item(522,33). size(522,2).
+pattern(523). support(523,4464). item(523,69). item(523,84). size(523,2).
+pattern(524). support(524,4464). item(524,69). size(524,1).
+pattern(525). support(525,3896). item(525,78). item(525,87). item(525,80). item(525,33). item(525,84). size(525,5).
+pattern(526). support(526,3896). item(526,78). item(526,87). item(526,80). item(526,33). size(526,4).
+pattern(527). support(527,3896). item(527,78). item(527,87). item(527,80). item(527,84). size(527,4).
+pattern(528). support(528,3896). item(528,78). item(528,87). item(528,80). size(528,3).
+pattern(529). support(529,3896). item(529,78). item(529,87). item(529,33). item(529,84). size(529,4).
+pattern(530). support(530,3896). item(530,78). item(530,87). item(530,33). size(530,3).
+pattern(531). support(531,3896). item(531,78). item(531,87). item(531,84). size(531,3).
+pattern(532). support(532,3896). item(532,78). item(532,87). size(532,2).
+pattern(533). support(533,2928). item(533,78). item(533,35). item(533,87). item(533,80). item(533,33). item(533,84). size(533,6).
+pattern(534). support(534,2928). item(534,78). item(534,35). item(534,87). item(534,80). item(534,33). size(534,5).
+pattern(535). support(535,2928). item(535,78). item(535,35). item(535,87). item(535,80). item(535,84). size(535,5).
+pattern(536). support(536,2928). item(536,78). item(536,35). item(536,87). item(536,80). size(536,4).
+pattern(537). support(537,2928). item(537,78). item(537,35). item(537,87). item(537,33). item(537,84). size(537,5).
+pattern(538). support(538,2928). item(538,78). item(538,35). item(538,87). item(538,33). size(538,4).
+pattern(539). support(539,2928). item(539,78). item(539,35). item(539,87). item(539,84). size(539,4).
+pattern(540). support(540,2928). item(540,78). item(540,35). item(540,87). size(540,3).
+pattern(541). support(541,3128). item(541,78). item(541,35). item(541,80). item(541,33). item(541,84). size(541,5).
+pattern(542). support(542,3128). item(542,78). item(542,35). item(542,80). item(542,33). size(542,4).
+pattern(543). support(543,3128). item(543,78). item(543,35). item(543,80). item(543,84). size(543,4).
+pattern(544). support(544,3128). item(544,78). item(544,35). item(544,80). size(544,3).
+pattern(545). support(545,3128). item(545,78). item(545,35). item(545,33). item(545,84). size(545,4).
+pattern(546). support(546,3128). item(546,78). item(546,35). item(546,33). size(546,3).
+pattern(547). support(547,3128). item(547,78). item(547,35). item(547,84). size(547,3).
+pattern(548). support(548,3128). item(548,78). item(548,35). size(548,2).
+pattern(549). support(549,2824). item(549,78). item(549,38). item(549,80). item(549,33). item(549,84). size(549,5).
+pattern(550). support(550,2824). item(550,78). item(550,38). item(550,80). item(550,33). size(550,4).
+pattern(551). support(551,2824). item(551,78). item(551,38). item(551,80). item(551,84). size(551,4).
+pattern(552). support(552,2824). item(552,78). item(552,38). item(552,80). size(552,3).
+pattern(553). support(553,2824). item(553,78). item(553,38). item(553,33). item(553,84). size(553,4).
+pattern(554). support(554,2824). item(554,78). item(554,38). item(554,33). size(554,3).
+pattern(555). support(555,2824). item(555,78). item(555,38). item(555,84). size(555,3).
+pattern(556). support(556,2824). item(556,78). item(556,38). size(556,2).
+pattern(557). support(557,2936). item(557,78). item(557,56). item(557,87). item(557,80). item(557,33). item(557,84). size(557,6).
+pattern(558). support(558,2936). item(558,78). item(558,56). item(558,87). item(558,80). item(558,33). size(558,5).
+pattern(559). support(559,2936). item(559,78). item(559,56). item(559,87). item(559,80). item(559,84). size(559,5).
+pattern(560). support(560,2936). item(560,78). item(560,56). item(560,87). item(560,80). size(560,4).
+pattern(561). support(561,2936). item(561,78). item(561,56). item(561,87). item(561,33). item(561,84). size(561,5).
+pattern(562). support(562,2936). item(562,78). item(562,56). item(562,87). item(562,33). size(562,4).
+pattern(563). support(563,2936). item(563,78). item(563,56). item(563,87). item(563,84). size(563,4).
+pattern(564). support(564,2936). item(564,78). item(564,56). item(564,87). size(564,3).
+pattern(565). support(565,2552). item(565,78). item(565,56). item(565,35). item(565,80). item(565,33). item(565,84). size(565,6).
+pattern(566). support(566,2552). item(566,78). item(566,56). item(566,35). item(566,80). item(566,33). size(566,5).
+pattern(567). support(567,2552). item(567,78). item(567,56). item(567,35). item(567,80). item(567,84). size(567,5).
+pattern(568). support(568,2552). item(568,78). item(568,56). item(568,35). item(568,80). size(568,4).
+pattern(569). support(569,2552). item(569,78). item(569,56). item(569,35). item(569,33). item(569,84). size(569,5).
+pattern(570). support(570,2552). item(570,78). item(570,56). item(570,35). item(570,33). size(570,4).
+pattern(571). support(571,2552). item(571,78). item(571,56). item(571,35). item(571,84). size(571,4).
+pattern(572). support(572,2552). item(572,78). item(572,56). item(572,35). size(572,3).
+pattern(573). support(573,3280). item(573,78). item(573,56). item(573,80). item(573,33). item(573,84). size(573,5).
+pattern(574). support(574,3280). item(574,78). item(574,56). item(574,80). item(574,33). size(574,4).
+pattern(575). support(575,3280). item(575,78). item(575,56). item(575,80). item(575,84). size(575,4).
+pattern(576). support(576,3280). item(576,78). item(576,56). item(576,80). size(576,3).
+pattern(577). support(577,3280). item(577,78). item(577,56). item(577,33). item(577,84). size(577,4).
+pattern(578). support(578,3280). item(578,78). item(578,56). item(578,33). size(578,3).
+pattern(579). support(579,3280). item(579,78). item(579,56). item(579,84). size(579,3).
+pattern(580). support(580,3280). item(580,78). item(580,56). size(580,2).
+pattern(581). support(581,2696). item(581,78). item(581,60). item(581,87). item(581,80). item(581,33). item(581,84). size(581,6).
+pattern(582). support(582,2696). item(582,78). item(582,60). item(582,87). item(582,80). item(582,33). size(582,5).
+pattern(583). support(583,2696). item(583,78). item(583,60). item(583,87). item(583,80). item(583,84). size(583,5).
+pattern(584). support(584,2696). item(584,78). item(584,60). item(584,87). item(584,80). size(584,4).
+pattern(585). support(585,2696). item(585,78). item(585,60). item(585,87). item(585,33). item(585,84). size(585,5).
+pattern(586). support(586,2696). item(586,78). item(586,60). item(586,87). item(586,33). size(586,4).
+pattern(587). support(587,2696). item(587,78). item(587,60). item(587,87). item(587,84). size(587,4).
+pattern(588). support(588,2696). item(588,78). item(588,60). item(588,87). size(588,3).
+pattern(589). support(589,2488). item(589,78). item(589,60). item(589,56). item(589,80). item(589,33). item(589,84). size(589,6).
+pattern(590). support(590,2488). item(590,78). item(590,60). item(590,56). item(590,80). item(590,33). size(590,5).
+pattern(591). support(591,2488). item(591,78). item(591,60). item(591,56). item(591,80). item(591,84). size(591,5).
+pattern(592). support(592,2488). item(592,78). item(592,60). item(592,56). item(592,80). size(592,4).
+pattern(593). support(593,2488). item(593,78). item(593,60). item(593,56). item(593,33). item(593,84). size(593,5).
+pattern(594). support(594,2488). item(594,78). item(594,60). item(594,56). item(594,33). size(594,4).
+pattern(595). support(595,2488). item(595,78). item(595,60). item(595,56). item(595,84). size(595,4).
+pattern(596). support(596,2488). item(596,78). item(596,60). item(596,56). size(596,3).
+pattern(597). support(597,3040). item(597,78). item(597,60). item(597,80). item(597,33). item(597,84). size(597,5).
+pattern(598). support(598,3040). item(598,78). item(598,60). item(598,80). item(598,33). size(598,4).
+pattern(599). support(599,3040). item(599,78). item(599,60). item(599,80). item(599,84). size(599,4).
+pattern(600). support(600,3040). item(600,78). item(600,60). item(600,80). size(600,3).
+pattern(601). support(601,3040). item(601,78). item(601,60). item(601,33). item(601,84). size(601,4).
+pattern(602). support(602,3040). item(602,78). item(602,60). item(602,33). size(602,3).
+pattern(603). support(603,3040). item(603,78). item(603,60). item(603,84). size(603,3).
+pattern(604). support(604,3040). item(604,78). item(604,60). size(604,2).
+pattern(605). support(605,2592). item(605,78). item(605,53). item(605,80). item(605,33). item(605,84). item(605,87). size(605,6).
+pattern(606). support(606,2592). item(606,78). item(606,53). item(606,80). item(606,33). item(606,84). size(606,5).
+pattern(607). support(607,2592). item(607,78). item(607,53). item(607,80). item(607,33). item(607,87). size(607,5).
+pattern(608). support(608,2592). item(608,78). item(608,53). item(608,80). item(608,33). size(608,4).
+pattern(609). support(609,2592). item(609,78). item(609,53). item(609,80). item(609,84). item(609,87). size(609,5).
+pattern(610). support(610,2592). item(610,78). item(610,53). item(610,80). item(610,84). size(610,4).
+pattern(611). support(611,2592). item(611,78). item(611,53). item(611,80). item(611,87). size(611,4).
+pattern(612). support(612,2592). item(612,78). item(612,53). item(612,80). size(612,3).
+pattern(613). support(613,2592). item(613,78). item(613,53). item(613,33). item(613,84). item(613,87). size(613,5).
+pattern(614). support(614,2592). item(614,78). item(614,53). item(614,33). item(614,84). size(614,4).
+pattern(615). support(615,2592). item(615,78). item(615,53). item(615,33). item(615,87). size(615,4).
+pattern(616). support(616,2592). item(616,78). item(616,53). item(616,33). size(616,3).
+pattern(617). support(617,2592). item(617,78). item(617,53). item(617,84). item(617,87). size(617,4).
+pattern(618). support(618,2592). item(618,78). item(618,53). item(618,84). size(618,3).
+pattern(619). support(619,2592). item(619,78). item(619,53). item(619,87). size(619,3).
+pattern(620). support(620,2592). item(620,78). item(620,53). size(620,2).
+pattern(621). support(621,3080). item(621,78). item(621,69). item(621,87). item(621,80). item(621,33). item(621,84). size(621,6).
+pattern(622). support(622,3080). item(622,78). item(622,69). item(622,87). item(622,80). item(622,33). size(622,5).
+pattern(623). support(623,3080). item(623,78). item(623,69). item(623,87). item(623,80). item(623,84). size(623,5).
+pattern(624). support(624,3080). item(624,78). item(624,69). item(624,87). item(624,80). size(624,4).
+pattern(625). support(625,3080). item(625,78). item(625,69). item(625,87). item(625,33). item(625,84). size(625,5).
+pattern(626). support(626,3080). item(626,78). item(626,69). item(626,87). item(626,33). size(626,4).
+pattern(627). support(627,3080). item(627,78). item(627,69). item(627,87). item(627,84). size(627,4).
+pattern(628). support(628,3080). item(628,78). item(628,69). item(628,87). size(628,3).
+pattern(629). support(629,2632). item(629,78). item(629,69). item(629,56). item(629,80). item(629,33). item(629,84). size(629,6).
+pattern(630). support(630,2632). item(630,78). item(630,69). item(630,56). item(630,80). item(630,33). size(630,5).
+pattern(631). support(631,2632). item(631,78). item(631,69). item(631,56). item(631,80). item(631,84). size(631,5).
+pattern(632). support(632,2632). item(632,78). item(632,69). item(632,56). item(632,80). size(632,4).
+pattern(633). support(633,2632). item(633,78). item(633,69). item(633,56). item(633,33). item(633,84). size(633,5).
+pattern(634). support(634,2632). item(634,78). item(634,69). item(634,56). item(634,33). size(634,4).
+pattern(635). support(635,2632). item(635,78). item(635,69). item(635,56). item(635,84). size(635,4).
+pattern(636). support(636,2632). item(636,78). item(636,69). item(636,56). size(636,3).
+pattern(637). support(637,3520). item(637,78). item(637,69). item(637,80). item(637,33). item(637,84). size(637,5).
+pattern(638). support(638,3520). item(638,78). item(638,69). item(638,80). item(638,33). size(638,4).
+pattern(639). support(639,3520). item(639,78). item(639,69). item(639,80). item(639,84). size(639,4).
+pattern(640). support(640,3520). item(640,78). item(640,69). item(640,80). size(640,3).
+pattern(641). support(641,3520). item(641,78). item(641,69). item(641,33). item(641,84). size(641,4).
+pattern(642). support(642,3520). item(642,78). item(642,69). item(642,33). size(642,3).
+pattern(643). support(643,3520). item(643,78). item(643,69). item(643,84). size(643,3).
+pattern(644). support(644,3520). item(644,78). item(644,69). size(644,2).
+pattern(645). support(645,4384). item(645,78). item(645,80). item(645,33). item(645,84). size(645,4).
+pattern(646). support(646,4384). item(646,78). item(646,80). item(646,33). size(646,3).
+pattern(647). support(647,4384). item(647,78). item(647,80). item(647,84). size(647,3).
+pattern(648). support(648,4384). item(648,78). item(648,80). size(648,2).
+pattern(649). support(649,4384). item(649,78). item(649,33). item(649,84). size(649,3).
+pattern(650). support(650,4384). item(650,78). item(650,33). size(650,2).
+pattern(651). support(651,4384). item(651,78). item(651,84). size(651,2).
+pattern(652). support(652,4384). item(652,78). size(652,1).
+pattern(653). support(653,3944). item(653,110). item(653,84). item(653,80). size(653,3).
+pattern(654). support(654,3944). item(654,110). item(654,84). size(654,2).
+pattern(655). support(655,3944). item(655,110). item(655,33). item(655,80). item(655,84). size(655,4).
+pattern(656). support(656,3944). item(656,110). item(656,33). item(656,80). size(656,3).
+pattern(657). support(657,3944). item(657,110). item(657,33). item(657,84). size(657,3).
+pattern(658). support(658,3944). item(658,110). item(658,33). size(658,2).
+pattern(659). support(659,3856). item(659,110). item(659,87). item(659,84). item(659,80). size(659,4).
+pattern(660). support(660,3856). item(660,110). item(660,87). item(660,84). size(660,3).
+pattern(661). support(661,3856). item(661,110). item(661,87). item(661,33). item(661,80). item(661,84). size(661,5).
+pattern(662). support(662,3856). item(662,110). item(662,87). item(662,33). item(662,80). size(662,4).
+pattern(663). support(663,3856). item(663,110). item(663,87). item(663,33). item(663,84). size(663,4).
+pattern(664). support(664,3856). item(664,110). item(664,87). item(664,33). size(664,3).
+pattern(665). support(665,3952). item(665,110). item(665,87). item(665,80). size(665,3).
+pattern(666). support(666,3952). item(666,110). item(666,87). size(666,2).
+pattern(667). support(667,3752). item(667,110). item(667,35). item(667,84). item(667,80). size(667,4).
+pattern(668). support(668,3752). item(668,110). item(668,35). item(668,84). size(668,3).
+pattern(669). support(669,3752). item(669,110). item(669,35). item(669,33). item(669,80). item(669,84). size(669,5).
+pattern(670). support(670,3752). item(670,110). item(670,35). item(670,33). item(670,80). size(670,4).
+pattern(671). support(671,3752). item(671,110). item(671,35). item(671,33). item(671,84). size(671,4).
+pattern(672). support(672,3752). item(672,110). item(672,35). item(672,33). size(672,3).
+pattern(673). support(673,3664). item(673,110). item(673,35). item(673,87). item(673,84). item(673,80). size(673,5).
+pattern(674). support(674,3664). item(674,110). item(674,35). item(674,87). item(674,84). size(674,4).
+pattern(675). support(675,3664). item(675,110). item(675,35). item(675,87). item(675,33). item(675,80). item(675,84). size(675,6).
+pattern(676). support(676,3664). item(676,110). item(676,35). item(676,87). item(676,33). item(676,80). size(676,5).
+pattern(677). support(677,3664). item(677,110). item(677,35). item(677,87). item(677,33). item(677,84). size(677,5).
+pattern(678). support(678,3664). item(678,110). item(678,35). item(678,87). item(678,33). size(678,4).
+pattern(679). support(679,3760). item(679,110). item(679,35). item(679,87). item(679,80). size(679,4).
+pattern(680). support(680,3760). item(680,110). item(680,35). item(680,87). size(680,3).
+pattern(681). support(681,3848). item(681,110). item(681,35). item(681,80). size(681,3).
+pattern(682). support(682,3848). item(682,110). item(682,35). size(682,2).
+pattern(683). support(683,2624). item(683,110). item(683,20). item(683,84). item(683,80). item(683,87). size(683,5).
+pattern(684). support(684,2624). item(684,110). item(684,20). item(684,84). item(684,80). size(684,4).
+pattern(685). support(685,2624). item(685,110). item(685,20). item(685,84). item(685,87). size(685,4).
+pattern(686). support(686,2624). item(686,110). item(686,20). item(686,84). size(686,3).
+pattern(687). support(687,2624). item(687,110). item(687,20). item(687,33). item(687,80). item(687,87). item(687,84). size(687,6).
+pattern(688). support(688,2624). item(688,110). item(688,20). item(688,33). item(688,80). item(688,87). size(688,5).
+pattern(689). support(689,2624). item(689,110). item(689,20). item(689,33). item(689,80). item(689,84). size(689,5).
+pattern(690). support(690,2624). item(690,110). item(690,20). item(690,33). item(690,80). size(690,4).
+pattern(691). support(691,2624). item(691,110). item(691,20). item(691,33). item(691,87). item(691,84). size(691,5).
+pattern(692). support(692,2624). item(692,110). item(692,20). item(692,33). item(692,87). size(692,4).
+pattern(693). support(693,2624). item(693,110). item(693,20). item(693,33). item(693,84). size(693,4).
+pattern(694). support(694,2624). item(694,110). item(694,20). item(694,33). size(694,3).
+pattern(695). support(695,2528). item(695,110). item(695,20). item(695,35). item(695,84). item(695,80). item(695,87). size(695,6).
+pattern(696). support(696,2528). item(696,110). item(696,20). item(696,35). item(696,84). item(696,80). size(696,5).
+pattern(697). support(697,2528). item(697,110). item(697,20). item(697,35). item(697,84). item(697,87). size(697,5).
+pattern(698). support(698,2528). item(698,110). item(698,20). item(698,35). item(698,84). size(698,4).
+pattern(699). support(699,2528). item(699,110). item(699,20). item(699,35). item(699,33). item(699,80). item(699,87). item(699,84). size(699,7).
+pattern(700). support(700,2528). item(700,110). item(700,20). item(700,35). item(700,33). item(700,80). item(700,87). size(700,6).
+pattern(701). support(701,2528). item(701,110). item(701,20). item(701,35). item(701,33). item(701,80). item(701,84). size(701,6).
+pattern(702). support(702,2528). item(702,110). item(702,20). item(702,35). item(702,33). item(702,80). size(702,5).
+pattern(703). support(703,2528). item(703,110). item(703,20). item(703,35). item(703,33). item(703,87). item(703,84). size(703,6).
+pattern(704). support(704,2528). item(704,110). item(704,20). item(704,35). item(704,33). item(704,87). size(704,5).
+pattern(705). support(705,2528). item(705,110). item(705,20). item(705,35). item(705,33). item(705,84). size(705,5).
+pattern(706). support(706,2528). item(706,110). item(706,20). item(706,35). item(706,33). size(706,4).
+pattern(707). support(707,2624). item(707,110). item(707,20). item(707,35). item(707,80). item(707,87). size(707,5).
+pattern(708). support(708,2624). item(708,110). item(708,20). item(708,35). item(708,80). size(708,4).
+pattern(709). support(709,2624). item(709,110). item(709,20). item(709,35). item(709,87). size(709,4).
+pattern(710). support(710,2624). item(710,110). item(710,20). item(710,35). size(710,3).
+pattern(711). support(711,2720). item(711,110). item(711,20). item(711,80). item(711,87). size(711,4).
+pattern(712). support(712,2720). item(712,110). item(712,20). item(712,80). size(712,3).
+pattern(713). support(713,2720). item(713,110). item(713,20). item(713,87). size(713,3).
+pattern(714). support(714,2720). item(714,110). item(714,20). size(714,2).
+pattern(715). support(715,2736). item(715,110). item(715,53). item(715,35). item(715,80). item(715,87). item(715,33). item(715,84). size(715,7).
+pattern(716). support(716,2736). item(716,110). item(716,53). item(716,35). item(716,80). item(716,87). item(716,33). size(716,6).
+pattern(717). support(717,2736). item(717,110). item(717,53). item(717,35). item(717,80). item(717,87). item(717,84). size(717,6).
+pattern(718). support(718,2736). item(718,110). item(718,53). item(718,35). item(718,80). item(718,87). size(718,5).
+pattern(719). support(719,2736). item(719,110). item(719,53). item(719,35). item(719,80). item(719,33). item(719,84). size(719,6).
+pattern(720). support(720,2736). item(720,110). item(720,53). item(720,35). item(720,80). item(720,33). size(720,5).
+pattern(721). support(721,2736). item(721,110). item(721,53). item(721,35). item(721,80). item(721,84). size(721,5).
+pattern(722). support(722,2736). item(722,110). item(722,53). item(722,35). item(722,80). size(722,4).
+pattern(723). support(723,2736). item(723,110). item(723,53). item(723,35). item(723,87). item(723,33). item(723,84). size(723,6).
+pattern(724). support(724,2736). item(724,110). item(724,53). item(724,35). item(724,87). item(724,33). size(724,5).
+pattern(725). support(725,2736). item(725,110). item(725,53). item(725,35). item(725,87). item(725,84). size(725,5).
+pattern(726). support(726,2736). item(726,110). item(726,53). item(726,35). item(726,87). size(726,4).
+pattern(727). support(727,2736). item(727,110). item(727,53). item(727,35). item(727,33). item(727,84). size(727,5).
+pattern(728). support(728,2736). item(728,110). item(728,53). item(728,35). item(728,33). size(728,4).
+pattern(729). support(729,2736). item(729,110). item(729,53). item(729,35). item(729,84). size(729,4).
+pattern(730). support(730,2736). item(730,110). item(730,53). item(730,35). size(730,3).
+pattern(731). support(731,2832). item(731,110). item(731,53). item(731,80). item(731,87). item(731,33). item(731,84). size(731,6).
+pattern(732). support(732,2832). item(732,110). item(732,53). item(732,80). item(732,87). item(732,33). size(732,5).
+pattern(733). support(733,2832). item(733,110). item(733,53). item(733,80). item(733,87). item(733,84). size(733,5).
+pattern(734). support(734,2832). item(734,110). item(734,53). item(734,80). item(734,87). size(734,4).
+pattern(735). support(735,2832). item(735,110). item(735,53). item(735,80). item(735,33). item(735,84). size(735,5).
+pattern(736). support(736,2832). item(736,110). item(736,53). item(736,80). item(736,33). size(736,4).
+pattern(737). support(737,2832). item(737,110). item(737,53). item(737,80). item(737,84). size(737,4).
+pattern(738). support(738,2832). item(738,110). item(738,53). item(738,80). size(738,3).
+pattern(739). support(739,2832). item(739,110). item(739,53). item(739,87). item(739,33). item(739,84). size(739,5).
+pattern(740). support(740,2832). item(740,110). item(740,53). item(740,87). item(740,33). size(740,4).
+pattern(741). support(741,2832). item(741,110). item(741,53). item(741,87). item(741,84). size(741,4).
+pattern(742). support(742,2832). item(742,110). item(742,53). item(742,87). size(742,3).
+pattern(743). support(743,2832). item(743,110). item(743,53). item(743,33). item(743,84). size(743,4).
+pattern(744). support(744,2832). item(744,110). item(744,53). item(744,33). size(744,3).
+pattern(745). support(745,2832). item(745,110). item(745,53). item(745,84). size(745,3).
+pattern(746). support(746,2832). item(746,110). item(746,53). size(746,2).
+pattern(747). support(747,4040). item(747,110). item(747,80). size(747,2).
+pattern(748). support(748,4040). item(748,110). size(748,1).
+pattern(749). support(749,3776). item(749,94). item(749,84). item(749,80). size(749,3).
+pattern(750). support(750,3776). item(750,94). item(750,84). size(750,2).
+pattern(751). support(751,3776). item(751,94). item(751,33). item(751,80). item(751,84). size(751,4).
+pattern(752). support(752,3776). item(752,94). item(752,33). item(752,80). size(752,3).
+pattern(753). support(753,3776). item(753,94). item(753,33). item(753,84). size(753,3).
+pattern(754). support(754,3776). item(754,94). item(754,33). size(754,2).
+pattern(755). support(755,3368). item(755,94). item(755,87). item(755,84). item(755,80). size(755,4).
+pattern(756). support(756,3368). item(756,94). item(756,87). item(756,84). size(756,3).
+pattern(757). support(757,3368). item(757,94). item(757,87). item(757,33). item(757,80). item(757,84). size(757,5).
+pattern(758). support(758,3368). item(758,94). item(758,87). item(758,33). item(758,80). size(758,4).
+pattern(759). support(759,3368). item(759,94). item(759,87). item(759,33). item(759,84). size(759,4).
+pattern(760). support(760,3368). item(760,94). item(760,87). item(760,33). size(760,3).
+pattern(761). support(761,3560). item(761,94). item(761,87). item(761,80). size(761,3).
+pattern(762). support(762,3560). item(762,94). item(762,87). size(762,2).
+pattern(763). support(763,3288). item(763,94). item(763,35). item(763,84). item(763,80). size(763,4).
+pattern(764). support(764,3288). item(764,94). item(764,35). item(764,84). size(764,3).
+pattern(765). support(765,3288). item(765,94). item(765,35). item(765,33). item(765,80). item(765,84). size(765,5).
+pattern(766). support(766,3288). item(766,94). item(766,35). item(766,33). item(766,80). size(766,4).
+pattern(767). support(767,3288). item(767,94). item(767,35). item(767,33). item(767,84). size(767,4).
+pattern(768). support(768,3288). item(768,94). item(768,35). item(768,33). size(768,3).
+pattern(769). support(769,3168). item(769,94). item(769,35). item(769,87). item(769,84). item(769,80). size(769,5).
+pattern(770). support(770,3168). item(770,94). item(770,35). item(770,87). item(770,84). size(770,4).
+pattern(771). support(771,3168). item(771,94). item(771,35). item(771,87). item(771,33). item(771,80). item(771,84). size(771,6).
+pattern(772). support(772,3168). item(772,94). item(772,35). item(772,87). item(772,33). item(772,80). size(772,5).
+pattern(773). support(773,3168). item(773,94). item(773,35). item(773,87). item(773,33). item(773,84). size(773,5).
+pattern(774). support(774,3168). item(774,94). item(774,35). item(774,87). item(774,33). size(774,4).
+pattern(775). support(775,3360). item(775,94). item(775,35). item(775,87). item(775,80). size(775,4).
+pattern(776). support(776,3360). item(776,94). item(776,35). item(776,87). size(776,3).
+pattern(777). support(777,3480). item(777,94). item(777,35). item(777,80). size(777,3).
+pattern(778). support(778,3480). item(778,94). item(778,35). size(778,2).
+pattern(779). support(779,3128). item(779,94). item(779,38). item(779,84). item(779,80). size(779,4).
+pattern(780). support(780,3128). item(780,94). item(780,38). item(780,84). size(780,3).
+pattern(781). support(781,3128). item(781,94). item(781,38). item(781,33). item(781,80). item(781,84). size(781,5).
+pattern(782). support(782,3128). item(782,94). item(782,38). item(782,33). item(782,80). size(782,4).
+pattern(783). support(783,3128). item(783,94). item(783,38). item(783,33). item(783,84). size(783,4).
+pattern(784). support(784,3128). item(784,94). item(784,38). item(784,33). size(784,3).
+pattern(785). support(785,2720). item(785,94). item(785,38). item(785,87). item(785,84). item(785,80). size(785,5).
+pattern(786). support(786,2720). item(786,94). item(786,38). item(786,87). item(786,84). size(786,4).
+pattern(787). support(787,2720). item(787,94). item(787,38). item(787,87). item(787,33). item(787,80). item(787,84). size(787,6).
+pattern(788). support(788,2720). item(788,94). item(788,38). item(788,87). item(788,33). item(788,80). size(788,5).
+pattern(789). support(789,2720). item(789,94). item(789,38). item(789,87). item(789,33). item(789,84). size(789,5).
+pattern(790). support(790,2720). item(790,94). item(790,38). item(790,87). item(790,33). size(790,4).
+pattern(791). support(791,2912). item(791,94). item(791,38). item(791,87). item(791,80). size(791,4).
+pattern(792). support(792,2912). item(792,94). item(792,38). item(792,87). size(792,3).
+pattern(793). support(793,2840). item(793,94). item(793,38). item(793,35). item(793,84). item(793,80). size(793,5).
+pattern(794). support(794,2840). item(794,94). item(794,38). item(794,35). item(794,84). size(794,4).
+pattern(795). support(795,2840). item(795,94). item(795,38). item(795,35). item(795,33). item(795,80). item(795,84). size(795,6).
+pattern(796). support(796,2840). item(796,94). item(796,38). item(796,35). item(796,33). item(796,80). size(796,5).
+pattern(797). support(797,2840). item(797,94). item(797,38). item(797,35). item(797,33). item(797,84). size(797,5).
+pattern(798). support(798,2840). item(798,94). item(798,38). item(798,35). item(798,33). size(798,4).
+pattern(799). support(799,2720). item(799,94). item(799,38). item(799,35). item(799,87). item(799,84). item(799,80). size(799,6).
+pattern(800). support(800,2720). item(800,94). item(800,38). item(800,35). item(800,87). item(800,84). size(800,5).
+pattern(801). support(801,2720). item(801,94). item(801,38). item(801,35). item(801,87). item(801,33). item(801,80). item(801,84). size(801,7).
+pattern(802). support(802,2720). item(802,94). item(802,38). item(802,35). item(802,87). item(802,33). item(802,80). size(802,6).
+pattern(803). support(803,2720). item(803,94). item(803,38). item(803,35). item(803,87). item(803,33). item(803,84). size(803,6).
+pattern(804). support(804,2720). item(804,94). item(804,38). item(804,35). item(804,87). item(804,33). size(804,5).
+pattern(805). support(805,2912). item(805,94). item(805,38). item(805,35). item(805,87). item(805,80). size(805,5).
+pattern(806). support(806,2912). item(806,94). item(806,38). item(806,35). item(806,87). size(806,4).
+pattern(807). support(807,3032). item(807,94). item(807,38). item(807,35). item(807,80). size(807,4).
+pattern(808). support(808,3032). item(808,94). item(808,38). item(808,35). size(808,3).
+pattern(809). support(809,3320). item(809,94). item(809,38). item(809,80). size(809,3).
+pattern(810). support(810,3320). item(810,94). item(810,38). size(810,2).
+pattern(811). support(811,3472). item(811,94). item(811,56). item(811,84). item(811,80). size(811,4).
+pattern(812). support(812,3472). item(812,94). item(812,56). item(812,84). size(812,3).
+pattern(813). support(813,3472). item(813,94). item(813,56). item(813,33). item(813,80). item(813,84). size(813,5).
+pattern(814). support(814,3472). item(814,94). item(814,56). item(814,33). item(814,80). size(814,4).
+pattern(815). support(815,3472). item(815,94). item(815,56). item(815,33). item(815,84). size(815,4).
+pattern(816). support(816,3472). item(816,94). item(816,56). item(816,33). size(816,3).
+pattern(817). support(817,3224). item(817,94). item(817,56). item(817,87). item(817,84). item(817,80). size(817,5).
+pattern(818). support(818,3224). item(818,94). item(818,56). item(818,87). item(818,84). size(818,4).
+pattern(819). support(819,3224). item(819,94). item(819,56). item(819,87). item(819,33). item(819,80). item(819,84). size(819,6).
+pattern(820). support(820,3224). item(820,94). item(820,56). item(820,87). item(820,33). item(820,80). size(820,5).
+pattern(821). support(821,3224). item(821,94). item(821,56). item(821,87). item(821,33). item(821,84). size(821,5).
+pattern(822). support(822,3224). item(822,94). item(822,56). item(822,87). item(822,33). size(822,4).
+pattern(823). support(823,3416). item(823,94). item(823,56). item(823,87). item(823,80). size(823,4).
+pattern(824). support(824,3416). item(824,94). item(824,56). item(824,87). size(824,3).
+pattern(825). support(825,3128). item(825,94). item(825,56). item(825,35). item(825,84). item(825,80). size(825,5).
+pattern(826). support(826,3128). item(826,94). item(826,56). item(826,35). item(826,84). size(826,4).
+pattern(827). support(827,3128). item(827,94). item(827,56). item(827,35). item(827,33). item(827,80). item(827,84). size(827,6).
+pattern(828). support(828,3128). item(828,94). item(828,56). item(828,35). item(828,33). item(828,80). size(828,5).
+pattern(829). support(829,3128). item(829,94). item(829,56). item(829,35). item(829,33). item(829,84). size(829,5).
+pattern(830). support(830,3128). item(830,94). item(830,56). item(830,35). item(830,33). size(830,4).
+pattern(831). support(831,3024). item(831,94). item(831,56). item(831,35). item(831,87). item(831,84). item(831,80). size(831,6).
+pattern(832). support(832,3024). item(832,94). item(832,56). item(832,35). item(832,87). item(832,84). size(832,5).
+pattern(833). support(833,3024). item(833,94). item(833,56). item(833,35). item(833,87). item(833,33). item(833,80). item(833,84). size(833,7).
+pattern(834). support(834,3024). item(834,94). item(834,56). item(834,35). item(834,87). item(834,33). item(834,80). size(834,6).
+pattern(835). support(835,3024). item(835,94). item(835,56). item(835,35). item(835,87). item(835,33). item(835,84). size(835,6).
+pattern(836). support(836,3024). item(836,94). item(836,56). item(836,35). item(836,87). item(836,33). size(836,5).
+pattern(837). support(837,3216). item(837,94). item(837,56). item(837,35). item(837,87). item(837,80). size(837,5).
+pattern(838). support(838,3216). item(838,94). item(838,56). item(838,35). item(838,87). size(838,4).
+pattern(839). support(839,3320). item(839,94). item(839,56). item(839,35). item(839,80). size(839,4).
+pattern(840). support(840,3320). item(840,94). item(840,56). item(840,35). size(840,3).
+pattern(841). support(841,2824). item(841,94). item(841,56). item(841,38). item(841,84). item(841,80). size(841,5).
+pattern(842). support(842,2824). item(842,94). item(842,56). item(842,38). item(842,84). size(842,4).
+pattern(843). support(843,2824). item(843,94). item(843,56). item(843,38). item(843,33). item(843,80). item(843,84). size(843,6).
+pattern(844). support(844,2824). item(844,94). item(844,56). item(844,38). item(844,33). item(844,80). size(844,5).
+pattern(845). support(845,2824). item(845,94). item(845,56). item(845,38). item(845,33). item(845,84). size(845,5).
+pattern(846). support(846,2824). item(846,94). item(846,56). item(846,38). item(846,33). size(846,4).
+pattern(847). support(847,2576). item(847,94). item(847,56). item(847,38). item(847,87). item(847,84). item(847,80). size(847,6).
+pattern(848). support(848,2576). item(848,94). item(848,56). item(848,38). item(848,87). item(848,84). size(848,5).
+pattern(849). support(849,2576). item(849,94). item(849,56). item(849,38). item(849,87). item(849,33). item(849,80). item(849,84). size(849,7).
+pattern(850). support(850,2576). item(850,94). item(850,56). item(850,38). item(850,87). item(850,33). item(850,80). size(850,6).
+pattern(851). support(851,2576). item(851,94). item(851,56). item(851,38). item(851,87). item(851,33). item(851,84). size(851,6).
+pattern(852). support(852,2576). item(852,94). item(852,56). item(852,38). item(852,87). item(852,33). size(852,5).
+pattern(853). support(853,2768). item(853,94). item(853,56). item(853,38). item(853,87). item(853,80). size(853,5).
+pattern(854). support(854,2768). item(854,94). item(854,56). item(854,38). item(854,87). size(854,4).
+pattern(855). support(855,2680). item(855,94). item(855,56). item(855,38). item(855,35). item(855,84). item(855,80). size(855,6).
+pattern(856). support(856,2680). item(856,94). item(856,56). item(856,38). item(856,35). item(856,84). size(856,5).
+pattern(857). support(857,2680). item(857,94). item(857,56). item(857,38). item(857,35). item(857,33). item(857,80). item(857,84). size(857,7).
+pattern(858). support(858,2680). item(858,94). item(858,56). item(858,38). item(858,35). item(858,33). item(858,80). size(858,6).
+pattern(859). support(859,2680). item(859,94). item(859,56). item(859,38). item(859,35). item(859,33). item(859,84). size(859,6).
+pattern(860). support(860,2680). item(860,94). item(860,56). item(860,38). item(860,35). item(860,33). size(860,5).
+pattern(861). support(861,2576). item(861,94). item(861,56). item(861,38). item(861,35). item(861,87). item(861,84). item(861,80). size(861,7).
+pattern(862). support(862,2576). item(862,94). item(862,56). item(862,38). item(862,35). item(862,87). item(862,84). size(862,6).
+pattern(863). support(863,2576). item(863,94). item(863,56). item(863,38). item(863,35). item(863,87). item(863,33). item(863,80). item(863,84). size(863,8).
+pattern(864). support(864,2576). item(864,94). item(864,56). item(864,38). item(864,35). item(864,87). item(864,33). item(864,80). size(864,7).
+pattern(865). support(865,2576). item(865,94). item(865,56). item(865,38). item(865,35). item(865,87). item(865,33). item(865,84). size(865,7).
+pattern(866). support(866,2576). item(866,94). item(866,56). item(866,38). item(866,35). item(866,87). item(866,33). size(866,6).
+pattern(867). support(867,2768). item(867,94). item(867,56). item(867,38). item(867,35). item(867,87). item(867,80). size(867,6).
+pattern(868). support(868,2768). item(868,94). item(868,56). item(868,38). item(868,35). item(868,87). size(868,5).
+pattern(869). support(869,2872). item(869,94). item(869,56). item(869,38). item(869,35). item(869,80). size(869,5).
+pattern(870). support(870,2872). item(870,94). item(870,56). item(870,38). item(870,35). size(870,4).
+pattern(871). support(871,3016). item(871,94). item(871,56). item(871,38). item(871,80). size(871,4).
+pattern(872). support(872,3016). item(872,94). item(872,56). item(872,38). size(872,3).
+pattern(873). support(873,3664). item(873,94). item(873,56). item(873,80). size(873,3).
+pattern(874). support(874,3664). item(874,94). item(874,56). size(874,2).
+pattern(875). support(875,3280). item(875,94). item(875,60). item(875,84). item(875,80). size(875,4).
+pattern(876). support(876,3280). item(876,94). item(876,60). item(876,84). size(876,3).
+pattern(877). support(877,3280). item(877,94). item(877,60). item(877,33). item(877,80). item(877,84). size(877,5).
+pattern(878). support(878,3280). item(878,94). item(878,60). item(878,33). item(878,80). size(878,4).
+pattern(879). support(879,3280). item(879,94). item(879,60). item(879,33). item(879,84). size(879,4).
+pattern(880). support(880,3280). item(880,94). item(880,60). item(880,33). size(880,3).
+pattern(881). support(881,3032). item(881,94). item(881,60). item(881,87). item(881,84). item(881,80). size(881,5).
+pattern(882). support(882,3032). item(882,94). item(882,60). item(882,87). item(882,84). size(882,4).
+pattern(883). support(883,3032). item(883,94). item(883,60). item(883,87). item(883,33). item(883,80). item(883,84). size(883,6).
+pattern(884). support(884,3032). item(884,94). item(884,60). item(884,87). item(884,33). item(884,80). size(884,5).
+pattern(885). support(885,3032). item(885,94). item(885,60). item(885,87). item(885,33). item(885,84). size(885,5).
+pattern(886). support(886,3032). item(886,94). item(886,60). item(886,87). item(886,33). size(886,4).
+pattern(887). support(887,3224). item(887,94). item(887,60). item(887,87). item(887,80). size(887,4).
+pattern(888). support(888,3224). item(888,94). item(888,60). item(888,87). size(888,3).
+pattern(889). support(889,2936). item(889,94). item(889,60). item(889,35). item(889,84). item(889,80). size(889,5).
+pattern(890). support(890,2936). item(890,94). item(890,60). item(890,35). item(890,84). size(890,4).
+pattern(891). support(891,2936). item(891,94). item(891,60). item(891,35). item(891,33). item(891,80). item(891,84). size(891,6).
+pattern(892). support(892,2936). item(892,94). item(892,60). item(892,35). item(892,33). item(892,80). size(892,5).
+pattern(893). support(893,2936). item(893,94). item(893,60). item(893,35). item(893,33). item(893,84). size(893,5).
+pattern(894). support(894,2936). item(894,94). item(894,60). item(894,35). item(894,33). size(894,4).
+pattern(895). support(895,2832). item(895,94). item(895,60). item(895,35). item(895,87). item(895,84). item(895,80). size(895,6).
+pattern(896). support(896,2832). item(896,94). item(896,60). item(896,35). item(896,87). item(896,84). size(896,5).
+pattern(897). support(897,2832). item(897,94). item(897,60). item(897,35). item(897,87). item(897,33). item(897,80). item(897,84). size(897,7).
+pattern(898). support(898,2832). item(898,94). item(898,60). item(898,35). item(898,87). item(898,33). item(898,80). size(898,6).
+pattern(899). support(899,2832). item(899,94). item(899,60). item(899,35). item(899,87). item(899,33). item(899,84). size(899,6).
+pattern(900). support(900,2832). item(900,94). item(900,60). item(900,35). item(900,87). item(900,33). size(900,5).
+pattern(901). support(901,3024). item(901,94). item(901,60). item(901,35). item(901,87). item(901,80). size(901,5).
+pattern(902). support(902,3024). item(902,94). item(902,60). item(902,35). item(902,87). size(902,4).
+pattern(903). support(903,3128). item(903,94). item(903,60). item(903,35). item(903,80). size(903,4).
+pattern(904). support(904,3128). item(904,94). item(904,60). item(904,35). size(904,3).
+pattern(905). support(905,2632). item(905,94). item(905,60). item(905,38). item(905,84). item(905,80). size(905,5).
+pattern(906). support(906,2632). item(906,94). item(906,60). item(906,38). item(906,84). size(906,4).
+pattern(907). support(907,2632). item(907,94). item(907,60). item(907,38). item(907,33). item(907,80). item(907,84). size(907,6).
+pattern(908). support(908,2632). item(908,94). item(908,60). item(908,38). item(908,33). item(908,80). size(908,5).
+pattern(909). support(909,2632). item(909,94). item(909,60). item(909,38). item(909,33). item(909,84). size(909,5).
+pattern(910). support(910,2632). item(910,94). item(910,60). item(910,38). item(910,33). size(910,4).
+pattern(911). support(911,2576). item(911,94). item(911,60). item(911,38). item(911,87). item(911,80). size(911,5).
+pattern(912). support(912,2576). item(912,94). item(912,60). item(912,38). item(912,87). size(912,4).
+pattern(913). support(913,2488). item(913,94). item(913,60). item(913,38). item(913,35). item(913,84). item(913,80). size(913,6).
+pattern(914). support(914,2488). item(914,94). item(914,60). item(914,38). item(914,35). item(914,84). size(914,5).
+pattern(915). support(915,2488). item(915,94). item(915,60). item(915,38). item(915,35). item(915,33). item(915,80). item(915,84). size(915,7).
+pattern(916). support(916,2488). item(916,94). item(916,60). item(916,38). item(916,35). item(916,33). item(916,80). size(916,6).
+pattern(917). support(917,2488). item(917,94). item(917,60). item(917,38). item(917,35). item(917,33). item(917,84). size(917,6).
+pattern(918). support(918,2488). item(918,94). item(918,60). item(918,38). item(918,35). item(918,33). size(918,5).
+pattern(919). support(919,2576). item(919,94). item(919,60). item(919,38). item(919,35). item(919,87). item(919,80). size(919,6).
+pattern(920). support(920,2576). item(920,94). item(920,60). item(920,38). item(920,35). item(920,87). size(920,5).
+pattern(921). support(921,2680). item(921,94). item(921,60). item(921,38). item(921,35). item(921,80). size(921,5).
+pattern(922). support(922,2680). item(922,94). item(922,60). item(922,38). item(922,35). size(922,4).
+pattern(923). support(923,2824). item(923,94). item(923,60). item(923,38). item(923,80). size(923,4).
+pattern(924). support(924,2824). item(924,94). item(924,60). item(924,38). size(924,3).
+pattern(925). support(925,3136). item(925,94). item(925,60). item(925,56). item(925,84). item(925,80). size(925,5).
+pattern(926). support(926,3136). item(926,94). item(926,60). item(926,56). item(926,84). size(926,4).
+pattern(927). support(927,3136). item(927,94). item(927,60). item(927,56). item(927,33). item(927,80). item(927,84). size(927,6).
+pattern(928). support(928,3136). item(928,94). item(928,60). item(928,56). item(928,33). item(928,80). size(928,5).
+pattern(929). support(929,3136). item(929,94). item(929,60). item(929,56). item(929,33). item(929,84). size(929,5).
+pattern(930). support(930,3136). item(930,94). item(930,60). item(930,56). item(930,33). size(930,4).
+pattern(931). support(931,2960). item(931,94). item(931,60). item(931,56). item(931,87). item(931,84). item(931,80). size(931,6).
+pattern(932). support(932,2960). item(932,94). item(932,60). item(932,56). item(932,87). item(932,84). size(932,5).
+pattern(933). support(933,2960). item(933,94). item(933,60). item(933,56). item(933,87). item(933,33). item(933,80). item(933,84). size(933,7).
+pattern(934). support(934,2960). item(934,94). item(934,60). item(934,56). item(934,87). item(934,33). item(934,80). size(934,6).
+pattern(935). support(935,2960). item(935,94). item(935,60). item(935,56). item(935,87). item(935,33). item(935,84). size(935,6).
+pattern(936). support(936,2960). item(936,94). item(936,60). item(936,56). item(936,87). item(936,33). size(936,5).
+pattern(937). support(937,3152). item(937,94). item(937,60). item(937,56). item(937,87). item(937,80). size(937,5).
+pattern(938). support(938,3152). item(938,94). item(938,60). item(938,56). item(938,87). size(938,4).
+pattern(939). support(939,2864). item(939,94). item(939,60). item(939,56). item(939,35). item(939,84). item(939,80). size(939,6).
+pattern(940). support(940,2864). item(940,94). item(940,60). item(940,56). item(940,35). item(940,84). size(940,5).
+pattern(941). support(941,2864). item(941,94). item(941,60). item(941,56). item(941,35). item(941,33). item(941,80). item(941,84). size(941,7).
+pattern(942). support(942,2864). item(942,94). item(942,60). item(942,56). item(942,35). item(942,33). item(942,80). size(942,6).
+pattern(943). support(943,2864). item(943,94). item(943,60). item(943,56). item(943,35). item(943,33). item(943,84). size(943,6).
+pattern(944). support(944,2864). item(944,94). item(944,60). item(944,56). item(944,35). item(944,33). size(944,5).
+pattern(945). support(945,2760). item(945,94). item(945,60). item(945,56). item(945,35). item(945,87). item(945,84). item(945,80). size(945,7).
+pattern(946). support(946,2760). item(946,94). item(946,60). item(946,56). item(946,35). item(946,87). item(946,84). size(946,6).
+pattern(947). support(947,2760). item(947,94). item(947,60). item(947,56). item(947,35). item(947,87). item(947,33). item(947,80). item(947,84). size(947,8).
+pattern(948). support(948,2760). item(948,94). item(948,60). item(948,56). item(948,35). item(948,87). item(948,33). item(948,80). size(948,7).
+pattern(949). support(949,2760). item(949,94). item(949,60). item(949,56). item(949,35). item(949,87). item(949,33). item(949,84). size(949,7).
+pattern(950). support(950,2760). item(950,94). item(950,60). item(950,56). item(950,35). item(950,87). item(950,33). size(950,6).
+pattern(951). support(951,2952). item(951,94). item(951,60). item(951,56). item(951,35). item(951,87). item(951,80). size(951,6).
+pattern(952). support(952,2952). item(952,94). item(952,60). item(952,56). item(952,35). item(952,87). size(952,5).
+pattern(953). support(953,3056). item(953,94). item(953,60). item(953,56). item(953,35). item(953,80). size(953,5).
+pattern(954). support(954,3056). item(954,94). item(954,60). item(954,56). item(954,35). size(954,4).
+pattern(955). support(955,2488). item(955,94). item(955,60). item(955,56). item(955,38). item(955,84). item(955,80). size(955,6).
+pattern(956). support(956,2488). item(956,94). item(956,60). item(956,56). item(956,38). item(956,84). size(956,5).
+pattern(957). support(957,2488). item(957,94). item(957,60). item(957,56). item(957,38). item(957,33). item(957,80). item(957,84). size(957,7).
+pattern(958). support(958,2488). item(958,94). item(958,60). item(958,56). item(958,38). item(958,33). item(958,80). size(958,6).
+pattern(959). support(959,2488). item(959,94). item(959,60). item(959,56). item(959,38). item(959,33). item(959,84). size(959,6).
+pattern(960). support(960,2488). item(960,94). item(960,60). item(960,56). item(960,38). item(960,33). size(960,5).
+pattern(961). support(961,2504). item(961,94). item(961,60). item(961,56). item(961,38). item(961,87). item(961,80). size(961,6).
+pattern(962). support(962,2504). item(962,94). item(962,60). item(962,56). item(962,38). item(962,87). size(962,5).
+pattern(963). support(963,2504). item(963,94). item(963,60). item(963,56). item(963,38). item(963,35). item(963,87). item(963,80). size(963,7).
+pattern(964). support(964,2504). item(964,94). item(964,60). item(964,56). item(964,38). item(964,35). item(964,87). size(964,6).
+pattern(965). support(965,2608). item(965,94). item(965,60). item(965,56). item(965,38). item(965,35). item(965,80). size(965,6).
+pattern(966). support(966,2608). item(966,94). item(966,60). item(966,56). item(966,38). item(966,35). size(966,5).
+pattern(967). support(967,2680). item(967,94). item(967,60). item(967,56). item(967,38). item(967,80). size(967,5).
+pattern(968). support(968,2680). item(968,94). item(968,60). item(968,56). item(968,38). size(968,4).
+pattern(969). support(969,3328). item(969,94). item(969,60). item(969,56). item(969,80). size(969,4).
+pattern(970). support(970,3328). item(970,94). item(970,60). item(970,56). size(970,3).
+pattern(971). support(971,3472). item(971,94). item(971,60). item(971,80). size(971,3).
+pattern(972). support(972,3472). item(972,94). item(972,60). size(972,2).
+pattern(973). support(973,2608). item(973,94). item(973,69). item(973,80). item(973,33). item(973,84). size(973,5).
+pattern(974). support(974,2608). item(974,94). item(974,69). item(974,80). item(974,33). size(974,4).
+pattern(975). support(975,2608). item(975,94). item(975,69). item(975,80). item(975,84). size(975,4).
+pattern(976). support(976,2608). item(976,94). item(976,69). item(976,80). size(976,3).
+pattern(977). support(977,2608). item(977,94). item(977,69). item(977,33). item(977,84). size(977,4).
+pattern(978). support(978,2608). item(978,94). item(978,69). item(978,33). size(978,3).
+pattern(979). support(979,2608). item(979,94). item(979,69). item(979,84). size(979,3).
+pattern(980). support(980,2608). item(980,94). item(980,69). size(980,2).
+pattern(981). support(981,2608). item(981,94). item(981,78). item(981,80). item(981,33). item(981,84). size(981,5).
+pattern(982). support(982,2608). item(982,94). item(982,78). item(982,80). item(982,33). size(982,4).
+pattern(983). support(983,2608). item(983,94). item(983,78). item(983,80). item(983,84). size(983,4).
+pattern(984). support(984,2608). item(984,94). item(984,78). item(984,80). size(984,3).
+pattern(985). support(985,2608). item(985,94). item(985,78). item(985,33). item(985,84). size(985,4).
+pattern(986). support(986,2608). item(986,94). item(986,78). item(986,33). size(986,3).
+pattern(987). support(987,2608). item(987,94). item(987,78). item(987,84). size(987,3).
+pattern(988). support(988,2608). item(988,94). item(988,78). size(988,2).
+pattern(989). support(989,3968). item(989,94). item(989,80). size(989,2).
+pattern(990). support(990,3968). item(990,94). size(990,1).
+pattern(991). support(991,3608). item(991,5). item(991,84). item(991,80). size(991,3).
+pattern(992). support(992,3608). item(992,5). item(992,84). size(992,2).
+pattern(993). support(993,3602). item(993,5). item(993,33). item(993,80). item(993,84). size(993,4).
+pattern(994). support(994,3602). item(994,5). item(994,33). item(994,80). size(994,3).
+pattern(995). support(995,3602). item(995,5). item(995,33). item(995,84). size(995,3).
+pattern(996). support(996,3602). item(996,5). item(996,33). size(996,2).
+pattern(997). support(997,3416). item(997,5). item(997,87). item(997,84). item(997,80). size(997,4).
+pattern(998). support(998,3416). item(998,5). item(998,87). item(998,84). size(998,3).
+pattern(999). support(999,3416). item(999,5). item(999,87). item(999,33). item(999,80). item(999,84). size(999,5).
+pattern(1000). support(1000,3416). item(1000,5). item(1000,87). item(1000,33). item(1000,80). size(1000,4).
+pattern(1001). support(1001,3416). item(1001,5). item(1001,87). item(1001,33). item(1001,84). size(1001,4).
+pattern(1002). support(1002,3416). item(1002,5). item(1002,87). item(1002,33). size(1002,3).
+pattern(1003). support(1003,3464). item(1003,5). item(1003,87). item(1003,80). size(1003,3).
+pattern(1004). support(1004,3464). item(1004,5). item(1004,87). size(1004,2).
+pattern(1005). support(1005,2968). item(1005,5). item(1005,35). item(1005,84). item(1005,80). size(1005,4).
+pattern(1006). support(1006,2968). item(1006,5). item(1006,35). item(1006,84). size(1006,3).
+pattern(1007). support(1007,2962). item(1007,5). item(1007,35). item(1007,33). item(1007,80). item(1007,84). size(1007,5).
+pattern(1008). support(1008,2962). item(1008,5). item(1008,35). item(1008,33). item(1008,80). size(1008,4).
+pattern(1009). support(1009,2962). item(1009,5). item(1009,35). item(1009,33). item(1009,84). size(1009,4).
+pattern(1010). support(1010,2962). item(1010,5). item(1010,35). item(1010,33). size(1010,3).
+pattern(1011). support(1011,2872). item(1011,5). item(1011,35). item(1011,87). item(1011,84). item(1011,80). size(1011,5).
+pattern(1012). support(1012,2872). item(1012,5). item(1012,35). item(1012,87). item(1012,84). size(1012,4).
+pattern(1013). support(1013,2872). item(1013,5). item(1013,35). item(1013,87). item(1013,33). item(1013,80). item(1013,84). size(1013,6).
+pattern(1014). support(1014,2872). item(1014,5). item(1014,35). item(1014,87). item(1014,33). item(1014,80). size(1014,5).
+pattern(1015). support(1015,2872). item(1015,5). item(1015,35). item(1015,87). item(1015,33). item(1015,84). size(1015,5).
+pattern(1016). support(1016,2872). item(1016,5). item(1016,35). item(1016,87). item(1016,33). size(1016,4).
+pattern(1017). support(1017,2920). item(1017,5). item(1017,35). item(1017,87). item(1017,80). size(1017,4).
+pattern(1018). support(1018,2920). item(1018,5). item(1018,35). item(1018,87). size(1018,3).
+pattern(1019). support(1019,3016). item(1019,5). item(1019,35). item(1019,80). size(1019,3).
+pattern(1020). support(1020,3016). item(1020,5). item(1020,35). size(1020,2).
+pattern(1021). support(1021,2584). item(1021,5). item(1021,38). item(1021,84). item(1021,80). size(1021,4).
+pattern(1022). support(1022,2584). item(1022,5). item(1022,38). item(1022,84). size(1022,3).
+pattern(1023). support(1023,2578). item(1023,5). item(1023,38). item(1023,33). item(1023,80). item(1023,84). size(1023,5).
+pattern(1024). support(1024,2578). item(1024,5). item(1024,38). item(1024,33). item(1024,80). size(1024,4).
+pattern(1025). support(1025,2578). item(1025,5). item(1025,38). item(1025,33). item(1025,84). size(1025,4).
+pattern(1026). support(1026,2578). item(1026,5). item(1026,38). item(1026,33). size(1026,3).
+pattern(1027). support(1027,2440). item(1027,5). item(1027,38). item(1027,87). item(1027,80). size(1027,4).
+pattern(1028). support(1028,2440). item(1028,5). item(1028,38). item(1028,87). size(1028,3).
+pattern(1029). support(1029,2632). item(1029,5). item(1029,38). item(1029,80). size(1029,3).
+pattern(1030). support(1030,2632). item(1030,5). item(1030,38). size(1030,2).
+pattern(1031). support(1031,3656). item(1031,5). item(1031,80). size(1031,2).
+pattern(1032). support(1032,3656). item(1032,5). size(1032,1).
+pattern(1033). support(1033,3328). item(1033,27). item(1033,84). item(1033,80). size(1033,3).
+pattern(1034). support(1034,3328). item(1034,27). item(1034,84). size(1034,2).
+pattern(1035). support(1035,3328). item(1035,27). item(1035,33). item(1035,84). item(1035,80). size(1035,4).
+pattern(1036). support(1036,3328). item(1036,27). item(1036,33). item(1036,84). size(1036,3).
+pattern(1037). support(1037,3336). item(1037,27). item(1037,33). item(1037,80). size(1037,3).
+pattern(1038). support(1038,3336). item(1038,27). item(1038,33). size(1038,2).
+pattern(1039). support(1039,2728). item(1039,27). item(1039,87). item(1039,84). item(1039,80). size(1039,4).
+pattern(1040). support(1040,2728). item(1040,27). item(1040,87). item(1040,84). size(1040,3).
+pattern(1041). support(1041,2728). item(1041,27). item(1041,87). item(1041,33). item(1041,84). item(1041,80). size(1041,5).
+pattern(1042). support(1042,2728). item(1042,27). item(1042,87). item(1042,33). item(1042,84). size(1042,4).
+pattern(1043). support(1043,2736). item(1043,27). item(1043,87). item(1043,33). item(1043,80). size(1043,4).
+pattern(1044). support(1044,2736). item(1044,27). item(1044,87). item(1044,33). size(1044,3).
+pattern(1045). support(1045,2928). item(1045,27). item(1045,87). item(1045,80). size(1045,3).
+pattern(1046). support(1046,2928). item(1046,27). item(1046,87). size(1046,2).
+pattern(1047). support(1047,3096). item(1047,27). item(1047,38). item(1047,84). item(1047,80). size(1047,4).
+pattern(1048). support(1048,3096). item(1048,27). item(1048,38). item(1048,84). size(1048,3).
+pattern(1049). support(1049,3096). item(1049,27). item(1049,38). item(1049,33). item(1049,80). item(1049,84). size(1049,5).
+pattern(1050). support(1050,3096). item(1050,27). item(1050,38). item(1050,33). item(1050,80). size(1050,4).
+pattern(1051). support(1051,3096). item(1051,27). item(1051,38). item(1051,33). item(1051,84). size(1051,4).
+pattern(1052). support(1052,3096). item(1052,27). item(1052,38). item(1052,33). size(1052,3).
+pattern(1053). support(1053,2496). item(1053,27). item(1053,38). item(1053,87). item(1053,84). item(1053,80). size(1053,5).
+pattern(1054). support(1054,2496). item(1054,27). item(1054,38). item(1054,87). item(1054,84). size(1054,4).
+pattern(1055). support(1055,2496). item(1055,27). item(1055,38). item(1055,87). item(1055,33). item(1055,80). item(1055,84). size(1055,6).
+pattern(1056). support(1056,2496). item(1056,27). item(1056,38). item(1056,87). item(1056,33). item(1056,80). size(1056,5).
+pattern(1057). support(1057,2496). item(1057,27). item(1057,38). item(1057,87). item(1057,33). item(1057,84). size(1057,5).
+pattern(1058). support(1058,2496). item(1058,27). item(1058,38). item(1058,87). item(1058,33). size(1058,4).
+pattern(1059). support(1059,2688). item(1059,27). item(1059,38). item(1059,87). item(1059,80). size(1059,4).
+pattern(1060). support(1060,2688). item(1060,27). item(1060,38). item(1060,87). size(1060,3).
+pattern(1061). support(1061,3288). item(1061,27). item(1061,38). item(1061,80). size(1061,3).
+pattern(1062). support(1062,3288). item(1062,27). item(1062,38). size(1062,2).
+pattern(1063). support(1063,2728). item(1063,27). item(1063,56). item(1063,84). item(1063,80). size(1063,4).
+pattern(1064). support(1064,2728). item(1064,27). item(1064,56). item(1064,84). size(1064,3).
+pattern(1065). support(1065,2728). item(1065,27). item(1065,56). item(1065,33). item(1065,80). item(1065,84). size(1065,5).
+pattern(1066). support(1066,2728). item(1066,27). item(1066,56). item(1066,33). item(1066,80). size(1066,4).
+pattern(1067). support(1067,2728). item(1067,27). item(1067,56). item(1067,33). item(1067,84). size(1067,4).
+pattern(1068). support(1068,2728). item(1068,27). item(1068,56). item(1068,33). size(1068,3).
+pattern(1069). support(1069,2480). item(1069,27). item(1069,56). item(1069,87). item(1069,80). size(1069,4).
+pattern(1070). support(1070,2480). item(1070,27). item(1070,56). item(1070,87). size(1070,3).
+pattern(1071). support(1071,2552). item(1071,27). item(1071,56). item(1071,38). item(1071,84). item(1071,80). size(1071,5).
+pattern(1072). support(1072,2552). item(1072,27). item(1072,56). item(1072,38). item(1072,84). size(1072,4).
+pattern(1073). support(1073,2552). item(1073,27). item(1073,56). item(1073,38). item(1073,33). item(1073,80). item(1073,84). size(1073,6).
+pattern(1074). support(1074,2552). item(1074,27). item(1074,56). item(1074,38). item(1074,33). item(1074,80). size(1074,5).
+pattern(1075). support(1075,2552). item(1075,27). item(1075,56). item(1075,38). item(1075,33). item(1075,84). size(1075,5).
+pattern(1076). support(1076,2552). item(1076,27). item(1076,56). item(1076,38). item(1076,33). size(1076,4).
+pattern(1077). support(1077,2744). item(1077,27). item(1077,56). item(1077,38). item(1077,80). size(1077,4).
+pattern(1078). support(1078,2744). item(1078,27). item(1078,56). item(1078,38). size(1078,3).
+pattern(1079). support(1079,2920). item(1079,27). item(1079,56). item(1079,80). size(1079,3).
+pattern(1080). support(1080,2920). item(1080,27). item(1080,56). size(1080,2).
+pattern(1081). support(1081,2680). item(1081,27). item(1081,60). item(1081,84). item(1081,80). size(1081,4).
+pattern(1082). support(1082,2680). item(1082,27). item(1082,60). item(1082,84). size(1082,3).
+pattern(1083). support(1083,2680). item(1083,27). item(1083,60). item(1083,33). item(1083,80). item(1083,84). size(1083,5).
+pattern(1084). support(1084,2680). item(1084,27). item(1084,60). item(1084,33). item(1084,80). size(1084,4).
+pattern(1085). support(1085,2680). item(1085,27). item(1085,60). item(1085,33). item(1085,84). size(1085,4).
+pattern(1086). support(1086,2680). item(1086,27). item(1086,60). item(1086,33). size(1086,3).
+pattern(1087). support(1087,2552). item(1087,27). item(1087,60). item(1087,38). item(1087,84). item(1087,80). size(1087,5).
+pattern(1088). support(1088,2552). item(1088,27). item(1088,60). item(1088,38). item(1088,84). size(1088,4).
+pattern(1089). support(1089,2552). item(1089,27). item(1089,60). item(1089,38). item(1089,33). item(1089,80). item(1089,84). size(1089,6).
+pattern(1090). support(1090,2552). item(1090,27). item(1090,60). item(1090,38). item(1090,33). item(1090,80). size(1090,5).
+pattern(1091). support(1091,2552). item(1091,27). item(1091,60). item(1091,38). item(1091,33). item(1091,84). size(1091,5).
+pattern(1092). support(1092,2552). item(1092,27). item(1092,60). item(1092,38). item(1092,33). size(1092,4).
+pattern(1093). support(1093,2744). item(1093,27). item(1093,60). item(1093,38). item(1093,80). size(1093,4).
+pattern(1094). support(1094,2744). item(1094,27). item(1094,60). item(1094,38). size(1094,3).
+pattern(1095). support(1095,2480). item(1095,27). item(1095,60). item(1095,56). item(1095,38). item(1095,80). size(1095,5).
+pattern(1096). support(1096,2480). item(1096,27). item(1096,60). item(1096,56). item(1096,38). size(1096,4).
+pattern(1097). support(1097,2596). item(1097,27). item(1097,60). item(1097,56). item(1097,80). size(1097,4).
+pattern(1098). support(1098,2596). item(1098,27). item(1098,60). item(1098,56). size(1098,3).
+pattern(1099). support(1099,2872). item(1099,27). item(1099,60). item(1099,80). size(1099,3).
+pattern(1100). support(1100,2872). item(1100,27). item(1100,60). size(1100,2).
+pattern(1101). support(1101,2496). item(1101,27). item(1101,53). item(1101,80). item(1101,38). item(1101,87). item(1101,33). item(1101,84). size(1101,7).
+pattern(1102). support(1102,2496). item(1102,27). item(1102,53). item(1102,80). item(1102,38). item(1102,87). item(1102,33). size(1102,6).
+pattern(1103). support(1103,2496). item(1103,27). item(1103,53). item(1103,80). item(1103,38). item(1103,87). item(1103,84). size(1103,6).
+pattern(1104). support(1104,2496). item(1104,27). item(1104,53). item(1104,80). item(1104,38). item(1104,87). size(1104,5).
+pattern(1105). support(1105,2496). item(1105,27). item(1105,53). item(1105,80). item(1105,38). item(1105,33). item(1105,84). size(1105,6).
+pattern(1106). support(1106,2496). item(1106,27). item(1106,53). item(1106,80). item(1106,38). item(1106,33). size(1106,5).
+pattern(1107). support(1107,2496). item(1107,27). item(1107,53). item(1107,80). item(1107,38). item(1107,84). size(1107,5).
+pattern(1108). support(1108,2496). item(1108,27). item(1108,53). item(1108,80). item(1108,38). size(1108,4).
+pattern(1109). support(1109,2496). item(1109,27). item(1109,53). item(1109,80). item(1109,87). item(1109,33). item(1109,84). size(1109,6).
+pattern(1110). support(1110,2496). item(1110,27). item(1110,53). item(1110,80). item(1110,87). item(1110,33). size(1110,5).
+pattern(1111). support(1111,2496). item(1111,27). item(1111,53). item(1111,80). item(1111,87). item(1111,84). size(1111,5).
+pattern(1112). support(1112,2496). item(1112,27). item(1112,53). item(1112,80). item(1112,87). size(1112,4).
+pattern(1113). support(1113,2496). item(1113,27). item(1113,53). item(1113,80). item(1113,33). item(1113,84). size(1113,5).
+pattern(1114). support(1114,2496). item(1114,27). item(1114,53). item(1114,80). item(1114,33). size(1114,4).
+pattern(1115). support(1115,2496). item(1115,27). item(1115,53). item(1115,80). item(1115,84). size(1115,4).
+pattern(1116). support(1116,2496). item(1116,27). item(1116,53). item(1116,80). size(1116,3).
+pattern(1117). support(1117,2496). item(1117,27). item(1117,53). item(1117,38). item(1117,87). item(1117,33). item(1117,84). size(1117,6).
+pattern(1118). support(1118,2496). item(1118,27). item(1118,53). item(1118,38). item(1118,87). item(1118,33). size(1118,5).
+pattern(1119). support(1119,2496). item(1119,27). item(1119,53). item(1119,38). item(1119,87). item(1119,84). size(1119,5).
+pattern(1120). support(1120,2496). item(1120,27). item(1120,53). item(1120,38). item(1120,87). size(1120,4).
+pattern(1121). support(1121,2496). item(1121,27). item(1121,53). item(1121,38). item(1121,33). item(1121,84). size(1121,5).
+pattern(1122). support(1122,2496). item(1122,27). item(1122,53). item(1122,38). item(1122,33). size(1122,4).
+pattern(1123). support(1123,2496). item(1123,27). item(1123,53). item(1123,38). item(1123,84). size(1123,4).
+pattern(1124). support(1124,2496). item(1124,27). item(1124,53). item(1124,38). size(1124,3).
+pattern(1125). support(1125,2496). item(1125,27). item(1125,53). item(1125,87). item(1125,33). item(1125,84). size(1125,5).
+pattern(1126). support(1126,2496). item(1126,27). item(1126,53). item(1126,87). item(1126,33). size(1126,4).
+pattern(1127). support(1127,2496). item(1127,27). item(1127,53). item(1127,87). item(1127,84). size(1127,4).
+pattern(1128). support(1128,2496). item(1128,27). item(1128,53). item(1128,87). size(1128,3).
+pattern(1129). support(1129,2496). item(1129,27). item(1129,53). item(1129,33). item(1129,84). size(1129,4).
+pattern(1130). support(1130,2496). item(1130,27). item(1130,53). item(1130,33). size(1130,3).
+pattern(1131). support(1131,2496). item(1131,27). item(1131,53). item(1131,84). size(1131,3).
+pattern(1132). support(1132,2496). item(1132,27). item(1132,53). size(1132,2).
+pattern(1133). support(1133,3528). item(1133,27). item(1133,80). size(1133,2).
+pattern(1134). support(1134,3528). item(1134,27). size(1134,1).
+pattern(1135). support(1135,3316). item(1135,52). item(1135,84). item(1135,80). size(1135,3).
+pattern(1136). support(1136,3316). item(1136,52). item(1136,84). size(1136,2).
+pattern(1137). support(1137,3298). item(1137,52). item(1137,33). item(1137,84). item(1137,80). size(1137,4).
+pattern(1138). support(1138,3298). item(1138,52). item(1138,33). item(1138,84). size(1138,3).
+pattern(1139). support(1139,3306). item(1139,52). item(1139,33). item(1139,80). size(1139,3).
+pattern(1140). support(1140,3306). item(1140,52). item(1140,33). size(1140,2).
+pattern(1141). support(1141,2680). item(1141,52). item(1141,87). item(1141,84). item(1141,80). size(1141,4).
+pattern(1142). support(1142,2680). item(1142,52). item(1142,87). item(1142,84). size(1142,3).
+pattern(1143). support(1143,2680). item(1143,52). item(1143,87). item(1143,33). item(1143,84). item(1143,80). size(1143,5).
+pattern(1144). support(1144,2680). item(1144,52). item(1144,87). item(1144,33). item(1144,84). size(1144,4).
+pattern(1145). support(1145,2688). item(1145,52). item(1145,87). item(1145,33). item(1145,80). size(1145,4).
+pattern(1146). support(1146,2688). item(1146,52). item(1146,87). item(1146,33). size(1146,3).
+pattern(1147). support(1147,2880). item(1147,52). item(1147,87). item(1147,80). size(1147,3).
+pattern(1148). support(1148,2880). item(1148,52). item(1148,87). size(1148,2).
+pattern(1149). support(1149,2876). item(1149,52). item(1149,35). item(1149,84). item(1149,80). size(1149,4).
+pattern(1150). support(1150,2876). item(1150,52). item(1150,35). item(1150,84). size(1150,3).
+pattern(1151). support(1151,2858). item(1151,52). item(1151,35). item(1151,33). item(1151,80). item(1151,84). size(1151,5).
+pattern(1152). support(1152,2858). item(1152,52). item(1152,35). item(1152,33). item(1152,80). size(1152,4).
+pattern(1153). support(1153,2858). item(1153,52). item(1153,35). item(1153,33). item(1153,84). size(1153,4).
+pattern(1154). support(1154,2858). item(1154,52). item(1154,35). item(1154,33). size(1154,3).
+pattern(1155). support(1155,2528). item(1155,52). item(1155,35). item(1155,87). item(1155,84). item(1155,80). size(1155,5).
+pattern(1156). support(1156,2528). item(1156,52). item(1156,35). item(1156,87). item(1156,84). size(1156,4).
+pattern(1157). support(1157,2528). item(1157,52). item(1157,35). item(1157,87). item(1157,33). item(1157,80). item(1157,84). size(1157,6).
+pattern(1158). support(1158,2528). item(1158,52). item(1158,35). item(1158,87). item(1158,33). item(1158,80). size(1158,5).
+pattern(1159). support(1159,2528). item(1159,52). item(1159,35). item(1159,87). item(1159,33). item(1159,84). size(1159,5).
+pattern(1160). support(1160,2528). item(1160,52). item(1160,35). item(1160,87). item(1160,33). size(1160,4).
+pattern(1161). support(1161,2720). item(1161,52). item(1161,35). item(1161,87). item(1161,80). size(1161,4).
+pattern(1162). support(1162,2720). item(1162,52). item(1162,35). item(1162,87). size(1162,3).
+pattern(1163). support(1163,3068). item(1163,52). item(1163,35). item(1163,80). size(1163,3).
+pattern(1164). support(1164,3068). item(1164,52). item(1164,35). size(1164,2).
+pattern(1165). support(1165,2636). item(1165,52). item(1165,38). item(1165,84). item(1165,80). size(1165,4).
+pattern(1166). support(1166,2636). item(1166,52). item(1166,38). item(1166,84). size(1166,3).
+pattern(1167). support(1167,2618). item(1167,52). item(1167,38). item(1167,33). item(1167,80). item(1167,84). size(1167,5).
+pattern(1168). support(1168,2618). item(1168,52). item(1168,38). item(1168,33). item(1168,80). size(1168,4).
+pattern(1169). support(1169,2618). item(1169,52). item(1169,38). item(1169,33). item(1169,84). size(1169,4).
+pattern(1170). support(1170,2618). item(1170,52). item(1170,38). item(1170,33). size(1170,3).
+pattern(1171). support(1171,2540). item(1171,52). item(1171,38). item(1171,35). item(1171,80). size(1171,4).
+pattern(1172). support(1172,2540). item(1172,52). item(1172,38). item(1172,35). size(1172,3).
+pattern(1173). support(1173,2828). item(1173,52). item(1173,38). item(1173,80). size(1173,3).
+pattern(1174). support(1174,2828). item(1174,52). item(1174,38). size(1174,2).
+pattern(1175). support(1175,3516). item(1175,52). item(1175,80). size(1175,2).
+pattern(1176). support(1176,3516). item(1176,52). size(1176,1).
+pattern(1177). support(1177,3272). item(1177,21). item(1177,35). item(1177,80). item(1177,84). item(1177,33). size(1177,5).
+pattern(1178). support(1178,3272). item(1178,21). item(1178,35). item(1178,80). item(1178,84). size(1178,4).
+pattern(1179). support(1179,3272). item(1179,21). item(1179,35). item(1179,80). item(1179,33). size(1179,4).
+pattern(1180). support(1180,3272). item(1180,21). item(1180,35). item(1180,80). size(1180,3).
+pattern(1181). support(1181,3272). item(1181,21). item(1181,35). item(1181,84). item(1181,33). size(1181,4).
+pattern(1182). support(1182,3272). item(1182,21). item(1182,35). item(1182,84). size(1182,3).
+pattern(1183). support(1183,3272). item(1183,21). item(1183,35). item(1183,33). size(1183,3).
+pattern(1184). support(1184,3272). item(1184,21). item(1184,35). size(1184,2).
+pattern(1185). support(1185,3128). item(1185,21). item(1185,56). item(1185,35). item(1185,80). item(1185,84). item(1185,33). size(1185,6).
+pattern(1186). support(1186,3128). item(1186,21). item(1186,56). item(1186,35). item(1186,80). item(1186,84). size(1186,5).
+pattern(1187). support(1187,3128). item(1187,21). item(1187,56). item(1187,35). item(1187,80). item(1187,33). size(1187,5).
+pattern(1188). support(1188,3128). item(1188,21). item(1188,56). item(1188,35). item(1188,80). size(1188,4).
+pattern(1189). support(1189,3128). item(1189,21). item(1189,56). item(1189,35). item(1189,84). item(1189,33). size(1189,5).
+pattern(1190). support(1190,3128). item(1190,21). item(1190,56). item(1190,35). item(1190,84). size(1190,4).
+pattern(1191). support(1191,3128). item(1191,21). item(1191,56). item(1191,35). item(1191,33). size(1191,4).
+pattern(1192). support(1192,3128). item(1192,21). item(1192,56). item(1192,35). size(1192,3).
+pattern(1193). support(1193,3232). item(1193,21). item(1193,56). item(1193,80). item(1193,84). item(1193,33). size(1193,5).
+pattern(1194). support(1194,3232). item(1194,21). item(1194,56). item(1194,80). item(1194,84). size(1194,4).
+pattern(1195). support(1195,3232). item(1195,21). item(1195,56). item(1195,80). item(1195,33). size(1195,4).
+pattern(1196). support(1196,3232). item(1196,21). item(1196,56). item(1196,80). size(1196,3).
+pattern(1197). support(1197,3232). item(1197,21). item(1197,56). item(1197,84). item(1197,33). size(1197,4).
+pattern(1198). support(1198,3232). item(1198,21). item(1198,56). item(1198,84). size(1198,3).
+pattern(1199). support(1199,3232). item(1199,21). item(1199,56). item(1199,33). size(1199,3).
+pattern(1200). support(1200,3232). item(1200,21). item(1200,56). size(1200,2).
+pattern(1201). support(1201,3080). item(1201,21). item(1201,94). item(1201,35). item(1201,80). item(1201,84). item(1201,33). size(1201,6).
+pattern(1202). support(1202,3080). item(1202,21). item(1202,94). item(1202,35). item(1202,80). item(1202,84). size(1202,5).
+pattern(1203). support(1203,3080). item(1203,21). item(1203,94). item(1203,35). item(1203,80). item(1203,33). size(1203,5).
+pattern(1204). support(1204,3080). item(1204,21). item(1204,94). item(1204,35). item(1204,80). size(1204,4).
+pattern(1205). support(1205,3080). item(1205,21). item(1205,94). item(1205,35). item(1205,84). item(1205,33). size(1205,5).
+pattern(1206). support(1206,3080). item(1206,21). item(1206,94). item(1206,35). item(1206,84). size(1206,4).
+pattern(1207). support(1207,3080). item(1207,21). item(1207,94). item(1207,35). item(1207,33). size(1207,4).
+pattern(1208). support(1208,3080). item(1208,21). item(1208,94). item(1208,35). size(1208,3).
+pattern(1209). support(1209,2936). item(1209,21). item(1209,94). item(1209,56). item(1209,35). item(1209,80). item(1209,84). item(1209,33). size(1209,7).
+pattern(1210). support(1210,2936). item(1210,21). item(1210,94). item(1210,56). item(1210,35). item(1210,80). item(1210,84). size(1210,6).
+pattern(1211). support(1211,2936). item(1211,21). item(1211,94). item(1211,56). item(1211,35). item(1211,80). item(1211,33). size(1211,6).
+pattern(1212). support(1212,2936). item(1212,21). item(1212,94). item(1212,56). item(1212,35). item(1212,80). size(1212,5).
+pattern(1213). support(1213,2936). item(1213,21). item(1213,94). item(1213,56). item(1213,35). item(1213,84). item(1213,33). size(1213,6).
+pattern(1214). support(1214,2936). item(1214,21). item(1214,94). item(1214,56). item(1214,35). item(1214,84). size(1214,5).
+pattern(1215). support(1215,2936). item(1215,21). item(1215,94). item(1215,56). item(1215,35). item(1215,33). size(1215,5).
+pattern(1216). support(1216,2936). item(1216,21). item(1216,94). item(1216,56). item(1216,35). size(1216,4).
+pattern(1217). support(1217,3040). item(1217,21). item(1217,94). item(1217,56). item(1217,80). item(1217,84). item(1217,33). size(1217,6).
+pattern(1218). support(1218,3040). item(1218,21). item(1218,94). item(1218,56). item(1218,80). item(1218,84). size(1218,5).
+pattern(1219). support(1219,3040). item(1219,21). item(1219,94). item(1219,56). item(1219,80). item(1219,33). size(1219,5).
+pattern(1220). support(1220,3040). item(1220,21). item(1220,94). item(1220,56). item(1220,80). size(1220,4).
+pattern(1221). support(1221,3040). item(1221,21). item(1221,94). item(1221,56). item(1221,84). item(1221,33). size(1221,5).
+pattern(1222). support(1222,3040). item(1222,21). item(1222,94). item(1222,56). item(1222,84). size(1222,4).
+pattern(1223). support(1223,3040). item(1223,21). item(1223,94). item(1223,56). item(1223,33). size(1223,4).
+pattern(1224). support(1224,3040). item(1224,21). item(1224,94). item(1224,56). size(1224,3).
+pattern(1225). support(1225,3184). item(1225,21). item(1225,94). item(1225,80). item(1225,84). item(1225,33). size(1225,5).
+pattern(1226). support(1226,3184). item(1226,21). item(1226,94). item(1226,80). item(1226,84). size(1226,4).
+pattern(1227). support(1227,3184). item(1227,21). item(1227,94). item(1227,80). item(1227,33). size(1227,4).
+pattern(1228). support(1228,3184). item(1228,21). item(1228,94). item(1228,80). size(1228,3).
+pattern(1229). support(1229,3184). item(1229,21). item(1229,94). item(1229,84). item(1229,33). size(1229,4).
+pattern(1230). support(1230,3184). item(1230,21). item(1230,94). item(1230,84). size(1230,3).
+pattern(1231). support(1231,3184). item(1231,21). item(1231,94). item(1231,33). size(1231,3).
+pattern(1232). support(1232,3184). item(1232,21). item(1232,94). size(1232,2).
+pattern(1233). support(1233,2976). item(1233,21). item(1233,87). item(1233,35). item(1233,80). item(1233,84). item(1233,33). item(1233,94). size(1233,7).
+pattern(1234). support(1234,2976). item(1234,21). item(1234,87). item(1234,35). item(1234,80). item(1234,84). item(1234,33). size(1234,6).
+pattern(1235). support(1235,2976). item(1235,21). item(1235,87). item(1235,35). item(1235,80). item(1235,84). item(1235,94). size(1235,6).
+pattern(1236). support(1236,2976). item(1236,21). item(1236,87). item(1236,35). item(1236,80). item(1236,84). size(1236,5).
+pattern(1237). support(1237,2976). item(1237,21). item(1237,87). item(1237,35). item(1237,80). item(1237,33). item(1237,94). size(1237,6).
+pattern(1238). support(1238,2976). item(1238,21). item(1238,87). item(1238,35). item(1238,80). item(1238,33). size(1238,5).
+pattern(1239). support(1239,2976). item(1239,21). item(1239,87). item(1239,35). item(1239,80). item(1239,94). size(1239,5).
+pattern(1240). support(1240,2976). item(1240,21). item(1240,87). item(1240,35). item(1240,80). size(1240,4).
+pattern(1241). support(1241,2976). item(1241,21). item(1241,87). item(1241,35). item(1241,84). item(1241,33). item(1241,94). size(1241,6).
+pattern(1242). support(1242,2976). item(1242,21). item(1242,87). item(1242,35). item(1242,84). item(1242,33). size(1242,5).
+pattern(1243). support(1243,2976). item(1243,21). item(1243,87). item(1243,35). item(1243,84). item(1243,94). size(1243,5).
+pattern(1244). support(1244,2976). item(1244,21). item(1244,87). item(1244,35). item(1244,84). size(1244,4).
+pattern(1245). support(1245,2976). item(1245,21). item(1245,87). item(1245,35). item(1245,33). item(1245,94). size(1245,5).
+pattern(1246). support(1246,2976). item(1246,21). item(1246,87). item(1246,35). item(1246,33). size(1246,4).
+pattern(1247). support(1247,2976). item(1247,21). item(1247,87). item(1247,35). item(1247,94). size(1247,4).
+pattern(1248). support(1248,2976). item(1248,21). item(1248,87). item(1248,35). size(1248,3).
+pattern(1249). support(1249,2832). item(1249,21). item(1249,87). item(1249,56). item(1249,35). item(1249,80). item(1249,84). item(1249,33). item(1249,94). size(1249,8).
+pattern(1250). support(1250,2832). item(1250,21). item(1250,87). item(1250,56). item(1250,35). item(1250,80). item(1250,84). item(1250,33). size(1250,7).
+pattern(1251). support(1251,2832). item(1251,21). item(1251,87). item(1251,56). item(1251,35). item(1251,80). item(1251,84). item(1251,94). size(1251,7).
+pattern(1252). support(1252,2832). item(1252,21). item(1252,87). item(1252,56). item(1252,35). item(1252,80). item(1252,84). size(1252,6).
+pattern(1253). support(1253,2832). item(1253,21). item(1253,87). item(1253,56). item(1253,35). item(1253,80). item(1253,33). item(1253,94). size(1253,7).
+pattern(1254). support(1254,2832). item(1254,21). item(1254,87). item(1254,56). item(1254,35). item(1254,80). item(1254,33). size(1254,6).
+pattern(1255). support(1255,2832). item(1255,21). item(1255,87). item(1255,56). item(1255,35). item(1255,80). item(1255,94). size(1255,6).
+pattern(1256). support(1256,2832). item(1256,21). item(1256,87). item(1256,56). item(1256,35). item(1256,80). size(1256,5).
+pattern(1257). support(1257,2832). item(1257,21). item(1257,87). item(1257,56). item(1257,35). item(1257,84). item(1257,33). item(1257,94). size(1257,7).
+pattern(1258). support(1258,2832). item(1258,21). item(1258,87). item(1258,56). item(1258,35). item(1258,84). item(1258,33). size(1258,6).
+pattern(1259). support(1259,2832). item(1259,21). item(1259,87). item(1259,56). item(1259,35). item(1259,84). item(1259,94). size(1259,6).
+pattern(1260). support(1260,2832). item(1260,21). item(1260,87). item(1260,56). item(1260,35). item(1260,84). size(1260,5).
+pattern(1261). support(1261,2832). item(1261,21). item(1261,87). item(1261,56). item(1261,35). item(1261,33). item(1261,94). size(1261,6).
+pattern(1262). support(1262,2832). item(1262,21). item(1262,87). item(1262,56). item(1262,35). item(1262,33). size(1262,5).
+pattern(1263). support(1263,2832). item(1263,21). item(1263,87). item(1263,56). item(1263,35). item(1263,94). size(1263,5).
+pattern(1264). support(1264,2832). item(1264,21). item(1264,87). item(1264,56). item(1264,35). size(1264,4).
+pattern(1265). support(1265,2936). item(1265,21). item(1265,87). item(1265,56). item(1265,80). item(1265,84). item(1265,33). item(1265,94). size(1265,7).
+pattern(1266). support(1266,2936). item(1266,21). item(1266,87). item(1266,56). item(1266,80). item(1266,84). item(1266,33). size(1266,6).
+pattern(1267). support(1267,2936). item(1267,21). item(1267,87). item(1267,56). item(1267,80). item(1267,84). item(1267,94). size(1267,6).
+pattern(1268). support(1268,2936). item(1268,21). item(1268,87). item(1268,56). item(1268,80). item(1268,84). size(1268,5).
+pattern(1269). support(1269,2936). item(1269,21). item(1269,87). item(1269,56). item(1269,80). item(1269,33). item(1269,94). size(1269,6).
+pattern(1270). support(1270,2936). item(1270,21). item(1270,87). item(1270,56). item(1270,80). item(1270,33). size(1270,5).
+pattern(1271). support(1271,2936). item(1271,21). item(1271,87). item(1271,56). item(1271,80). item(1271,94). size(1271,5).
+pattern(1272). support(1272,2936). item(1272,21). item(1272,87). item(1272,56). item(1272,80). size(1272,4).
+pattern(1273). support(1273,2936). item(1273,21). item(1273,87). item(1273,56). item(1273,84). item(1273,33). item(1273,94). size(1273,6).
+pattern(1274). support(1274,2936). item(1274,21). item(1274,87). item(1274,56). item(1274,84). item(1274,33). size(1274,5).
+pattern(1275). support(1275,2936). item(1275,21). item(1275,87). item(1275,56). item(1275,84). item(1275,94). size(1275,5).
+pattern(1276). support(1276,2936). item(1276,21). item(1276,87). item(1276,56). item(1276,84). size(1276,4).
+pattern(1277). support(1277,2936). item(1277,21). item(1277,87). item(1277,56). item(1277,33). item(1277,94). size(1277,5).
+pattern(1278). support(1278,2936). item(1278,21). item(1278,87). item(1278,56). item(1278,33). size(1278,4).
+pattern(1279). support(1279,2936). item(1279,21). item(1279,87). item(1279,56). item(1279,94). size(1279,4).
+pattern(1280). support(1280,2936). item(1280,21). item(1280,87). item(1280,56). size(1280,3).
+pattern(1281). support(1281,3080). item(1281,21). item(1281,87). item(1281,80). item(1281,84). item(1281,33). item(1281,94). size(1281,6).
+pattern(1282). support(1282,3080). item(1282,21). item(1282,87). item(1282,80). item(1282,84). item(1282,33). size(1282,5).
+pattern(1283). support(1283,3080). item(1283,21). item(1283,87). item(1283,80). item(1283,84). item(1283,94). size(1283,5).
+pattern(1284). support(1284,3080). item(1284,21). item(1284,87). item(1284,80). item(1284,84). size(1284,4).
+pattern(1285). support(1285,3080). item(1285,21). item(1285,87). item(1285,80). item(1285,33). item(1285,94). size(1285,5).
+pattern(1286). support(1286,3080). item(1286,21). item(1286,87). item(1286,80). item(1286,33). size(1286,4).
+pattern(1287). support(1287,3080). item(1287,21). item(1287,87). item(1287,80). item(1287,94). size(1287,4).
+pattern(1288). support(1288,3080). item(1288,21). item(1288,87). item(1288,80). size(1288,3).
+pattern(1289). support(1289,3080). item(1289,21). item(1289,87). item(1289,84). item(1289,33). item(1289,94). size(1289,5).
+pattern(1290). support(1290,3080). item(1290,21). item(1290,87). item(1290,84). item(1290,33). size(1290,4).
+pattern(1291). support(1291,3080). item(1291,21). item(1291,87). item(1291,84). item(1291,94). size(1291,4).
+pattern(1292). support(1292,3080). item(1292,21). item(1292,87). item(1292,84). size(1292,3).
+pattern(1293). support(1293,3080). item(1293,21). item(1293,87). item(1293,33). item(1293,94). size(1293,4).
+pattern(1294). support(1294,3080). item(1294,21). item(1294,87). item(1294,33). size(1294,3).
+pattern(1295). support(1295,3080). item(1295,21). item(1295,87). item(1295,94). size(1295,3).
+pattern(1296). support(1296,3080). item(1296,21). item(1296,87). size(1296,2).
+pattern(1297). support(1297,2936). item(1297,21). item(1297,60). item(1297,35). item(1297,80). item(1297,84). item(1297,33). size(1297,6).
+pattern(1298). support(1298,2936). item(1298,21). item(1298,60). item(1298,35). item(1298,80). item(1298,84). size(1298,5).
+pattern(1299). support(1299,2936). item(1299,21). item(1299,60). item(1299,35). item(1299,80). item(1299,33). size(1299,5).
+pattern(1300). support(1300,2936). item(1300,21). item(1300,60). item(1300,35). item(1300,80). size(1300,4).
+pattern(1301). support(1301,2936). item(1301,21). item(1301,60). item(1301,35). item(1301,84). item(1301,33). size(1301,5).
+pattern(1302). support(1302,2936). item(1302,21). item(1302,60). item(1302,35). item(1302,84). size(1302,4).
+pattern(1303). support(1303,2936). item(1303,21). item(1303,60). item(1303,35). item(1303,33). size(1303,4).
+pattern(1304). support(1304,2936). item(1304,21). item(1304,60). item(1304,35). size(1304,3).
+pattern(1305). support(1305,2864). item(1305,21). item(1305,60). item(1305,56). item(1305,35). item(1305,80). item(1305,84). item(1305,33). size(1305,7).
+pattern(1306). support(1306,2864). item(1306,21). item(1306,60). item(1306,56). item(1306,35). item(1306,80). item(1306,84). size(1306,6).
+pattern(1307). support(1307,2864). item(1307,21). item(1307,60). item(1307,56). item(1307,35). item(1307,80). item(1307,33). size(1307,6).
+pattern(1308). support(1308,2864). item(1308,21). item(1308,60). item(1308,56). item(1308,35). item(1308,80). size(1308,5).
+pattern(1309). support(1309,2864). item(1309,21). item(1309,60). item(1309,56). item(1309,35). item(1309,84). item(1309,33). size(1309,6).
+pattern(1310). support(1310,2864). item(1310,21). item(1310,60). item(1310,56). item(1310,35). item(1310,84). size(1310,5).
+pattern(1311). support(1311,2864). item(1311,21). item(1311,60). item(1311,56). item(1311,35). item(1311,33). size(1311,5).
+pattern(1312). support(1312,2864). item(1312,21). item(1312,60). item(1312,56). item(1312,35). size(1312,4).
+pattern(1313). support(1313,2968). item(1313,21). item(1313,60). item(1313,56). item(1313,80). item(1313,84). item(1313,33). size(1313,6).
+pattern(1314). support(1314,2968). item(1314,21). item(1314,60). item(1314,56). item(1314,80). item(1314,84). size(1314,5).
+pattern(1315). support(1315,2968). item(1315,21). item(1315,60). item(1315,56). item(1315,80). item(1315,33). size(1315,5).
+pattern(1316). support(1316,2968). item(1316,21). item(1316,60). item(1316,56). item(1316,80). size(1316,4).
+pattern(1317). support(1317,2968). item(1317,21). item(1317,60). item(1317,56). item(1317,84). item(1317,33). size(1317,5).
+pattern(1318). support(1318,2968). item(1318,21). item(1318,60). item(1318,56). item(1318,84). size(1318,4).
+pattern(1319). support(1319,2968). item(1319,21). item(1319,60). item(1319,56). item(1319,33). size(1319,4).
+pattern(1320). support(1320,2968). item(1320,21). item(1320,60). item(1320,56). size(1320,3).
+pattern(1321). support(1321,2744). item(1321,21). item(1321,60). item(1321,94). item(1321,35). item(1321,80). item(1321,84). item(1321,33). size(1321,7).
+pattern(1322). support(1322,2744). item(1322,21). item(1322,60). item(1322,94). item(1322,35). item(1322,80). item(1322,84). size(1322,6).
+pattern(1323). support(1323,2744). item(1323,21). item(1323,60). item(1323,94). item(1323,35). item(1323,80). item(1323,33). size(1323,6).
+pattern(1324). support(1324,2744). item(1324,21). item(1324,60). item(1324,94). item(1324,35). item(1324,80). size(1324,5).
+pattern(1325). support(1325,2744). item(1325,21). item(1325,60). item(1325,94). item(1325,35). item(1325,84). item(1325,33). size(1325,6).
+pattern(1326). support(1326,2744). item(1326,21). item(1326,60). item(1326,94). item(1326,35). item(1326,84). size(1326,5).
+pattern(1327). support(1327,2744). item(1327,21). item(1327,60). item(1327,94). item(1327,35). item(1327,33). size(1327,5).
+pattern(1328). support(1328,2744). item(1328,21). item(1328,60). item(1328,94). item(1328,35). size(1328,4).
+pattern(1329). support(1329,2672). item(1329,21). item(1329,60). item(1329,94). item(1329,56). item(1329,35). item(1329,80). item(1329,84). item(1329,33). size(1329,8).
+pattern(1330). support(1330,2672). item(1330,21). item(1330,60). item(1330,94). item(1330,56). item(1330,35). item(1330,80). item(1330,84). size(1330,7).
+pattern(1331). support(1331,2672). item(1331,21). item(1331,60). item(1331,94). item(1331,56). item(1331,35). item(1331,80). item(1331,33). size(1331,7).
+pattern(1332). support(1332,2672). item(1332,21). item(1332,60). item(1332,94). item(1332,56). item(1332,35). item(1332,80). size(1332,6).
+pattern(1333). support(1333,2672). item(1333,21). item(1333,60). item(1333,94). item(1333,56). item(1333,35). item(1333,84). item(1333,33). size(1333,7).
+pattern(1334). support(1334,2672). item(1334,21). item(1334,60). item(1334,94). item(1334,56). item(1334,35). item(1334,84). size(1334,6).
+pattern(1335). support(1335,2672). item(1335,21). item(1335,60). item(1335,94). item(1335,56). item(1335,35). item(1335,33). size(1335,6).
+pattern(1336). support(1336,2672). item(1336,21). item(1336,60). item(1336,94). item(1336,56). item(1336,35). size(1336,5).
+pattern(1337). support(1337,2776). item(1337,21). item(1337,60). item(1337,94). item(1337,56). item(1337,80). item(1337,84). item(1337,33). size(1337,7).
+pattern(1338). support(1338,2776). item(1338,21). item(1338,60). item(1338,94). item(1338,56). item(1338,80). item(1338,84). size(1338,6).
+pattern(1339). support(1339,2776). item(1339,21). item(1339,60). item(1339,94). item(1339,56). item(1339,80). item(1339,33). size(1339,6).
+pattern(1340). support(1340,2776). item(1340,21). item(1340,60). item(1340,94). item(1340,56). item(1340,80). size(1340,5).
+pattern(1341). support(1341,2776). item(1341,21). item(1341,60). item(1341,94). item(1341,56). item(1341,84). item(1341,33). size(1341,6).
+pattern(1342). support(1342,2776). item(1342,21). item(1342,60). item(1342,94). item(1342,56). item(1342,84). size(1342,5).
+pattern(1343). support(1343,2776). item(1343,21). item(1343,60). item(1343,94). item(1343,56). item(1343,33). size(1343,5).
+pattern(1344). support(1344,2776). item(1344,21). item(1344,60). item(1344,94). item(1344,56). size(1344,4).
+pattern(1345). support(1345,2848). item(1345,21). item(1345,60). item(1345,94). item(1345,80). item(1345,84). item(1345,33). size(1345,6).
+pattern(1346). support(1346,2848). item(1346,21). item(1346,60). item(1346,94). item(1346,80). item(1346,84). size(1346,5).
+pattern(1347). support(1347,2848). item(1347,21). item(1347,60). item(1347,94). item(1347,80). item(1347,33). size(1347,5).
+pattern(1348). support(1348,2848). item(1348,21). item(1348,60). item(1348,94). item(1348,80). size(1348,4).
+pattern(1349). support(1349,2848). item(1349,21). item(1349,60). item(1349,94). item(1349,84). item(1349,33). size(1349,5).
+pattern(1350). support(1350,2848). item(1350,21). item(1350,60). item(1350,94). item(1350,84). size(1350,4).
+pattern(1351). support(1351,2848). item(1351,21). item(1351,60). item(1351,94). item(1351,33). size(1351,4).
+pattern(1352). support(1352,2848). item(1352,21). item(1352,60). item(1352,94). size(1352,3).
+pattern(1353). support(1353,2640). item(1353,21). item(1353,60). item(1353,87). item(1353,35). item(1353,80). item(1353,84). item(1353,33). item(1353,94). size(1353,8).
+pattern(1354). support(1354,2640). item(1354,21). item(1354,60). item(1354,87). item(1354,35). item(1354,80). item(1354,84). item(1354,33). size(1354,7).
+pattern(1355). support(1355,2640). item(1355,21). item(1355,60). item(1355,87). item(1355,35). item(1355,80). item(1355,84). item(1355,94). size(1355,7).
+pattern(1356). support(1356,2640). item(1356,21). item(1356,60). item(1356,87). item(1356,35). item(1356,80). item(1356,84). size(1356,6).
+pattern(1357). support(1357,2640). item(1357,21). item(1357,60). item(1357,87). item(1357,35). item(1357,80). item(1357,33). item(1357,94). size(1357,7).
+pattern(1358). support(1358,2640). item(1358,21). item(1358,60). item(1358,87). item(1358,35). item(1358,80). item(1358,33). size(1358,6).
+pattern(1359). support(1359,2640). item(1359,21). item(1359,60). item(1359,87). item(1359,35). item(1359,80). item(1359,94). size(1359,6).
+pattern(1360). support(1360,2640). item(1360,21). item(1360,60). item(1360,87). item(1360,35). item(1360,80). size(1360,5).
+pattern(1361). support(1361,2640). item(1361,21). item(1361,60). item(1361,87). item(1361,35). item(1361,84). item(1361,33). item(1361,94). size(1361,7).
+pattern(1362). support(1362,2640). item(1362,21). item(1362,60). item(1362,87). item(1362,35). item(1362,84). item(1362,33). size(1362,6).
+pattern(1363). support(1363,2640). item(1363,21). item(1363,60). item(1363,87). item(1363,35). item(1363,84). item(1363,94). size(1363,6).
+pattern(1364). support(1364,2640). item(1364,21). item(1364,60). item(1364,87). item(1364,35). item(1364,84). size(1364,5).
+pattern(1365). support(1365,2640). item(1365,21). item(1365,60). item(1365,87). item(1365,35). item(1365,33). item(1365,94). size(1365,6).
+pattern(1366). support(1366,2640). item(1366,21). item(1366,60). item(1366,87). item(1366,35). item(1366,33). size(1366,5).
+pattern(1367). support(1367,2640). item(1367,21). item(1367,60). item(1367,87). item(1367,35). item(1367,94). size(1367,5).
+pattern(1368). support(1368,2640). item(1368,21). item(1368,60). item(1368,87). item(1368,35). size(1368,4).
+pattern(1369). support(1369,2568). item(1369,21). item(1369,60). item(1369,87). item(1369,56). item(1369,35). item(1369,80). item(1369,84). item(1369,33). item(1369,94). size(1369,9).
+pattern(1370). support(1370,2568). item(1370,21). item(1370,60). item(1370,87). item(1370,56). item(1370,35). item(1370,80). item(1370,84). item(1370,33). size(1370,8).
+pattern(1371). support(1371,2568). item(1371,21). item(1371,60). item(1371,87). item(1371,56). item(1371,35). item(1371,80). item(1371,84). item(1371,94). size(1371,8).
+pattern(1372). support(1372,2568). item(1372,21). item(1372,60). item(1372,87). item(1372,56). item(1372,35). item(1372,80). item(1372,84). size(1372,7).
+pattern(1373). support(1373,2568). item(1373,21). item(1373,60). item(1373,87). item(1373,56). item(1373,35). item(1373,80). item(1373,33). item(1373,94). size(1373,8).
+pattern(1374). support(1374,2568). item(1374,21). item(1374,60). item(1374,87). item(1374,56). item(1374,35). item(1374,80). item(1374,33). size(1374,7).
+pattern(1375). support(1375,2568). item(1375,21). item(1375,60). item(1375,87). item(1375,56). item(1375,35). item(1375,80). item(1375,94). size(1375,7).
+pattern(1376). support(1376,2568). item(1376,21). item(1376,60). item(1376,87). item(1376,56). item(1376,35). item(1376,80). size(1376,6).
+pattern(1377). support(1377,2568). item(1377,21). item(1377,60). item(1377,87). item(1377,56). item(1377,35). item(1377,84). item(1377,33). item(1377,94). size(1377,8).
+pattern(1378). support(1378,2568). item(1378,21). item(1378,60). item(1378,87). item(1378,56). item(1378,35). item(1378,84). item(1378,33). size(1378,7).
+pattern(1379). support(1379,2568). item(1379,21). item(1379,60). item(1379,87). item(1379,56). item(1379,35). item(1379,84). item(1379,94). size(1379,7).
+pattern(1380). support(1380,2568). item(1380,21). item(1380,60). item(1380,87). item(1380,56). item(1380,35). item(1380,84). size(1380,6).
+pattern(1381). support(1381,2568). item(1381,21). item(1381,60). item(1381,87). item(1381,56). item(1381,35). item(1381,33). item(1381,94). size(1381,7).
+pattern(1382). support(1382,2568). item(1382,21). item(1382,60). item(1382,87). item(1382,56). item(1382,35). item(1382,33). size(1382,6).
+pattern(1383). support(1383,2568). item(1383,21). item(1383,60). item(1383,87). item(1383,56). item(1383,35). item(1383,94). size(1383,6).
+pattern(1384). support(1384,2568). item(1384,21). item(1384,60). item(1384,87). item(1384,56). item(1384,35). size(1384,5).
+pattern(1385). support(1385,2672). item(1385,21). item(1385,60). item(1385,87). item(1385,56). item(1385,80). item(1385,84). item(1385,33). item(1385,94). size(1385,8).
+pattern(1386). support(1386,2672). item(1386,21). item(1386,60). item(1386,87). item(1386,56). item(1386,80). item(1386,84). item(1386,33). size(1386,7).
+pattern(1387). support(1387,2672). item(1387,21). item(1387,60). item(1387,87). item(1387,56). item(1387,80). item(1387,84). item(1387,94). size(1387,7).
+pattern(1388). support(1388,2672). item(1388,21). item(1388,60). item(1388,87). item(1388,56). item(1388,80). item(1388,84). size(1388,6).
+pattern(1389). support(1389,2672). item(1389,21). item(1389,60). item(1389,87). item(1389,56). item(1389,80). item(1389,33). item(1389,94). size(1389,7).
+pattern(1390). support(1390,2672). item(1390,21). item(1390,60). item(1390,87). item(1390,56). item(1390,80). item(1390,33). size(1390,6).
+pattern(1391). support(1391,2672). item(1391,21). item(1391,60). item(1391,87). item(1391,56). item(1391,80). item(1391,94). size(1391,6).
+pattern(1392). support(1392,2672). item(1392,21). item(1392,60). item(1392,87). item(1392,56). item(1392,80). size(1392,5).
+pattern(1393). support(1393,2672). item(1393,21). item(1393,60). item(1393,87). item(1393,56). item(1393,84). item(1393,33). item(1393,94). size(1393,7).
+pattern(1394). support(1394,2672). item(1394,21). item(1394,60). item(1394,87). item(1394,56). item(1394,84). item(1394,33). size(1394,6).
+pattern(1395). support(1395,2672). item(1395,21). item(1395,60). item(1395,87). item(1395,56). item(1395,84). item(1395,94). size(1395,6).
+pattern(1396). support(1396,2672). item(1396,21). item(1396,60). item(1396,87). item(1396,56). item(1396,84). size(1396,5).
+pattern(1397). support(1397,2672). item(1397,21). item(1397,60). item(1397,87). item(1397,56). item(1397,33). item(1397,94). size(1397,6).
+pattern(1398). support(1398,2672). item(1398,21). item(1398,60). item(1398,87). item(1398,56). item(1398,33). size(1398,5).
+pattern(1399). support(1399,2672). item(1399,21). item(1399,60). item(1399,87). item(1399,56). item(1399,94). size(1399,5).
+pattern(1400). support(1400,2672). item(1400,21). item(1400,60). item(1400,87). item(1400,56). size(1400,4).
+pattern(1401). support(1401,2744). item(1401,21). item(1401,60). item(1401,87). item(1401,80). item(1401,84). item(1401,33). item(1401,94). size(1401,7).
+pattern(1402). support(1402,2744). item(1402,21). item(1402,60). item(1402,87). item(1402,80). item(1402,84). item(1402,33). size(1402,6).
+pattern(1403). support(1403,2744). item(1403,21). item(1403,60). item(1403,87). item(1403,80). item(1403,84). item(1403,94). size(1403,6).
+pattern(1404). support(1404,2744). item(1404,21). item(1404,60). item(1404,87). item(1404,80). item(1404,84). size(1404,5).
+pattern(1405). support(1405,2744). item(1405,21). item(1405,60). item(1405,87). item(1405,80). item(1405,33). item(1405,94). size(1405,6).
+pattern(1406). support(1406,2744). item(1406,21). item(1406,60). item(1406,87). item(1406,80). item(1406,33). size(1406,5).
+pattern(1407). support(1407,2744). item(1407,21). item(1407,60). item(1407,87). item(1407,80). item(1407,94). size(1407,5).
+pattern(1408). support(1408,2744). item(1408,21). item(1408,60). item(1408,87). item(1408,80). size(1408,4).
+pattern(1409). support(1409,2744). item(1409,21). item(1409,60). item(1409,87). item(1409,84). item(1409,33). item(1409,94). size(1409,6).
+pattern(1410). support(1410,2744). item(1410,21). item(1410,60). item(1410,87). item(1410,84). item(1410,33). size(1410,5).
+pattern(1411). support(1411,2744). item(1411,21). item(1411,60). item(1411,87). item(1411,84). item(1411,94). size(1411,5).
+pattern(1412). support(1412,2744). item(1412,21). item(1412,60). item(1412,87). item(1412,84). size(1412,4).
+pattern(1413). support(1413,2744). item(1413,21). item(1413,60). item(1413,87). item(1413,33). item(1413,94). size(1413,5).
+pattern(1414). support(1414,2744). item(1414,21). item(1414,60). item(1414,87). item(1414,33). size(1414,4).
+pattern(1415). support(1415,2744). item(1415,21). item(1415,60). item(1415,87). item(1415,94). size(1415,4).
+pattern(1416). support(1416,2744). item(1416,21). item(1416,60). item(1416,87). size(1416,3).
+pattern(1417). support(1417,3040). item(1417,21). item(1417,60). item(1417,80). item(1417,84). item(1417,33). size(1417,5).
+pattern(1418). support(1418,3040). item(1418,21). item(1418,60). item(1418,80). item(1418,84). size(1418,4).
+pattern(1419). support(1419,3040). item(1419,21). item(1419,60). item(1419,80). item(1419,33). size(1419,4).
+pattern(1420). support(1420,3040). item(1420,21). item(1420,60). item(1420,80). size(1420,3).
+pattern(1421). support(1421,3040). item(1421,21). item(1421,60). item(1421,84). item(1421,33). size(1421,4).
+pattern(1422). support(1422,3040). item(1422,21). item(1422,60). item(1422,84). size(1422,3).
+pattern(1423). support(1423,3040). item(1423,21). item(1423,60). item(1423,33). size(1423,3).
+pattern(1424). support(1424,3040). item(1424,21). item(1424,60). size(1424,2).
+pattern(1425). support(1425,2872). item(1425,21). item(1425,38). item(1425,56). item(1425,80). item(1425,84). item(1425,33). item(1425,35). size(1425,7).
+pattern(1426). support(1426,2872). item(1426,21). item(1426,38). item(1426,56). item(1426,80). item(1426,84). item(1426,33). size(1426,6).
+pattern(1427). support(1427,2872). item(1427,21). item(1427,38). item(1427,56). item(1427,80). item(1427,84). item(1427,35). size(1427,6).
+pattern(1428). support(1428,2872). item(1428,21). item(1428,38). item(1428,56). item(1428,80). item(1428,84). size(1428,5).
+pattern(1429). support(1429,2872). item(1429,21). item(1429,38). item(1429,56). item(1429,80). item(1429,33). item(1429,35). size(1429,6).
+pattern(1430). support(1430,2872). item(1430,21). item(1430,38). item(1430,56). item(1430,80). item(1430,33). size(1430,5).
+pattern(1431). support(1431,2872). item(1431,21). item(1431,38). item(1431,56). item(1431,80). item(1431,35). size(1431,5).
+pattern(1432). support(1432,2872). item(1432,21). item(1432,38). item(1432,56). item(1432,80). size(1432,4).
+pattern(1433). support(1433,2872). item(1433,21). item(1433,38). item(1433,56). item(1433,84). item(1433,33). item(1433,35). size(1433,6).
+pattern(1434). support(1434,2872). item(1434,21). item(1434,38). item(1434,56). item(1434,84). item(1434,33). size(1434,5).
+pattern(1435). support(1435,2872). item(1435,21). item(1435,38). item(1435,56). item(1435,84). item(1435,35). size(1435,5).
+pattern(1436). support(1436,2872). item(1436,21). item(1436,38). item(1436,56). item(1436,84). size(1436,4).
+pattern(1437). support(1437,2872). item(1437,21). item(1437,38). item(1437,56). item(1437,33). item(1437,35). size(1437,5).
+pattern(1438). support(1438,2872). item(1438,21). item(1438,38). item(1438,56). item(1438,33). size(1438,4).
+pattern(1439). support(1439,2872). item(1439,21). item(1439,38). item(1439,56). item(1439,35). size(1439,4).
+pattern(1440). support(1440,2872). item(1440,21). item(1440,38). item(1440,56). size(1440,3).
+pattern(1441). support(1441,2680). item(1441,21). item(1441,38). item(1441,94). item(1441,56). item(1441,80). item(1441,84). item(1441,33). item(1441,35). size(1441,8).
+pattern(1442). support(1442,2680). item(1442,21). item(1442,38). item(1442,94). item(1442,56). item(1442,80). item(1442,84). item(1442,33). size(1442,7).
+pattern(1443). support(1443,2680). item(1443,21). item(1443,38). item(1443,94). item(1443,56). item(1443,80). item(1443,84). item(1443,35). size(1443,7).
+pattern(1444). support(1444,2680). item(1444,21). item(1444,38). item(1444,94). item(1444,56). item(1444,80). item(1444,84). size(1444,6).
+pattern(1445). support(1445,2680). item(1445,21). item(1445,38). item(1445,94). item(1445,56). item(1445,80). item(1445,33). item(1445,35). size(1445,7).
+pattern(1446). support(1446,2680). item(1446,21). item(1446,38). item(1446,94). item(1446,56). item(1446,80). item(1446,33). size(1446,6).
+pattern(1447). support(1447,2680). item(1447,21). item(1447,38). item(1447,94). item(1447,56). item(1447,80). item(1447,35). size(1447,6).
+pattern(1448). support(1448,2680). item(1448,21). item(1448,38). item(1448,94). item(1448,56). item(1448,80). size(1448,5).
+pattern(1449). support(1449,2680). item(1449,21). item(1449,38). item(1449,94). item(1449,56). item(1449,84). item(1449,33). item(1449,35). size(1449,7).
+pattern(1450). support(1450,2680). item(1450,21). item(1450,38). item(1450,94). item(1450,56). item(1450,84). item(1450,33). size(1450,6).
+pattern(1451). support(1451,2680). item(1451,21). item(1451,38). item(1451,94). item(1451,56). item(1451,84). item(1451,35). size(1451,6).
+pattern(1452). support(1452,2680). item(1452,21). item(1452,38). item(1452,94). item(1452,56). item(1452,84). size(1452,5).
+pattern(1453). support(1453,2680). item(1453,21). item(1453,38). item(1453,94). item(1453,56). item(1453,33). item(1453,35). size(1453,6).
+pattern(1454). support(1454,2680). item(1454,21). item(1454,38). item(1454,94). item(1454,56). item(1454,33). size(1454,5).
+pattern(1455). support(1455,2680). item(1455,21). item(1455,38). item(1455,94). item(1455,56). item(1455,35). size(1455,5).
+pattern(1456). support(1456,2680). item(1456,21). item(1456,38). item(1456,94). item(1456,56). size(1456,4).
+pattern(1457). support(1457,2824). item(1457,21). item(1457,38). item(1457,94). item(1457,80). item(1457,84). item(1457,33). item(1457,35). size(1457,7).
+pattern(1458). support(1458,2824). item(1458,21). item(1458,38). item(1458,94). item(1458,80). item(1458,84). item(1458,33). size(1458,6).
+pattern(1459). support(1459,2824). item(1459,21). item(1459,38). item(1459,94). item(1459,80). item(1459,84). item(1459,35). size(1459,6).
+pattern(1460). support(1460,2824). item(1460,21). item(1460,38). item(1460,94). item(1460,80). item(1460,84). size(1460,5).
+pattern(1461). support(1461,2824). item(1461,21). item(1461,38). item(1461,94). item(1461,80). item(1461,33). item(1461,35). size(1461,6).
+pattern(1462). support(1462,2824). item(1462,21). item(1462,38). item(1462,94). item(1462,80). item(1462,33). size(1462,5).
+pattern(1463). support(1463,2824). item(1463,21). item(1463,38). item(1463,94). item(1463,80). item(1463,35). size(1463,5).
+pattern(1464). support(1464,2824). item(1464,21). item(1464,38). item(1464,94). item(1464,80). size(1464,4).
+pattern(1465). support(1465,2824). item(1465,21). item(1465,38). item(1465,94). item(1465,84). item(1465,33). item(1465,35). size(1465,6).
+pattern(1466). support(1466,2824). item(1466,21). item(1466,38). item(1466,94). item(1466,84). item(1466,33). size(1466,5).
+pattern(1467). support(1467,2824). item(1467,21). item(1467,38). item(1467,94). item(1467,84). item(1467,35). size(1467,5).
+pattern(1468). support(1468,2824). item(1468,21). item(1468,38). item(1468,94). item(1468,84). size(1468,4).
+pattern(1469). support(1469,2824). item(1469,21). item(1469,38). item(1469,94). item(1469,33). item(1469,35). size(1469,5).
+pattern(1470). support(1470,2824). item(1470,21). item(1470,38). item(1470,94). item(1470,33). size(1470,4).
+pattern(1471). support(1471,2824). item(1471,21). item(1471,38). item(1471,94). item(1471,35). size(1471,4).
+pattern(1472). support(1472,2824). item(1472,21). item(1472,38). item(1472,94). size(1472,3).
+pattern(1473). support(1473,2576). item(1473,21). item(1473,38). item(1473,87). item(1473,56). item(1473,80). item(1473,84). item(1473,33). item(1473,35). item(1473,94). size(1473,9).
+pattern(1474). support(1474,2576). item(1474,21). item(1474,38). item(1474,87). item(1474,56). item(1474,80). item(1474,84). item(1474,33). item(1474,35). size(1474,8).
+pattern(1475). support(1475,2576). item(1475,21). item(1475,38). item(1475,87). item(1475,56). item(1475,80). item(1475,84). item(1475,33). item(1475,94). size(1475,8).
+pattern(1476). support(1476,2576). item(1476,21). item(1476,38). item(1476,87). item(1476,56). item(1476,80). item(1476,84). item(1476,33). size(1476,7).
+pattern(1477). support(1477,2576). item(1477,21). item(1477,38). item(1477,87). item(1477,56). item(1477,80). item(1477,84). item(1477,35). item(1477,94). size(1477,8).
+pattern(1478). support(1478,2576). item(1478,21). item(1478,38). item(1478,87). item(1478,56). item(1478,80). item(1478,84). item(1478,35). size(1478,7).
+pattern(1479). support(1479,2576). item(1479,21). item(1479,38). item(1479,87). item(1479,56). item(1479,80). item(1479,84). item(1479,94). size(1479,7).
+pattern(1480). support(1480,2576). item(1480,21). item(1480,38). item(1480,87). item(1480,56). item(1480,80). item(1480,84). size(1480,6).
+pattern(1481). support(1481,2576). item(1481,21). item(1481,38). item(1481,87). item(1481,56). item(1481,80). item(1481,33). item(1481,35). item(1481,94). size(1481,8).
+pattern(1482). support(1482,2576). item(1482,21). item(1482,38). item(1482,87). item(1482,56). item(1482,80). item(1482,33). item(1482,35). size(1482,7).
+pattern(1483). support(1483,2576). item(1483,21). item(1483,38). item(1483,87). item(1483,56). item(1483,80). item(1483,33). item(1483,94). size(1483,7).
+pattern(1484). support(1484,2576). item(1484,21). item(1484,38). item(1484,87). item(1484,56). item(1484,80). item(1484,33). size(1484,6).
+pattern(1485). support(1485,2576). item(1485,21). item(1485,38). item(1485,87). item(1485,56). item(1485,80). item(1485,35). item(1485,94). size(1485,7).
+pattern(1486). support(1486,2576). item(1486,21). item(1486,38). item(1486,87). item(1486,56). item(1486,80). item(1486,35). size(1486,6).
+pattern(1487). support(1487,2576). item(1487,21). item(1487,38). item(1487,87). item(1487,56). item(1487,80). item(1487,94). size(1487,6).
+pattern(1488). support(1488,2576). item(1488,21). item(1488,38). item(1488,87). item(1488,56). item(1488,80). size(1488,5).
+pattern(1489). support(1489,2576). item(1489,21). item(1489,38). item(1489,87). item(1489,56). item(1489,84). item(1489,33). item(1489,35). item(1489,94). size(1489,8).
+pattern(1490). support(1490,2576). item(1490,21). item(1490,38). item(1490,87). item(1490,56). item(1490,84). item(1490,33). item(1490,35). size(1490,7).
+pattern(1491). support(1491,2576). item(1491,21). item(1491,38). item(1491,87). item(1491,56). item(1491,84). item(1491,33). item(1491,94). size(1491,7).
+pattern(1492). support(1492,2576). item(1492,21). item(1492,38). item(1492,87). item(1492,56). item(1492,84). item(1492,33). size(1492,6).
+pattern(1493). support(1493,2576). item(1493,21). item(1493,38). item(1493,87). item(1493,56). item(1493,84). item(1493,35). item(1493,94). size(1493,7).
+pattern(1494). support(1494,2576). item(1494,21). item(1494,38). item(1494,87). item(1494,56). item(1494,84). item(1494,35). size(1494,6).
+pattern(1495). support(1495,2576). item(1495,21). item(1495,38). item(1495,87). item(1495,56). item(1495,84). item(1495,94). size(1495,6).
+pattern(1496). support(1496,2576). item(1496,21). item(1496,38). item(1496,87). item(1496,56). item(1496,84). size(1496,5).
+pattern(1497). support(1497,2576). item(1497,21). item(1497,38). item(1497,87). item(1497,56). item(1497,33). item(1497,35). item(1497,94). size(1497,7).
+pattern(1498). support(1498,2576). item(1498,21). item(1498,38). item(1498,87). item(1498,56). item(1498,33). item(1498,35). size(1498,6).
+pattern(1499). support(1499,2576). item(1499,21). item(1499,38). item(1499,87). item(1499,56). item(1499,33). item(1499,94). size(1499,6).
+pattern(1500). support(1500,2576). item(1500,21). item(1500,38). item(1500,87). item(1500,56). item(1500,33). size(1500,5).
+pattern(1501). support(1501,2576). item(1501,21). item(1501,38). item(1501,87). item(1501,56). item(1501,35). item(1501,94). size(1501,6).
+pattern(1502). support(1502,2576). item(1502,21). item(1502,38). item(1502,87). item(1502,56). item(1502,35). size(1502,5).
+pattern(1503). support(1503,2576). item(1503,21). item(1503,38). item(1503,87). item(1503,56). item(1503,94). size(1503,5).
+pattern(1504). support(1504,2576). item(1504,21). item(1504,38). item(1504,87). item(1504,56). size(1504,4).
+pattern(1505). support(1505,2720). item(1505,21). item(1505,38). item(1505,87). item(1505,80). item(1505,84). item(1505,33). item(1505,35). item(1505,94). size(1505,8).
+pattern(1506). support(1506,2720). item(1506,21). item(1506,38). item(1506,87). item(1506,80). item(1506,84). item(1506,33). item(1506,35). size(1506,7).
+pattern(1507). support(1507,2720). item(1507,21). item(1507,38). item(1507,87). item(1507,80). item(1507,84). item(1507,33). item(1507,94). size(1507,7).
+pattern(1508). support(1508,2720). item(1508,21). item(1508,38). item(1508,87). item(1508,80). item(1508,84). item(1508,33). size(1508,6).
+pattern(1509). support(1509,2720). item(1509,21). item(1509,38). item(1509,87). item(1509,80). item(1509,84). item(1509,35). item(1509,94). size(1509,7).
+pattern(1510). support(1510,2720). item(1510,21). item(1510,38). item(1510,87). item(1510,80). item(1510,84). item(1510,35). size(1510,6).
+pattern(1511). support(1511,2720). item(1511,21). item(1511,38). item(1511,87). item(1511,80). item(1511,84). item(1511,94). size(1511,6).
+pattern(1512). support(1512,2720). item(1512,21). item(1512,38). item(1512,87). item(1512,80). item(1512,84). size(1512,5).
+pattern(1513). support(1513,2720). item(1513,21). item(1513,38). item(1513,87). item(1513,80). item(1513,33). item(1513,35). item(1513,94). size(1513,7).
+pattern(1514). support(1514,2720). item(1514,21). item(1514,38). item(1514,87). item(1514,80). item(1514,33). item(1514,35). size(1514,6).
+pattern(1515). support(1515,2720). item(1515,21). item(1515,38). item(1515,87). item(1515,80). item(1515,33). item(1515,94). size(1515,6).
+pattern(1516). support(1516,2720). item(1516,21). item(1516,38). item(1516,87). item(1516,80). item(1516,33). size(1516,5).
+pattern(1517). support(1517,2720). item(1517,21). item(1517,38). item(1517,87). item(1517,80). item(1517,35). item(1517,94). size(1517,6).
+pattern(1518). support(1518,2720). item(1518,21). item(1518,38). item(1518,87). item(1518,80). item(1518,35). size(1518,5).
+pattern(1519). support(1519,2720). item(1519,21). item(1519,38). item(1519,87). item(1519,80). item(1519,94). size(1519,5).
+pattern(1520). support(1520,2720). item(1520,21). item(1520,38). item(1520,87). item(1520,80). size(1520,4).
+pattern(1521). support(1521,2720). item(1521,21). item(1521,38). item(1521,87). item(1521,84). item(1521,33). item(1521,35). item(1521,94). size(1521,7).
+pattern(1522). support(1522,2720). item(1522,21). item(1522,38). item(1522,87). item(1522,84). item(1522,33). item(1522,35). size(1522,6).
+pattern(1523). support(1523,2720). item(1523,21). item(1523,38). item(1523,87). item(1523,84). item(1523,33). item(1523,94). size(1523,6).
+pattern(1524). support(1524,2720). item(1524,21). item(1524,38). item(1524,87). item(1524,84). item(1524,33). size(1524,5).
+pattern(1525). support(1525,2720). item(1525,21). item(1525,38). item(1525,87). item(1525,84). item(1525,35). item(1525,94). size(1525,6).
+pattern(1526). support(1526,2720). item(1526,21). item(1526,38). item(1526,87). item(1526,84). item(1526,35). size(1526,5).
+pattern(1527). support(1527,2720). item(1527,21). item(1527,38). item(1527,87). item(1527,84). item(1527,94). size(1527,5).
+pattern(1528). support(1528,2720). item(1528,21). item(1528,38). item(1528,87). item(1528,84). size(1528,4).
+pattern(1529). support(1529,2720). item(1529,21). item(1529,38). item(1529,87). item(1529,33). item(1529,35). item(1529,94). size(1529,6).
+pattern(1530). support(1530,2720). item(1530,21). item(1530,38). item(1530,87). item(1530,33). item(1530,35). size(1530,5).
+pattern(1531). support(1531,2720). item(1531,21). item(1531,38). item(1531,87). item(1531,33). item(1531,94). size(1531,5).
+pattern(1532). support(1532,2720). item(1532,21). item(1532,38). item(1532,87). item(1532,33). size(1532,4).
+pattern(1533). support(1533,2720). item(1533,21). item(1533,38). item(1533,87). item(1533,35). item(1533,94). size(1533,5).
+pattern(1534). support(1534,2720). item(1534,21). item(1534,38). item(1534,87). item(1534,35). size(1534,4).
+pattern(1535). support(1535,2720). item(1535,21). item(1535,38). item(1535,87). item(1535,94). size(1535,4).
+pattern(1536). support(1536,2720). item(1536,21). item(1536,38). item(1536,87). size(1536,3).
+pattern(1537). support(1537,2608). item(1537,21). item(1537,38). item(1537,60). item(1537,56). item(1537,80). item(1537,84). item(1537,33). item(1537,35). size(1537,8).
+pattern(1538). support(1538,2608). item(1538,21). item(1538,38). item(1538,60). item(1538,56). item(1538,80). item(1538,84). item(1538,33). size(1538,7).
+pattern(1539). support(1539,2608). item(1539,21). item(1539,38). item(1539,60). item(1539,56). item(1539,80). item(1539,84). item(1539,35). size(1539,7).
+pattern(1540). support(1540,2608). item(1540,21). item(1540,38). item(1540,60). item(1540,56). item(1540,80). item(1540,84). size(1540,6).
+pattern(1541). support(1541,2608). item(1541,21). item(1541,38). item(1541,60). item(1541,56). item(1541,80). item(1541,33). item(1541,35). size(1541,7).
+pattern(1542). support(1542,2608). item(1542,21). item(1542,38). item(1542,60). item(1542,56). item(1542,80). item(1542,33). size(1542,6).
+pattern(1543). support(1543,2608). item(1543,21). item(1543,38). item(1543,60). item(1543,56). item(1543,80). item(1543,35). size(1543,6).
+pattern(1544). support(1544,2608). item(1544,21). item(1544,38). item(1544,60). item(1544,56). item(1544,80). size(1544,5).
+pattern(1545). support(1545,2608). item(1545,21). item(1545,38). item(1545,60). item(1545,56). item(1545,84). item(1545,33). item(1545,35). size(1545,7).
+pattern(1546). support(1546,2608). item(1546,21). item(1546,38). item(1546,60). item(1546,56). item(1546,84). item(1546,33). size(1546,6).
+pattern(1547). support(1547,2608). item(1547,21). item(1547,38). item(1547,60). item(1547,56). item(1547,84). item(1547,35). size(1547,6).
+pattern(1548). support(1548,2608). item(1548,21). item(1548,38). item(1548,60). item(1548,56). item(1548,84). size(1548,5).
+pattern(1549). support(1549,2608). item(1549,21). item(1549,38). item(1549,60). item(1549,56). item(1549,33). item(1549,35). size(1549,6).
+pattern(1550). support(1550,2608). item(1550,21). item(1550,38). item(1550,60). item(1550,56). item(1550,33). size(1550,5).
+pattern(1551). support(1551,2608). item(1551,21). item(1551,38). item(1551,60). item(1551,56). item(1551,35). size(1551,5).
+pattern(1552). support(1552,2608). item(1552,21). item(1552,38). item(1552,60). item(1552,56). size(1552,4).
+pattern(1553). support(1553,2488). item(1553,21). item(1553,38). item(1553,60). item(1553,94). item(1553,80). item(1553,84). item(1553,33). item(1553,35). size(1553,8).
+pattern(1554). support(1554,2488). item(1554,21). item(1554,38). item(1554,60). item(1554,94). item(1554,80). item(1554,84). item(1554,33). size(1554,7).
+pattern(1555). support(1555,2488). item(1555,21). item(1555,38). item(1555,60). item(1555,94). item(1555,80). item(1555,84). item(1555,35). size(1555,7).
+pattern(1556). support(1556,2488). item(1556,21). item(1556,38). item(1556,60). item(1556,94). item(1556,80). item(1556,84). size(1556,6).
+pattern(1557). support(1557,2488). item(1557,21). item(1557,38). item(1557,60). item(1557,94). item(1557,80). item(1557,33). item(1557,35). size(1557,7).
+pattern(1558). support(1558,2488). item(1558,21). item(1558,38). item(1558,60). item(1558,94). item(1558,80). item(1558,33). size(1558,6).
+pattern(1559). support(1559,2488). item(1559,21). item(1559,38). item(1559,60). item(1559,94). item(1559,80). item(1559,35). size(1559,6).
+pattern(1560). support(1560,2488). item(1560,21). item(1560,38). item(1560,60). item(1560,94). item(1560,80). size(1560,5).
+pattern(1561). support(1561,2488). item(1561,21). item(1561,38). item(1561,60). item(1561,94). item(1561,84). item(1561,33). item(1561,35). size(1561,7).
+pattern(1562). support(1562,2488). item(1562,21). item(1562,38). item(1562,60). item(1562,94). item(1562,84). item(1562,33). size(1562,6).
+pattern(1563). support(1563,2488). item(1563,21). item(1563,38). item(1563,60). item(1563,94). item(1563,84). item(1563,35). size(1563,6).
+pattern(1564). support(1564,2488). item(1564,21). item(1564,38). item(1564,60). item(1564,94). item(1564,84). size(1564,5).
+pattern(1565). support(1565,2488). item(1565,21). item(1565,38). item(1565,60). item(1565,94). item(1565,33). item(1565,35). size(1565,6).
+pattern(1566). support(1566,2488). item(1566,21). item(1566,38). item(1566,60). item(1566,94). item(1566,33). size(1566,5).
+pattern(1567). support(1567,2488). item(1567,21). item(1567,38). item(1567,60). item(1567,94). item(1567,35). size(1567,5).
+pattern(1568). support(1568,2488). item(1568,21). item(1568,38). item(1568,60). item(1568,94). size(1568,4).
+pattern(1569). support(1569,2680). item(1569,21). item(1569,38). item(1569,60). item(1569,80). item(1569,84). item(1569,33). item(1569,35). size(1569,7).
+pattern(1570). support(1570,2680). item(1570,21). item(1570,38). item(1570,60). item(1570,80). item(1570,84). item(1570,33). size(1570,6).
+pattern(1571). support(1571,2680). item(1571,21). item(1571,38). item(1571,60). item(1571,80). item(1571,84). item(1571,35). size(1571,6).
+pattern(1572). support(1572,2680). item(1572,21). item(1572,38). item(1572,60). item(1572,80). item(1572,84). size(1572,5).
+pattern(1573). support(1573,2680). item(1573,21). item(1573,38). item(1573,60). item(1573,80). item(1573,33). item(1573,35). size(1573,6).
+pattern(1574). support(1574,2680). item(1574,21). item(1574,38). item(1574,60). item(1574,80). item(1574,33). size(1574,5).
+pattern(1575). support(1575,2680). item(1575,21). item(1575,38). item(1575,60). item(1575,80). item(1575,35). size(1575,5).
+pattern(1576). support(1576,2680). item(1576,21). item(1576,38). item(1576,60). item(1576,80). size(1576,4).
+pattern(1577). support(1577,2680). item(1577,21). item(1577,38). item(1577,60). item(1577,84). item(1577,33). item(1577,35). size(1577,6).
+pattern(1578). support(1578,2680). item(1578,21). item(1578,38). item(1578,60). item(1578,84). item(1578,33). size(1578,5).
+pattern(1579). support(1579,2680). item(1579,21). item(1579,38). item(1579,60). item(1579,84). item(1579,35). size(1579,5).
+pattern(1580). support(1580,2680). item(1580,21). item(1580,38). item(1580,60). item(1580,84). size(1580,4).
+pattern(1581). support(1581,2680). item(1581,21). item(1581,38). item(1581,60). item(1581,33). item(1581,35). size(1581,5).
+pattern(1582). support(1582,2680). item(1582,21). item(1582,38). item(1582,60). item(1582,33). size(1582,4).
+pattern(1583). support(1583,2680). item(1583,21). item(1583,38). item(1583,60). item(1583,35). size(1583,4).
+pattern(1584). support(1584,2680). item(1584,21). item(1584,38). item(1584,60). size(1584,3).
+pattern(1585). support(1585,3016). item(1585,21). item(1585,38). item(1585,80). item(1585,84). item(1585,33). item(1585,35). size(1585,6).
+pattern(1586). support(1586,3016). item(1586,21). item(1586,38). item(1586,80). item(1586,84). item(1586,33). size(1586,5).
+pattern(1587). support(1587,3016). item(1587,21). item(1587,38). item(1587,80). item(1587,84). item(1587,35). size(1587,5).
+pattern(1588). support(1588,3016). item(1588,21). item(1588,38). item(1588,80). item(1588,84). size(1588,4).
+pattern(1589). support(1589,3016). item(1589,21). item(1589,38). item(1589,80). item(1589,33). item(1589,35). size(1589,5).
+pattern(1590). support(1590,3016). item(1590,21). item(1590,38). item(1590,80). item(1590,33). size(1590,4).
+pattern(1591). support(1591,3016). item(1591,21). item(1591,38). item(1591,80). item(1591,35). size(1591,4).
+pattern(1592). support(1592,3016). item(1592,21). item(1592,38). item(1592,80). size(1592,3).
+pattern(1593). support(1593,3016). item(1593,21). item(1593,38). item(1593,84). item(1593,33). item(1593,35). size(1593,5).
+pattern(1594). support(1594,3016). item(1594,21). item(1594,38). item(1594,84). item(1594,33). size(1594,4).
+pattern(1595). support(1595,3016). item(1595,21). item(1595,38). item(1595,84). item(1595,35). size(1595,4).
+pattern(1596). support(1596,3016). item(1596,21). item(1596,38). item(1596,84). size(1596,3).
+pattern(1597). support(1597,3016). item(1597,21). item(1597,38). item(1597,33). item(1597,35). size(1597,4).
+pattern(1598). support(1598,3016). item(1598,21). item(1598,38). item(1598,33). size(1598,3).
+pattern(1599). support(1599,3016). item(1599,21). item(1599,38). item(1599,35). size(1599,3).
+pattern(1600). support(1600,3016). item(1600,21). item(1600,38). size(1600,2).
+pattern(1601). support(1601,3376). item(1601,21). item(1601,80). item(1601,84). item(1601,33). size(1601,4).
+pattern(1602). support(1602,3376). item(1602,21). item(1602,80). item(1602,84). size(1602,3).
+pattern(1603). support(1603,3376). item(1603,21). item(1603,80). item(1603,33). size(1603,3).
+pattern(1604). support(1604,3376). item(1604,21). item(1604,80). size(1604,2).
+pattern(1605). support(1605,3376). item(1605,21). item(1605,84). item(1605,33). size(1605,3).
+pattern(1606). support(1606,3376). item(1606,21). item(1606,84). size(1606,2).
+pattern(1607). support(1607,3376). item(1607,21). item(1607,33). size(1607,2).
+pattern(1608). support(1608,3376). item(1608,21). size(1608,1).
+pattern(1609). support(1609,3236). item(1609,9). item(1609,84). item(1609,80). size(1609,3).
+pattern(1610). support(1610,3236). item(1610,9). item(1610,84). size(1610,2).
+pattern(1611). support(1611,3218). item(1611,9). item(1611,33). item(1611,84). item(1611,80). size(1611,4).
+pattern(1612). support(1612,3218). item(1612,9). item(1612,33). item(1612,84). size(1612,3).
+pattern(1613). support(1613,3226). item(1613,9). item(1613,33). item(1613,80). size(1613,3).
+pattern(1614). support(1614,3226). item(1614,9). item(1614,33). size(1614,2).
+pattern(1615). support(1615,3190). item(1615,9). item(1615,35). item(1615,33). item(1615,80). item(1615,84). size(1615,5).
+pattern(1616). support(1616,3190). item(1616,9). item(1616,35). item(1616,33). item(1616,80). size(1616,4).
+pattern(1617). support(1617,3190). item(1617,9). item(1617,35). item(1617,33). item(1617,84). size(1617,4).
+pattern(1618). support(1618,3190). item(1618,9). item(1618,35). item(1618,33). size(1618,3).
+pattern(1619). support(1619,3208). item(1619,9). item(1619,35). item(1619,80). item(1619,84). size(1619,4).
+pattern(1620). support(1620,3208). item(1620,9). item(1620,35). item(1620,80). size(1620,3).
+pattern(1621). support(1621,3208). item(1621,9). item(1621,35). item(1621,84). size(1621,3).
+pattern(1622). support(1622,3208). item(1622,9). item(1622,35). size(1622,2).
+pattern(1623). support(1623,3044). item(1623,9). item(1623,87). item(1623,84). item(1623,80). item(1623,33). size(1623,5).
+pattern(1624). support(1624,3044). item(1624,9). item(1624,87). item(1624,84). item(1624,80). size(1624,4).
+pattern(1625). support(1625,3044). item(1625,9). item(1625,87). item(1625,84). item(1625,33). size(1625,4).
+pattern(1626). support(1626,3044). item(1626,9). item(1626,87). item(1626,84). size(1626,3).
+pattern(1627). support(1627,3016). item(1627,9). item(1627,87). item(1627,35). item(1627,80). item(1627,33). item(1627,84). size(1627,6).
+pattern(1628). support(1628,3016). item(1628,9). item(1628,87). item(1628,35). item(1628,80). item(1628,33). size(1628,5).
+pattern(1629). support(1629,3016). item(1629,9). item(1629,87). item(1629,35). item(1629,80). item(1629,84). size(1629,5).
+pattern(1630). support(1630,3016). item(1630,9). item(1630,87). item(1630,35). item(1630,80). size(1630,4).
+pattern(1631). support(1631,3016). item(1631,9). item(1631,87). item(1631,35). item(1631,33). item(1631,84). size(1631,5).
+pattern(1632). support(1632,3016). item(1632,9). item(1632,87). item(1632,35). item(1632,33). size(1632,4).
+pattern(1633). support(1633,3016). item(1633,9). item(1633,87). item(1633,35). item(1633,84). size(1633,4).
+pattern(1634). support(1634,3016). item(1634,9). item(1634,87). item(1634,35). size(1634,3).
+pattern(1635). support(1635,3052). item(1635,9). item(1635,87). item(1635,80). item(1635,33). size(1635,4).
+pattern(1636). support(1636,3052). item(1636,9). item(1636,87). item(1636,80). size(1636,3).
+pattern(1637). support(1637,3052). item(1637,9). item(1637,87). item(1637,33). size(1637,3).
+pattern(1638). support(1638,3052). item(1638,9). item(1638,87). size(1638,2).
+pattern(1639). support(1639,3244). item(1639,9). item(1639,80). size(1639,2).
+pattern(1640). support(1640,3244). item(1640,9). size(1640,1).
+pattern(1641). support(1641,3102). item(1641,2). item(1641,84). item(1641,80). size(1641,3).
+pattern(1642). support(1642,3102). item(1642,2). item(1642,84). size(1642,2).
+pattern(1643). support(1643,3096). item(1643,2). item(1643,33). item(1643,84). item(1643,80). size(1643,4).
+pattern(1644). support(1644,3096). item(1644,2). item(1644,33). item(1644,84). size(1644,3).
+pattern(1645). support(1645,3098). item(1645,2). item(1645,33). item(1645,80). size(1645,3).
+pattern(1646). support(1646,3098). item(1646,2). item(1646,33). size(1646,2).
+pattern(1647). support(1647,2970). item(1647,2). item(1647,87). item(1647,84). item(1647,80). size(1647,4).
+pattern(1648). support(1648,2970). item(1648,2). item(1648,87). item(1648,84). size(1648,3).
+pattern(1649). support(1649,2970). item(1649,2). item(1649,87). item(1649,33). item(1649,84). item(1649,80). size(1649,5).
+pattern(1650). support(1650,2970). item(1650,2). item(1650,87). item(1650,33). item(1650,84). size(1650,4).
+pattern(1651). support(1651,2972). item(1651,2). item(1651,87). item(1651,33). item(1651,80). size(1651,4).
+pattern(1652). support(1652,2972). item(1652,2). item(1652,87). item(1652,33). size(1652,3).
+pattern(1653). support(1653,3020). item(1653,2). item(1653,87). item(1653,80). size(1653,3).
+pattern(1654). support(1654,3020). item(1654,2). item(1654,87). size(1654,2).
+pattern(1655). support(1655,2652). item(1655,2). item(1655,35). item(1655,84). item(1655,80). size(1655,4).
+pattern(1656). support(1656,2652). item(1656,2). item(1656,35). item(1656,84). size(1656,3).
+pattern(1657). support(1657,2646). item(1657,2). item(1657,35). item(1657,33). item(1657,80). item(1657,84). size(1657,5).
+pattern(1658). support(1658,2646). item(1658,2). item(1658,35). item(1658,33). item(1658,80). size(1658,4).
+pattern(1659). support(1659,2646). item(1659,2). item(1659,35). item(1659,33). item(1659,84). size(1659,4).
+pattern(1660). support(1660,2646). item(1660,2). item(1660,35). item(1660,33). size(1660,3).
+pattern(1661). support(1661,2520). item(1661,2). item(1661,35). item(1661,87). item(1661,84). item(1661,80). size(1661,5).
+pattern(1662). support(1662,2520). item(1662,2). item(1662,35). item(1662,87). item(1662,84). size(1662,4).
+pattern(1663). support(1663,2520). item(1663,2). item(1663,35). item(1663,87). item(1663,33). item(1663,80). item(1663,84). size(1663,6).
+pattern(1664). support(1664,2520). item(1664,2). item(1664,35). item(1664,87). item(1664,33). item(1664,80). size(1664,5).
+pattern(1665). support(1665,2520). item(1665,2). item(1665,35). item(1665,87). item(1665,33). item(1665,84). size(1665,5).
+pattern(1666). support(1666,2520). item(1666,2). item(1666,35). item(1666,87). item(1666,33). size(1666,4).
+pattern(1667). support(1667,2568). item(1667,2). item(1667,35). item(1667,87). item(1667,80). size(1667,4).
+pattern(1668). support(1668,2568). item(1668,2). item(1668,35). item(1668,87). size(1668,3).
+pattern(1669). support(1669,2700). item(1669,2). item(1669,35). item(1669,80). size(1669,3).
+pattern(1670). support(1670,2700). item(1670,2). item(1670,35). size(1670,2).
+pattern(1671). support(1671,3152). item(1671,2). item(1671,80). size(1671,2).
+pattern(1672). support(1672,3152). item(1672,2). size(1672,1).
+pattern(1673). support(1673,3130). item(1673,112). item(1673,33). item(1673,80). item(1673,84). size(1673,4).
+pattern(1674). support(1674,3130). item(1674,112). item(1674,33). item(1674,80). size(1674,3).
+pattern(1675). support(1675,3130). item(1675,112). item(1675,33). item(1675,84). size(1675,3).
+pattern(1676). support(1676,3130). item(1676,112). item(1676,33). size(1676,2).
+pattern(1677). support(1677,3104). item(1677,112). item(1677,87). item(1677,80). item(1677,84). item(1677,33). size(1677,5).
+pattern(1678). support(1678,3104). item(1678,112). item(1678,87). item(1678,80). item(1678,84). size(1678,4).
+pattern(1679). support(1679,3104). item(1679,112). item(1679,87). item(1679,80). item(1679,33). size(1679,4).
+pattern(1680). support(1680,3104). item(1680,112). item(1680,87). item(1680,80). size(1680,3).
+pattern(1681). support(1681,3104). item(1681,112). item(1681,87). item(1681,84). item(1681,33). size(1681,4).
+pattern(1682). support(1682,3104). item(1682,112). item(1682,87). item(1682,84). size(1682,3).
+pattern(1683). support(1683,3104). item(1683,112). item(1683,87). item(1683,33). size(1683,3).
+pattern(1684). support(1684,3104). item(1684,112). item(1684,87). size(1684,2).
+pattern(1685). support(1685,2938). item(1685,112). item(1685,35). item(1685,33). item(1685,80). item(1685,84). size(1685,5).
+pattern(1686). support(1686,2938). item(1686,112). item(1686,35). item(1686,33). item(1686,80). size(1686,4).
+pattern(1687). support(1687,2938). item(1687,112). item(1687,35). item(1687,33). item(1687,84). size(1687,4).
+pattern(1688). support(1688,2938). item(1688,112). item(1688,35). item(1688,33). size(1688,3).
+pattern(1689). support(1689,2912). item(1689,112). item(1689,35). item(1689,87). item(1689,80). item(1689,84). item(1689,33). size(1689,6).
+pattern(1690). support(1690,2912). item(1690,112). item(1690,35). item(1690,87). item(1690,80). item(1690,84). size(1690,5).
+pattern(1691). support(1691,2912). item(1691,112). item(1691,35). item(1691,87). item(1691,80). item(1691,33). size(1691,5).
+pattern(1692). support(1692,2912). item(1692,112). item(1692,35). item(1692,87). item(1692,80). size(1692,4).
+pattern(1693). support(1693,2912). item(1693,112). item(1693,35). item(1693,87). item(1693,84). item(1693,33). size(1693,5).
+pattern(1694). support(1694,2912). item(1694,112). item(1694,35). item(1694,87). item(1694,84). size(1694,4).
+pattern(1695). support(1695,2912). item(1695,112). item(1695,35). item(1695,87). item(1695,33). size(1695,4).
+pattern(1696). support(1696,2912). item(1696,112). item(1696,35). item(1696,87). size(1696,3).
+pattern(1697). support(1697,2956). item(1697,112). item(1697,35). item(1697,80). item(1697,84). size(1697,4).
+pattern(1698). support(1698,2956). item(1698,112). item(1698,35). item(1698,80). size(1698,3).
+pattern(1699). support(1699,2956). item(1699,112). item(1699,35). item(1699,84). size(1699,3).
+pattern(1700). support(1700,2956). item(1700,112). item(1700,35). size(1700,2).
+pattern(1701). support(1701,3148). item(1701,112). item(1701,80). item(1701,84). size(1701,3).
+pattern(1702). support(1702,3148). item(1702,112). item(1702,80). size(1702,2).
+pattern(1703). support(1703,3148). item(1703,112). item(1703,84). size(1703,2).
+pattern(1704). support(1704,3148). item(1704,112). size(1704,1).
+pattern(1705). support(1705,2768). item(1705,90). item(1705,84). item(1705,80). item(1705,33). size(1705,4).
+pattern(1706). support(1706,2768). item(1706,90). item(1706,84). item(1706,80). size(1706,3).
+pattern(1707). support(1707,2768). item(1707,90). item(1707,84). item(1707,33). size(1707,3).
+pattern(1708). support(1708,2768). item(1708,90). item(1708,84). size(1708,2).
+pattern(1709). support(1709,2576). item(1709,90). item(1709,20). item(1709,84). item(1709,80). item(1709,33). size(1709,5).
+pattern(1710). support(1710,2576). item(1710,90). item(1710,20). item(1710,84). item(1710,80). size(1710,4).
+pattern(1711). support(1711,2576). item(1711,90). item(1711,20). item(1711,84). item(1711,33). size(1711,4).
+pattern(1712). support(1712,2576). item(1712,90). item(1712,20). item(1712,84). size(1712,3).
+pattern(1713). support(1713,2584). item(1713,90). item(1713,20). item(1713,80). item(1713,33). size(1713,4).
+pattern(1714). support(1714,2584). item(1714,90). item(1714,20). item(1714,80). size(1714,3).
+pattern(1715). support(1715,2584). item(1715,90). item(1715,20). item(1715,33). size(1715,3).
+pattern(1716). support(1716,2584). item(1716,90). item(1716,20). size(1716,2).
+pattern(1717). support(1717,2576). item(1717,90). item(1717,87). item(1717,84). item(1717,80). item(1717,33). item(1717,20). size(1717,6).
+pattern(1718). support(1718,2576). item(1718,90). item(1718,87). item(1718,84). item(1718,80). item(1718,33). size(1718,5).
+pattern(1719). support(1719,2576). item(1719,90). item(1719,87). item(1719,84). item(1719,80). item(1719,20). size(1719,5).
+pattern(1720). support(1720,2576). item(1720,90). item(1720,87). item(1720,84). item(1720,80). size(1720,4).
+pattern(1721). support(1721,2576). item(1721,90). item(1721,87). item(1721,84). item(1721,33). item(1721,20). size(1721,5).
+pattern(1722). support(1722,2576). item(1722,90). item(1722,87). item(1722,84). item(1722,33). size(1722,4).
+pattern(1723). support(1723,2576). item(1723,90). item(1723,87). item(1723,84). item(1723,20). size(1723,4).
+pattern(1724). support(1724,2576). item(1724,90). item(1724,87). item(1724,84). size(1724,3).
+pattern(1725). support(1725,2584). item(1725,90). item(1725,87). item(1725,80). item(1725,33). item(1725,20). size(1725,5).
+pattern(1726). support(1726,2584). item(1726,90). item(1726,87). item(1726,80). item(1726,33). size(1726,4).
+pattern(1727). support(1727,2584). item(1727,90). item(1727,87). item(1727,80). item(1727,20). size(1727,4).
+pattern(1728). support(1728,2584). item(1728,90). item(1728,87). item(1728,80). size(1728,3).
+pattern(1729). support(1729,2584). item(1729,90). item(1729,87). item(1729,33). item(1729,20). size(1729,4).
+pattern(1730). support(1730,2584). item(1730,90). item(1730,87). item(1730,33). size(1730,3).
+pattern(1731). support(1731,2584). item(1731,90). item(1731,87). item(1731,20). size(1731,3).
+pattern(1732). support(1732,2584). item(1732,90). item(1732,87). size(1732,2).
+pattern(1733). support(1733,2496). item(1733,90). item(1733,53). item(1733,80). item(1733,33). item(1733,84). item(1733,20). item(1733,87). size(1733,7).
+pattern(1734). support(1734,2496). item(1734,90). item(1734,53). item(1734,80). item(1734,33). item(1734,84). item(1734,20). size(1734,6).
+pattern(1735). support(1735,2496). item(1735,90). item(1735,53). item(1735,80). item(1735,33). item(1735,84). item(1735,87). size(1735,6).
+pattern(1736). support(1736,2496). item(1736,90). item(1736,53). item(1736,80). item(1736,33). item(1736,84). size(1736,5).
+pattern(1737). support(1737,2496). item(1737,90). item(1737,53). item(1737,80). item(1737,33). item(1737,20). item(1737,87). size(1737,6).
+pattern(1738). support(1738,2496). item(1738,90). item(1738,53). item(1738,80). item(1738,33). item(1738,20). size(1738,5).
+pattern(1739). support(1739,2496). item(1739,90). item(1739,53). item(1739,80). item(1739,33). item(1739,87). size(1739,5).
+pattern(1740). support(1740,2496). item(1740,90). item(1740,53). item(1740,80). item(1740,33). size(1740,4).
+pattern(1741). support(1741,2496). item(1741,90). item(1741,53). item(1741,80). item(1741,84). item(1741,20). item(1741,87). size(1741,6).
+pattern(1742). support(1742,2496). item(1742,90). item(1742,53). item(1742,80). item(1742,84). item(1742,20). size(1742,5).
+pattern(1743). support(1743,2496). item(1743,90). item(1743,53). item(1743,80). item(1743,84). item(1743,87). size(1743,5).
+pattern(1744). support(1744,2496). item(1744,90). item(1744,53). item(1744,80). item(1744,84). size(1744,4).
+pattern(1745). support(1745,2496). item(1745,90). item(1745,53). item(1745,80). item(1745,20). item(1745,87). size(1745,5).
+pattern(1746). support(1746,2496). item(1746,90). item(1746,53). item(1746,80). item(1746,20). size(1746,4).
+pattern(1747). support(1747,2496). item(1747,90). item(1747,53). item(1747,80). item(1747,87). size(1747,4).
+pattern(1748). support(1748,2496). item(1748,90). item(1748,53). item(1748,80). size(1748,3).
+pattern(1749). support(1749,2496). item(1749,90). item(1749,53). item(1749,33). item(1749,84). item(1749,20). item(1749,87). size(1749,6).
+pattern(1750). support(1750,2496). item(1750,90). item(1750,53). item(1750,33). item(1750,84). item(1750,20). size(1750,5).
+pattern(1751). support(1751,2496). item(1751,90). item(1751,53). item(1751,33). item(1751,84). item(1751,87). size(1751,5).
+pattern(1752). support(1752,2496). item(1752,90). item(1752,53). item(1752,33). item(1752,84). size(1752,4).
+pattern(1753). support(1753,2496). item(1753,90). item(1753,53). item(1753,33). item(1753,20). item(1753,87). size(1753,5).
+pattern(1754). support(1754,2496). item(1754,90). item(1754,53). item(1754,33). item(1754,20). size(1754,4).
+pattern(1755). support(1755,2496). item(1755,90). item(1755,53). item(1755,33). item(1755,87). size(1755,4).
+pattern(1756). support(1756,2496). item(1756,90). item(1756,53). item(1756,33). size(1756,3).
+pattern(1757). support(1757,2496). item(1757,90). item(1757,53). item(1757,84). item(1757,20). item(1757,87). size(1757,5).
+pattern(1758). support(1758,2496). item(1758,90). item(1758,53). item(1758,84). item(1758,20). size(1758,4).
+pattern(1759). support(1759,2496). item(1759,90). item(1759,53). item(1759,84). item(1759,87). size(1759,4).
+pattern(1760). support(1760,2496). item(1760,90). item(1760,53). item(1760,84). size(1760,3).
+pattern(1761). support(1761,2496). item(1761,90). item(1761,53). item(1761,20). item(1761,87). size(1761,4).
+pattern(1762). support(1762,2496). item(1762,90). item(1762,53). item(1762,20). size(1762,3).
+pattern(1763). support(1763,2496). item(1763,90). item(1763,53). item(1763,87). size(1763,3).
+pattern(1764). support(1764,2496). item(1764,90). item(1764,53). size(1764,2).
+pattern(1765). support(1765,2776). item(1765,90). item(1765,80). item(1765,33). size(1765,3).
+pattern(1766). support(1766,2776). item(1766,90). item(1766,80). size(1766,2).
+pattern(1767). support(1767,2776). item(1767,90). item(1767,33). size(1767,2).
+pattern(1768). support(1768,2776). item(1768,90). size(1768,1).
+pattern(1769). support(1769,2556). item(1769,8). item(1769,80). size(1769,2).
+pattern(1770). support(1770,2556). item(1770,8). size(1770,1).
+pattern(1771). support(1771,2504). item(1771,39). item(1771,84). item(1771,80). item(1771,33). item(1771,87). size(1771,5).
+pattern(1772). support(1772,2504). item(1772,39). item(1772,84). item(1772,80). item(1772,33). size(1772,4).
+pattern(1773). support(1773,2504). item(1773,39). item(1773,84). item(1773,80). item(1773,87). size(1773,4).
+pattern(1774). support(1774,2504). item(1774,39). item(1774,84). item(1774,80). size(1774,3).
+pattern(1775). support(1775,2504). item(1775,39). item(1775,84). item(1775,33). item(1775,87). size(1775,4).
+pattern(1776). support(1776,2504). item(1776,39). item(1776,84). item(1776,33). size(1776,3).
+pattern(1777). support(1777,2504). item(1777,39). item(1777,84). item(1777,87). size(1777,3).
+pattern(1778). support(1778,2504). item(1778,39). item(1778,84). size(1778,2).
+pattern(1779). support(1779,2512). item(1779,39). item(1779,80). item(1779,33). item(1779,87). size(1779,4).
+pattern(1780). support(1780,2512). item(1780,39). item(1780,80). item(1780,33). size(1780,3).
+pattern(1781). support(1781,2512). item(1781,39). item(1781,80). item(1781,87). size(1781,3).
+pattern(1782). support(1782,2512). item(1782,39). item(1782,80). size(1782,2).
+pattern(1783). support(1783,2512). item(1783,39). item(1783,33). item(1783,87). size(1783,3).
+pattern(1784). support(1784,2512). item(1784,39). item(1784,33). size(1784,2).
+pattern(1785). support(1785,2512). item(1785,39). item(1785,87). size(1785,2).
+pattern(1786). support(1786,2512). item(1786,39). size(1786,1).
+pattern(1787). support(1787,8124). item(1787,80). size(1787,1).
