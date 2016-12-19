@@ -4,9 +4,9 @@
 int main(){
     string tmp_file ="tmp/tmp_output";
     unique_ptr<Miner> miner = pick_miner("itemset");
-    miner->run_solver("datasets/itemsets/mushrooms.dat",tmp_file);
+    miner->run_solver("datasets/itemsets/mushrooms.txt",tmp_file);
     vector<unique_ptr<Pattern>> patterns = miner->parse_solver_output(tmp_file);
-    miner->write_asp_patterns_to_file(move(patterns), "tmp/test_asp_data");
+    miner->write_asp_patterns_to_file(move(patterns), "processed/mushroom_patterns");
     patterns.clear();
     return 0;
 }

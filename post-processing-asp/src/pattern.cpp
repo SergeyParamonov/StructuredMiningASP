@@ -25,6 +25,7 @@ class Itemset : public Pattern{
     int frequency;
     string original_line;
     int id;
+    int size;
   public:
     static int global_id;
      
@@ -32,6 +33,7 @@ class Itemset : public Pattern{
        original_line = other.original_line;
        frequency = other.frequency;
        items =  other.items;
+       size = other.size;
      }
      
      Itemset(string line_to_parse){
@@ -42,9 +44,11 @@ class Itemset : public Pattern{
        boost::split(strs, line_to_parse, boost::is_any_of(" :"));
        frequency = atoi(strs.back().c_str());
        strs.pop_back();
+       size = 0;
        for (string s:strs){
           int val = atoi(s.c_str());
           items.push_back(val);
+          size += 1;
        }
      }
 
@@ -55,6 +59,7 @@ class Itemset : public Pattern{
         original_line = that.original_line;
         frequency = that.frequency;
         items = that.items;
+        size = that.size;
         return *this;
      }
 
@@ -83,6 +88,7 @@ class Itemset : public Pattern{
        for (auto i: items){
           asp_repr += (boost::format(" item(%1%,%2%).") % id % i).str();
        }
+       asp_repr += (boost::format(" size(%1%,%2%).") % id % size).str();
        asp_repr += "\n";
        return asp_repr;
      }
