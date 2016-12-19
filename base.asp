@@ -1,5 +1,3 @@
-
-threshold(95).
 item(I) :- db(_,I).
 transaction(T) :- db(T,_).
 { in_itemset(I) } :- item(I), N { in_support(T) : db(T,I) }, threshold(N).
