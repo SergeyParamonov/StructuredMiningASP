@@ -1,7 +1,8 @@
 #include "miners.cpp"
 
 
-int main(){
+int main(int argc, char *argv[]){
+    
     string tmp_file ="tmp/tmp_output";
     unique_ptr<Miner> miner = pick_miner("itemset");
     miner->run_solver("datasets/itemsets/mushroom.txt",tmp_file);
