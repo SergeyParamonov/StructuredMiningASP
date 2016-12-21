@@ -3,8 +3,8 @@
 
 valid(I) :- pattern(I), not invalid(I).
 
-greater_in_size_and_geq_in_frequency(I,J) :- support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si >  Sj, X >= Y. 
-geq_in_size_and_greater_in_frequency(I,J) :- support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si >= Sj, X >  Y. 
+greater_in_size_and_geq_in_frequency(I,J) :- support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si <  Sj, X <= Y. 
+geq_in_size_and_greater_in_frequency(I,J) :- support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si <= Sj, X <  Y. 
 
 dominated(I)  :- pattern(I), pattern(J), valid(J), greater_in_size_and_geq_in_frequency(I,J), I != J.
 dominated(I)  :- pattern(I), pattern(J), valid(J), geq_in_size_and_greater_in_frequency(I,J), I != J.
