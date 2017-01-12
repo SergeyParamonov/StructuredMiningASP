@@ -1,0 +1,75 @@
+\documentclass{llncs}       
+
+\usepackage{times}
+\usepackage{helvet}
+\usepackage{courier}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[draft]{pgf}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{ntheorem}
+\usepackage{enumerate}
+\usepackage{latexsym} 
+\usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{graphicx}
+\usepackage{pdflscape}
+\usepackage{url}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{todonotes}
+\usepackage{xspace}
+\usepackage{tikz}
+\usepackage{algorithm}
+\usepackage[justification=centering]{caption}
+\usepackage{subcaption}
+\usepackage{pbox}
+\usepackage{tipa}
+\usepackage{minted}
+\usepackage[noend]{algpseudocode}
+\usepackage{multirow}
+\usepackage{footnote}
+
+\newcommand{\qone}{\ensuremath{\textbf{Q}_\textbf{1}}\xspace}
+\newcommand{\qtwo}{\ensuremath{\textbf{Q}_\textbf{2}}\xspace}
+\newcommand{\qthree}{\ensuremath{\textbf{Q}_\textbf{3}}\xspace}
+
+\newcommand{\Cross}{\scalebox{3}{$\mathbin{\tikz [x=1.4ex,y=1.4ex,line width=.2ex, red] \draw (0,0) -- (1,1) (0,1) -- (1,0);}$}}%
+\newcommand{\Checkmark}{\scalebox{4}{$\color{green}\checkmark$}}
+\newcommand{\na}{--}
+\newcommand{\patternspace}{\ensuremath{\mathcal{L}}\xspace}
+\newcommand{\subpattern}{\ensuremath{<^*}\xspace}
+\newcommand{\support}{\ensuremath{\textit{support}}\xspace}
+\newcommand{\size}{\ensuremath{\textit{size}}\xspace}
+
+\lstdefinestyle{model}{
+     mathescape,
+     columns=fullflexible,
+     numbers=none,
+     frame=single,
+     escapechar=@
+}
+\newcommand{\commentstyle}{\color{Gray}}
+\newcommand{\commenttextasp}[1]{\textcolor{gray}{\textit{#1}}\xspace}
+\lstset{numbers=left,
+  numberstyle=\tiny,
+  numbersep=5pt,
+  basicstyle=\small,
+  stringstyle=\sffamily,
+  columns=fullflexible,
+  flexiblecolumns=true,
+  belowskip=5pt,
+  alsoletter={-}, 
+  alsodigit={:},
+  frame=single,
+%  otherkeywords={},
+  emph={%
+      not,
+      {:-},
+          },emphstyle={\bfseries}%
+}
+
+

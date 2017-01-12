@@ -1,0 +1,98 @@
+\input{headers}
+
+\usepackage[backend=bibtex, maxbibnames=99, minbibnames=99, sorting=none]{biblatex}
+\bibliography{references}
+\renewcommand*{\bibfont}{\small}
+\newcommand{\sergey}[1]{\textcolor{red}{sergey:#1}}
+%\newcommand{\rot}[1]{\begin{rotate}{60}#1\end{rotate}}
+\newcommand{\rot}[1]{#1}
+
+\title{An ASP Approach to Condensed Pattern Mining under Constraints}
+\author{}
+\institute{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+  text
+% 200 words abstract and max 12 pages
+%Our goal is to design and develop a principled approach to generic constraint-based pattern mining of any pattern type. While implementation details for different pattern types are widely different, the principles with respect to enforcing constraints are similar. We focus specifically on local constraints (size, cost, structure) and condensed representations (closed, free, maximal), whose combination is not straightforward.
+%Our approach is inspired by inductive databases and combines ideas from two research directions in pattern mining: the development of specialized algorithms and the use of generic databases or constraint processing methods. It builds on top of existing highly efficient systems tailored for only one particular task and generalizes it to a wider class of problems using filtering techniques.
+%As a result we obtain the \sysname system (from Hybrid Pattern Processing system; pronounced \textipa{[h2iprO:]}) which can efficiently mine patterns under both local and condensed representation constraints, for the three most popular datatypes: graphs, sequences and itemsets. The resulting system can outperform generic pattern mining search methods through novel filtering techniques for condensed representations.
+%We demonstrate how such a system can be built efficiently and that it performs on a comparable level with specialized algorithms.
+\end{abstract}
+\keywords{answer set programming, pattern mining, structured mining, sequence mining, itemset mining}
+
+\begin{table}[thb]
+  \centering
+  \caption{Feature comparison between various ASP mining models and dominance programming (``\na'' : ``not designed for this datatype'', $\checkmark^*$ : only maximal is supported)}
+  \label{tab:comparison}
+  \vspace{15pt}
+  \setlength\tabcolsep{3.0pt}
+  \begin{tabular}{l | c | c | c | c | c}
+    \textbf{Datatype}                & \textbf{Task}                  & \rot{\textbf{Helsinki}} & \rot{\textbf{Potsdam}} & \rot{\textbf{DP}} &  \rot{\textbf{Our}} \\  \hline  \hline
+                                                                                                                                                                      
+  \multirow{3}{*}{\textbf{Itemset}}  & frequent pattern mining        &  \checkmark      &  \na        & \checkmark       & \checkmark   \\ 
+                                     & condensed (closed, max, etc)   & $\checkmark^{*}$ &  \na        & \checkmark       & \checkmark   \\ 
+                                     & condensed under constraints    &  \na             &  \na        & \checkmark       & \checkmark   \\\hline    
+  \multirow{3}{*}{\textbf{Sequence}} & frequent pattern mining        &  \na             & \checkmark  & \na              & \checkmark   \\ 
+                                     & condensed (closed, max, etc)   &  \na             & \checkmark  & \na              & \checkmark   \\ 
+                                     & condensed under constraints    &  \na             & \checkmark  & \na              & \checkmark       
+                                                                                                                                              
+  \end{tabular} 
+\end{table}
+
+Contribution
+\begin{itemize}
+  \item \qone:   We have presented a general extensible pattern mining framework for mining patterns of different types using ASP
+  \item \qtwo:   We have introduced a feature comparison, such as closedness under solutions, between different ASP mining models and dominance programming, a generic itemset mining language and solver
+  \item \qthree: We have demonstrated the feasibility of the approach with an extensive experimental evaluation across multiple itemset and sequence datasets
+\end{itemize}
+
+\section{Method}
+We propose a two step mining method: first specialized algorithm and then our ASP models on top of that. This allows to treat patterns as first class citizens. 
+
+\section{Condensed Representations under Constraints}
+
+\patternspace is the space of all frequent patterns with a subpattern ${\subpattern}/2$ relation on them.
+
+\begin{definition}[Valid pattern under constraints]
+  Let $C$ be a constraint function from \patternspace to $\{ \top, \bot \}$ and $p$ be a pattern in \patternspace, then a pattern is called \textit{valid} iff $C(p) = \top$, otherwise it is referred as \textit{invalid}.
+\end{definition}
+
+\begin{definition}[Dominated pattern under constraints]
+ Let  $p$ be a pattern and $C$ be a constraint function, then $p$ is called dominated iff there exists a pattern $p' \in \patternspace$ such that $p \subpattern p'$ and $p'$ is valid under $C$. 
+\end{definition}
+
+\begin{definition}[Condensed pattern under constraints]
+Let $p$ be a pattern from \patternspace, $C$ be a constraint function, then a pattern $p$ is called condensed under constraints iff it is valid and not dominated under $C$. 
+\end{definition}
+
+
+\paragraph{Our goal} is to find all condensed patterns under constraints.
+
+In this section all definitions are given for itemsets, for sequences they are identical up to substitution of $\subset$ with $\sqsubset$ (subsequence relation) 
+
+\paragraph{Maximal} For itemsets $p,q$, $p \subpattern q$ holds iff $p \subset q$
+\paragraph{Closed} For itemsets $p,q$, $p \subpattern q$ holds iff $p \subset q \wedge \support(p) = \support(q)$ 
+\paragraph{Skyline (as presented in DP)} For itemsets $p,q$, $p \subpattern q$ holds iff ($\support(p) \leq \support(q)$ and $\size(p) < \size(q)$) or ($\support(p) < \support(q) $ and $\size(p) \leq \size(q)$)
+
+\section{Encoding}
+Here and everywhere we treat patterns as first class citizens. \sergey{the encodings are preliminary, we might change them afterwards}
+
+\begin{lstlisting}[label=lst:skyline,caption=Skyline Encoding, escapeinside={@}{@}]
+@\commenttextasp{\% all local constraints are represented via the predicate invalid}@
+@\commenttextasp{\% each local constraint should say when a constraint is invalid}@
+valid(I) :- pattern(I), not invalid(I).
+@\commenttextasp{\% subpattern rules}@
+greater_size(I,J) :-support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si < Sj, X <= Y. 
+greater_support(I,J) :-support(I,X), support(J,Y), size(I,Si), size(J, Sj), Si <= Sj, X < Y. 
+@\commenttextasp{\% domination rules}@
+dominated(I)  :- pattern(I), pattern(J), valid(J), greater_size(I,J), I != J.
+dominated(I)  :- pattern(I), pattern(J), valid(J), greater_support(I,J), I != J.
+@\commenttextasp{\% condensation rule}@
+condensed(I) :- valid(I), not dominated(I).
+\end{lstlisting}
+
+\end{document}
+
