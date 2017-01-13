@@ -9,12 +9,12 @@ using namespace std;
 
 class Miner{
   public:
-    virtual void run_solver(string dataset_name, string outputfile){}
+    virtual void run_solver(string dataset_name, string outputfile, int threshold){}
     virtual vector<unique_ptr<Pattern>> parse_solver_output(string filepath){}
     virtual ~Miner(){}
 
     void write_asp_patterns_to_file(vector<unique_ptr<Pattern>> patterns, string outputfilename){
-      cout << "writing ASP data to the file: " << outputfilename; 
+      cout << "writing ASP data to the file: " << outputfilename << "\n"; 
       ofstream myfile;
       myfile.open(outputfilename);
       for (auto &p: patterns){
@@ -30,8 +30,8 @@ class ItemsetMiner : public Miner{
     ItemsetMiner(){};
     ~ItemsetMiner(){};
 
-    void run_solver(string dataset_name, string outputfile){
-      string miner_name = "bin/eclat -v ':%a' -s30";
+    void run_solver(string dataset_name, string outputfile, int threshold){
+      string miner_name = "bin/eclat -v ':%a' -s" + to_string(threshold);
       string command = miner_name + " " + dataset_name +" -o " + outputfile + "\n";
       cout << "executing the command " << command;
       system(command.c_str());
