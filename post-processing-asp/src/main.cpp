@@ -7,11 +7,14 @@
 
 int main(int argc, char *argv[]){
     string type = "itemset";
-    unique_ptr<Experiment> e = make_unique<Experiment>(type);   
-    cout << e->get_dataset_file() + "\n";
     string input_dataset = "datasets/itemsets/mushroom.txt";
     string pattern_type = "closed";
-    e->run_experiment(input_dataset, 30, pattern_type);
+    unique_ptr<Experiment> e = make_unique<Experiment>(type);   
+    auto times = e->run_time_in_range(input_dataset, 30, 40, 1, pattern_type);
+    for (auto const& pair : times){
+      cout << "threshold :" + to_string(pair.first) + " time: " + to_string(pair.second) +"\n"; 
+    }
+
 //  clock_t start_time = clock();
 //  int threshold = 20;
 //  miner->run_solver("datasets/itemsets/mushroom.txt",tmp_file,threshold);

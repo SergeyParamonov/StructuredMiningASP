@@ -16,6 +16,7 @@ class Pattern{
     virtual int get_frequency(){}
     virtual vector<int> get_items(){}
     virtual string make_ASP_str(){}
+    virtual string make_selected_ASP_repr(){}
     virtual int get_id(){}
 };
 
@@ -82,6 +83,18 @@ class Itemset : public Pattern{
      vector<int> get_items(){
        return items;
      }
+
+     string make_selected_ASP_repr(){
+       string asp_repr = (boost::format("selected_pattern(%1%).") % id).str(); 
+       asp_repr += (boost::format(" selected_support(%1%).") % frequency).str(); 
+       for (auto i: items){
+          asp_repr += (boost::format(" selected_item(%1%).") % i).str();
+       }
+       asp_repr += (boost::format(" selected_size(%1%).") % size).str();
+       asp_repr += "\n";
+       return asp_repr;
+     }
+
      string make_ASP_str(){
        string asp_repr = (boost::format("pattern(%1%).") % id).str(); 
        asp_repr += (boost::format(" support(%1%,%2%).") % id % frequency).str(); 

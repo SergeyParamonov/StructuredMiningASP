@@ -10,10 +10,10 @@ using namespace std;
 class Miner{
   public:
     virtual void run_solver(string dataset_name, string outputfile, int threshold){}
-    virtual vector<unique_ptr<Pattern>> parse_solver_output(string filepath){}
+    virtual vector<shared_ptr<Pattern>> parse_solver_output(string filepath){}
     virtual ~Miner(){}
 
-    void write_asp_patterns_to_file(vector<unique_ptr<Pattern>> patterns, string outputfilename){
+    void write_asp_patterns_to_file(vector<shared_ptr<Pattern>> patterns, string outputfilename){
       cout << "writing ASP data to the file: " << outputfilename << "\n"; 
       ofstream myfile;
       myfile.open(outputfilename);
@@ -37,12 +37,12 @@ class ItemsetMiner : public Miner{
       system(command.c_str());
     };
 
-    vector<unique_ptr<Pattern>> parse_solver_output(string filepath){
+    vector<shared_ptr<Pattern>> parse_solver_output(string filepath){
       string line;
       ifstream f (filepath);
-      vector<unique_ptr<Pattern>> v;
+      vector<shared_ptr<Pattern>> v;
       while(getline(f, line)) {
-        v.push_back(make_unique<Itemset>(line));
+        v.push_back(make_shared<Itemset>(line));
       }
       return move(v);
     };

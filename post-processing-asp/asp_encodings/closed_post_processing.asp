@@ -1,12 +1,11 @@
 % here should be all individual constraints 
 % each constraint should say when a constraint is invalid
-valid(I) :- pattern(I), not invalid(I).
+1 { selected(I) : pattern(I) } 1. 
 
-% not_subset(I,J) = I is not a subset of J
-not_subset(I,J) :- item(I,Vi), not item(J,Vi), pattern(J), I != J. % I != J is not necessary here, but I guess it should propagate better
-% not not_subset(I,J) = I is a subset of a valid itemset J and they have they same support => I is not closed
-dominated(I)    :- pattern(I), pattern(J), support(I,X), support(J,X), valid(J), not not_subset(I,J), I != J.
+% % not_subset(J) = I is not a subset of J
+not_subset(J) :- selected(I), item(I,Vi), not item(J,Vi), pattern(J).
+dominated :- selected(I), pattern(J), support(I,X), support(J,X), not not_subset(J), I != J.
 
-condensed(I) :- valid(I), not dominated(I).
+:- dominated.
 
-#show condensed/1.
+#show selected/1.
