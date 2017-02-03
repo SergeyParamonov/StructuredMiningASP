@@ -32,7 +32,10 @@ class ASP_Engine{
     }
     else if(pattern_type == "maximal"){
       program = "asp_encodings/maximal_post_processing.asp";
-    
+    }
+    else if(pattern_type == "skyline"){
+      program = "asp_encodings/skyline.asp";
+
     }
     string command = "clingo " + program + " " + data_filename + " 0 > " + output_filename;     
     cout << "executing... " + command + "\n";

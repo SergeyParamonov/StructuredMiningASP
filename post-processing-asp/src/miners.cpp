@@ -32,7 +32,7 @@ class ItemsetMiner : public Miner{
 
     void run_solver(string dataset_name, string outputfile, int threshold){
       string miner_name = "bin/eclat -v ':%a' -s" + to_string(threshold);
-      string command = miner_name + " " + dataset_name +" -o " + outputfile + "\n";
+      string command = miner_name + " " + dataset_name +" -o " + outputfile + " 2> tmp/fnull " + " \n";
       cout << "executing the command " << command;
       system(command.c_str());
     };

@@ -38,7 +38,7 @@ class Experiment{
 
     std::map <int,int> run_time_in_range(string dataset, int start_threshold, int end_threshold, int step, string pattern_type){
     map<int,int> times;
-    for(int i = start_threshold; i <= end_threshold; i += step){
+    for(int i = end_threshold; i >= start_threshold; i -= step){
       times[i] = run_timed_experiment(dataset, i, pattern_type);
     }
     return times;
