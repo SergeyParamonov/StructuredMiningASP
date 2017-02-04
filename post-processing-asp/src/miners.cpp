@@ -1,6 +1,5 @@
 #include <fstream>
 #include <stdlib.h>
-#include "pattern.cpp"
 #include <memory>
 #include <vector>
 
@@ -46,12 +45,43 @@ class ItemsetMiner : public Miner{
       }
       return move(v);
     };
-
 };
+class SequenceMiner : public Miner{
+  public:
+    SequenceMiner(){};
+    ~SequenceMiner(){};
+
+    void run_solver(string dataset_name, string outputfile, int threshold){
+      string miner_command = "java -jar bin/oscar.ppic.1.0.0.jar " + dataset_name + " 1 0 --minfreq " + to_string(threshold) +" -v > " + outputfile;
+      string command = miner_command + "\n";
+      cout << "executing the command " << command;
+      system(command.c_str());
+    };
+
+    vector<shared_ptr<Pattern>> parse_solver_output(string filepath){
+      string line;
+      ifstream f (filepath);
+      vector<shared_ptr<Pattern>> v;
+      while(getline(f, line)) {
+        if(line.find("<") != -1){
+          v.push_back(make_shared<Sequence>(line));
+        }
+      }
+      return move(v);
+    };
+};
+
+
+
+
 
 unique_ptr<Miner> pick_miner(string datatype){
   if(datatype == "itemset"){
     return make_unique<ItemsetMiner>();
+  }
+  
+  if(datatype == "sequence"){
+    return make_unique<SequenceMiner>();
   }
 };
 

@@ -6,6 +6,7 @@ class Experiment{
     ~Experiment(){};
 
     Experiment(string type){
+
       this->type = type;
       tmp_file =(boost::format("tmp/%1%_tmp_output") % global_id).str();
       dataset_file = (boost::format("processed/%1%_patterns") % global_id).str();
@@ -16,10 +17,13 @@ class Experiment{
     }
 
   void run_experiment(string dataset, int threshold, string pattern_type){
+
+    Itemset::global_id = 1;
+    Sequence::global_id = 1;
     miner->run_solver(dataset, tmp_file,threshold);
     vector<shared_ptr<Pattern>> patterns = miner->parse_solver_output(tmp_file);
     miner->write_asp_patterns_to_file(patterns, dataset_file);
-    asp_engine->run_on_file(dataset_file, output_filename, pattern_type);
+    asp_engine->run_on_file(dataset_file, output_filename, pattern_type, this->type);
     patterns.clear();
   }
 
