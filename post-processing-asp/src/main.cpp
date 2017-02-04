@@ -10,7 +10,7 @@ int main(int argc, char *argv[]){
 //  string type = "itemset";
 // vector<string> datasets {"mushroom.txt", "primary-tumor.txt", "soybean.txt", "splice-1.txt","tic-tac-toe.txt","vote.txt","zoo.txt"};
   string type = "sequence";
-  vector<string> datasets {"jmlr.dat", "unix_users.dat"};
+  vector<string> datasets {"unix_users.dat"}; // need to configure the threshold per dataset "jmlr.dat" 
   vector<string> pattern_types = {"closed", "maximal", "skyline"};
   ofstream stats_file;
   string stats_files_name = type+"_runtimes.txt";
@@ -22,7 +22,7 @@ int main(int argc, char *argv[]){
       stats_file << pattern_type + "\n";
       unique_ptr<Experiment> e = make_unique<Experiment>(type);   
       cout << "global id " << to_string(Sequence::global_id) << "\n";
-      auto times = e->run_time_in_range(full_path_to_dataset, 40, 45, 5, pattern_type);
+      auto times = e->run_time_in_range(full_path_to_dataset, 2, 5, 1, pattern_type);
       for (auto const& pair : times){
         stats_file << "threshold: " + to_string(pair.first) + " time: " + to_string(pair.second) +"\n"; 
       }

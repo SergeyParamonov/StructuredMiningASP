@@ -52,7 +52,7 @@ class SequenceMiner : public Miner{
     ~SequenceMiner(){};
 
     void run_solver(string dataset_name, string outputfile, int threshold){
-      string miner_command = "java -jar bin/oscar.ppic.1.0.0.jar " + dataset_name + " 1 0 -s " + "0." + to_string(threshold) +" -v > " + outputfile;
+      string miner_command = "java -jar bin/oscar.ppic.1.0.0.jar " + dataset_name + " 1 0 -s " + to_string(((double)threshold)/((double) 100)) +" -v > " + outputfile;
       string command = miner_command + "\n";
       cout << "executing the command " << command;
       system(command.c_str());
