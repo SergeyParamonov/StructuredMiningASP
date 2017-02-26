@@ -1,33 +1,33 @@
 dataset: mushroom.txt
 closed
 threshold: 35 time: 3
-threshold: 40 time: 1
+threshold: 40 time: 0
 maximal
-threshold: 35 time: 5
+threshold: 35 time: 4
 threshold: 40 time: 1
 skyline
 threshold: 35 time: 1
 threshold: 40 time: 0
 dataset: primary-tumor.txt
 closed
-threshold: 35 time: 86
-threshold: 40 time: 8
+threshold: 35 time: 59
+threshold: 40 time: 6
 maximal
-threshold: 35 time: 44
-threshold: 40 time: 13
+threshold: 35 time: 33
+threshold: 40 time: 11
 skyline
-threshold: 35 time: 5
+threshold: 35 time: 4
 threshold: 40 time: 1
 dataset: soybean.txt
 closed
-threshold: 35 time: 11
-threshold: 40 time: 4
+threshold: 35 time: 7
+threshold: 40 time: 3
 maximal
-threshold: 35 time: 18
-threshold: 40 time: 7
+threshold: 35 time: 12
+threshold: 40 time: 5
 skyline
 threshold: 35 time: 2
-threshold: 40 time: 1
+threshold: 40 time: 0
 dataset: splice-1.txt
 closed
 threshold: 35 time: 0
@@ -56,15 +56,15 @@ maximal
 threshold: 35 time: 0
 threshold: 40 time: 0
 skyline
-threshold: 35 time: 0
+threshold: 35 time: 1
 threshold: 40 time: 0
 dataset: zoo.txt
 closed
-threshold: 35 time: 16
-threshold: 40 time: 1
+threshold: 35 time: 12
+threshold: 40 time: 0
 maximal
-threshold: 35 time: 22
-threshold: 40 time: 2
+threshold: 35 time: 17
+threshold: 40 time: 1
 skyline
-threshold: 35 time: 3
+threshold: 35 time: 2
 threshold: 40 time: 0
