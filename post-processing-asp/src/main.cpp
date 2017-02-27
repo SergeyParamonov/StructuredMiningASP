@@ -19,11 +19,11 @@ int main(int argc, char *argv[]){
                                        make_pair("jmlr.dat",6)
                                      }; */
   vector<pair<string,int> > datasets { 
-//                                       make_pair("mushroom.txt",22),
-                                        make_pair("vote.txt",20)
+                                        make_pair("mushroom.txt",22),
+                                        make_pair("vote.txt",22)
                                      }; 
 
-  vector<string> pattern_types = {"closed","maximal","skyline"};// {"closed", "maximal", "skyline"};
+  vector<string> pattern_types = {"closed"};//,"maximal","skyline"};
   ofstream stats_file;
   for(const pair<string,int> dataset_freq_pair: datasets){  
     string dataset = dataset_freq_pair.first;
@@ -35,7 +35,7 @@ int main(int argc, char *argv[]){
     for(string const pattern_type : pattern_types){
       unique_ptr<Experiment> e = make_unique<Experiment>(type);   
       cout << "global id " << to_string(Sequence::global_id) << "\n";
-      auto times = e->run_time_in_range(full_path_to_dataset, min_freq, 21, 1, pattern_type);
+      auto times = e->run_time_in_range(full_path_to_dataset, min_freq, 30, 1, pattern_type);
       for (auto const& pair_of_pairs : times){
         float frequency = pair_of_pairs.first;
         int time = pair_of_pairs.second.first;

@@ -16,4 +16,4 @@ dominated :- selected(I), valid(J), support(I,X), support(J,X), not not_subset(J
 :- dominated.
 
 #show selected/1.
-#show invalid/1.
+%#show invalid/1.

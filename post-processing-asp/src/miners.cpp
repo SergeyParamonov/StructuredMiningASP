@@ -21,7 +21,6 @@ class Miner{
       }
       myfile.close();
     }
-
 };
 
 class ItemsetMiner : public Miner{
@@ -70,9 +69,6 @@ class SequenceMiner : public Miner{
       return move(v);
     };
 };
-
-
-
 
 
 unique_ptr<Miner> pick_miner(string datatype){
