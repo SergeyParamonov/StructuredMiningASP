@@ -28,3 +28,4 @@ dominated :- selected(I), valid(J), I != J, not not_subset_of(J), not not_domina
 :- dominated.
 
 #show selected/1.
+#show invalid/1.
