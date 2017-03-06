@@ -13,7 +13,7 @@ def main():
     plt.plot(closed['threshold']/100,closed['time'], linestyle='-', marker='d', markersize=25, color='red')
     plt.xlim(plt.xlim()[0]-0.01, plt.xlim()[1]+0.01)
     plt.ylim(0, plt.ylim()[1]+10)
-    plt.legend(labels=["ASP Model from [4]", "Our ASP Model"],loc='best')
+    plt.legend(labels=["ASP Model (Gebser et al. 2016)", "Our ASP Model"],loc='best')
     plt.xlabel("Frequency")
     plt.ylabel("Runtime in Seconds")
     plt.show()

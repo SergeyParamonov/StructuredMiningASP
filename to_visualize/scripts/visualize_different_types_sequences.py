@@ -2,6 +2,7 @@ import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+import numpy as np
 
 def main():
     datasets = []
@@ -17,10 +18,11 @@ def main():
         subset = dataset[dataset['pattern_type'] == pattern_type]
         plt.plot(subset['threshold']/100,subset['time'], linestyle='-', marker=markers[i], markersize=25, color=colors[i])
 
-      plt.xlim(plt.xlim()[0]-0.005, plt.xlim()[1]+0.005)
-      plt.ylim(0.8, plt.ylim()[1])
+      plt.xlim(0.047, 0.155)
+      plt.ylim(0.8, plt.ylim()[1]+20)
       plt.legend(labels=["JMLR", "IPRG","Unix Users"],loc='best')
       plt.xlabel("Frequency")
+      plt.xticks(list(np.arange(0.05,0.16,0.01)))
       plt.ylabel("Runtime in Seconds")
       plt.yscale('log')
       plt.show()
