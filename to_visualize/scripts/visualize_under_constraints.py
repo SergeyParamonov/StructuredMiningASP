@@ -25,7 +25,7 @@ def main():
 
     plt.xlim(plt.xlim()[0]-0.01, plt.xlim()[1]+0.01)
     plt.ylim(0.80, plt.ylim()[1]+200)
-    plt.legend(labels=["W/o local constraints: Mushrooms", "With local constraints: Mushrooms", "W/o local constraints: Vote ", "With local constraints: Vote"],loc='best')
+    plt.legend(labels=["Mushrooms w/o local constraints", "Mushrooms under constraints", "Vote w/o local constraints", "Vote under constraints"],loc='best')
     plt.xlabel("Frequency")
     plt.ylabel("Runtime in Seconds")
     plt.yscale('log')
