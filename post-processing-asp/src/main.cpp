@@ -11,12 +11,12 @@ int main(int argc, char *argv[]){
 // vector<string> datasets {"mushroom.txt", "primary-tumor.txt", "soybean.txt", "splice-1.txt","tic-tac-toe.txt","vote.txt","zoo.txt"};
 string type = "sequence";
 vector<pair<string,int> > datasets { 
-                               //      make_pair("iprg.dat",5),
+                                       make_pair("iprg.dat",8),
                                //      make_pair("asp_200.dat",5),
                                //      make_pair("asp_300.dat",5), 
  //                                     make_pair("asp_default.dat",5),
                      //                 make_pair("unix_users.dat",5),
-                                       make_pair("jmlr.dat",10)
+                                   //   make_pair("jmlr.dat",10)
                                      }; 
   /*
   vector<pair<string,int> > datasets { 
