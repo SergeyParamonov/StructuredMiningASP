@@ -1,0 +1,12 @@
+pattern_type,threshold,time,num_of_patterns
+skyline,5.000000,13,1190
+skyline,6.000000,6,799
+skyline,7.000000,3,579
+skyline,8.000000,2,419
+skyline,9.000000,2,334
+skyline,10.000000,2,277
+skyline,11.000000,1,231
+skyline,12.000000,1,201
+skyline,13.000000,1,187
+skyline,14.000000,2,168
+skyline,15.000000,1,151

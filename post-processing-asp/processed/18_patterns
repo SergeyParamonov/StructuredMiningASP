@@ -1,0 +1,12 @@
+pattern(1). support(1,1076). item(1,0,2206). size(1,1).
+pattern(2). support(2,1149). item(2,0,2237). size(2,1).
+pattern(3). support(3,1976). item(3,0,6). size(3,1).
+pattern(4). support(4,1911). item(4,0,2865). size(4,1).
+pattern(5). support(5,1078). item(5,0,2492). size(5,1).
+pattern(6). support(6,1946). item(6,0,4). size(6,1).
+pattern(7). support(7,1247). item(7,0,4). item(7,1,4). size(7,2).
+pattern(8). support(8,2029). item(8,0,1955). size(8,1).
+pattern(9). support(9,1035). item(9,0,3233). size(9,1).
+pattern(10). support(10,945). item(10,0,3233). item(10,1,3239). size(10,2).
+pattern(11). support(11,1214). item(11,0,3239). size(11,1).
+pattern(12). support(12,913). item(12,0,3239). item(12,1,3239). size(12,2).

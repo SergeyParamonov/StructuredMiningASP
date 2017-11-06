@@ -1,0 +1,9 @@
+pattern_type,threshold,time,num_of_patterns
+maximal,23.000000,83,3672
+maximal,24.000000,40,2900
+maximal,25.000000,26,2315
+maximal,26.000000,12,1720
+maximal,27.000000,8,1337
+maximal,28.000000,4,1064
+maximal,29.000000,3,792
+maximal,30.000000,1,626
