@@ -1,0 +1,13 @@
+pattern_type,threshold,time,num_of_patterns
+closed,10.000000,3809,603
+closed,11.000000,1033,481
+closed,12.000000,181,365
+closed,13.000000,56,298
+closed,14.000000,22,244
+closed,15.000000,6,194
+maximal,11.000000,2453,481
+maximal,12.000000,494,365
+maximal,13.000000,168,298
+maximal,14.000000,63,244
+maximal,15.000000,19,194
+
