@@ -46,7 +46,7 @@ def main():
                                 '{0}'.format(num_patterns),
                                 '{0}'.format(num_final_patterns)
                                 ))
-            with open('{path}/{dominance}/{type}/{dataset}.csv'.format(path=exp_path, dominance=params['dominance'], type=t, dataset=dataset.split('.')[0]), 'wb') as csvfile:
+            with open('{path}/{dominance}/{dataset}.csv'.format(path=exp_path, dominance=params['dominance'], type='graph', dataset=dataset.split('.')[0]), 'wb') as csvfile:
                 writer = csv.writer(csvfile)
                 writer.writerow(['freq', 'specialised', 'postpro', 'step1',  'step3', 'num_of_freq_patterns', 'num_of_final_patterns'])
                 writer.writerows(results)

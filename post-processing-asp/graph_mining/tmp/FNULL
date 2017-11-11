@@ -1,9 +1,9 @@
--output: output/gSpan/nctrer.output
--file: data/gSpan/nctrer.gsp
--support: 0.200000
+-output: output/gSpan/bloodbarr.output
+-file: data/gSpan/bloodbarr.gsp
+-support: 0.300000
 -sep: 0
-average graph size : 20.245690
-average density : 0.133365
+average graph size : 22.600484
+average density : 0.140493
 unique edge label set of 0 : 
 unique edge label set of 1 : 
 unique edge label set of 2 : 
@@ -236,9 +236,190 @@ unique edge label set of 228 :
 unique edge label set of 229 : 
 unique edge label set of 230 : 
 unique edge label set of 231 : 
+unique edge label set of 232 : 
+unique edge label set of 233 : 
+unique edge label set of 234 : 
+unique edge label set of 235 : 
+unique edge label set of 236 : 
+unique edge label set of 237 : 
+unique edge label set of 238 : 
+unique edge label set of 239 : 
+unique edge label set of 240 : 
+unique edge label set of 241 : 
+unique edge label set of 242 : 
+unique edge label set of 243 : 
+unique edge label set of 244 : 
+unique edge label set of 245 : 
+unique edge label set of 246 : 
+unique edge label set of 247 : 
+unique edge label set of 248 : 
+unique edge label set of 249 : 
+unique edge label set of 250 : 
+unique edge label set of 251 : 
+unique edge label set of 252 : 
+unique edge label set of 253 : 
+unique edge label set of 254 : 
+unique edge label set of 255 : 
+unique edge label set of 256 : 
+unique edge label set of 257 : 
+unique edge label set of 258 : 
+unique edge label set of 259 : 
+unique edge label set of 260 : 
+unique edge label set of 261 : 
+unique edge label set of 262 : 
+unique edge label set of 263 : 
+unique edge label set of 264 : 
+unique edge label set of 265 : 
+unique edge label set of 266 : 
+unique edge label set of 267 : 
+unique edge label set of 268 : 
+unique edge label set of 269 : 
+unique edge label set of 270 : 
+unique edge label set of 271 : 
+unique edge label set of 272 : 
+unique edge label set of 273 : 
+unique edge label set of 274 : 
+unique edge label set of 275 : 
+unique edge label set of 276 : 
+unique edge label set of 277 : 
+unique edge label set of 278 : 
+unique edge label set of 279 : 
+unique edge label set of 280 : 
+unique edge label set of 281 : 
+unique edge label set of 282 : 
+unique edge label set of 283 : 
+unique edge label set of 284 : 
+unique edge label set of 285 : 
+unique edge label set of 286 : 
+unique edge label set of 287 : 
+unique edge label set of 288 : 
+unique edge label set of 289 : 
+unique edge label set of 290 : 
+unique edge label set of 291 : 
+unique edge label set of 292 : 
+unique edge label set of 293 : 
+unique edge label set of 294 : 
+unique edge label set of 295 : 
+unique edge label set of 296 : 
+unique edge label set of 297 : 
+unique edge label set of 298 : 
+unique edge label set of 299 : 
+unique edge label set of 300 : 
+unique edge label set of 301 : 
+unique edge label set of 302 : 
+unique edge label set of 303 : 
+unique edge label set of 304 : 
+unique edge label set of 305 : 
+unique edge label set of 306 : 
+unique edge label set of 307 : 
+unique edge label set of 308 : 
+unique edge label set of 309 : 
+unique edge label set of 310 : 
+unique edge label set of 311 : 
+unique edge label set of 312 : 
+unique edge label set of 313 : 
+unique edge label set of 314 : 
+unique edge label set of 315 : 
+unique edge label set of 316 : 
+unique edge label set of 317 : 
+unique edge label set of 318 : 
+unique edge label set of 319 : 
+unique edge label set of 320 : 
+unique edge label set of 321 : 
+unique edge label set of 322 : 
+unique edge label set of 323 : 
+unique edge label set of 324 : 
+unique edge label set of 325 : 
+unique edge label set of 326 : 
+unique edge label set of 327 : 
+unique edge label set of 328 : 
+unique edge label set of 329 : 
+unique edge label set of 330 : 
+unique edge label set of 331 : 
+unique edge label set of 332 : 
+unique edge label set of 333 : 
+unique edge label set of 334 : 
+unique edge label set of 335 : 
+unique edge label set of 336 : 
+unique edge label set of 337 : 
+unique edge label set of 338 : 
+unique edge label set of 339 : 
+unique edge label set of 340 : 
+unique edge label set of 341 : 
+unique edge label set of 342 : 
+unique edge label set of 343 : 
+unique edge label set of 344 : 
+unique edge label set of 345 : 
+unique edge label set of 346 : 
+unique edge label set of 347 : 
+unique edge label set of 348 : 
+unique edge label set of 349 : 
+unique edge label set of 350 : 
+unique edge label set of 351 : 
+unique edge label set of 352 : 
+unique edge label set of 353 : 
+unique edge label set of 354 : 
+unique edge label set of 355 : 
+unique edge label set of 356 : 
+unique edge label set of 357 : 
+unique edge label set of 358 : 
+unique edge label set of 359 : 
+unique edge label set of 360 : 
+unique edge label set of 361 : 
+unique edge label set of 362 : 
+unique edge label set of 363 : 
+unique edge label set of 364 : 
+unique edge label set of 365 : 
+unique edge label set of 366 : 
+unique edge label set of 367 : 
+unique edge label set of 368 : 
+unique edge label set of 369 : 
+unique edge label set of 370 : 
+unique edge label set of 371 : 
+unique edge label set of 372 : 
+unique edge label set of 373 : 
+unique edge label set of 374 : 
+unique edge label set of 375 : 
+unique edge label set of 376 : 
+unique edge label set of 377 : 
+unique edge label set of 378 : 
+unique edge label set of 379 : 
+unique edge label set of 380 : 
+unique edge label set of 381 : 
+unique edge label set of 382 : 
+unique edge label set of 383 : 
+unique edge label set of 384 : 
+unique edge label set of 385 : 
+unique edge label set of 386 : 
+unique edge label set of 387 : 
+unique edge label set of 388 : 
+unique edge label set of 389 : 
+unique edge label set of 390 : 
+unique edge label set of 391 : 
+unique edge label set of 392 : 
+unique edge label set of 393 : 
+unique edge label set of 394 : 
+unique edge label set of 395 : 
+unique edge label set of 396 : 
+unique edge label set of 397 : 
+unique edge label set of 398 : 
+unique edge label set of 399 : 
+unique edge label set of 400 : 
+unique edge label set of 401 : 
+unique edge label set of 402 : 
+unique edge label set of 403 : 
+unique edge label set of 404 : 
+unique edge label set of 405 : 
+unique edge label set of 406 : 
+unique edge label set of 407 : 
+unique edge label set of 408 : 
+unique edge label set of 409 : 
+unique edge label set of 410 : 
+unique edge label set of 411 : 
+unique edge label set of 412 : 
 thread 0 terminate
 thread 1 terminate
 thread 2 terminate
 thread 3 terminate
-elapsed time->execute 208.168000
-elapsed time 228.049000
+elapsed time->execute 104.465000
+elapsed time 147.681000
