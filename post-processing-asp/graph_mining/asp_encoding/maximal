@@ -1,0 +1,14 @@
+% pick one graph to map to
+
+1 { mapped_to(X) : graph(X)} 1.
+
+1 { map(X,N) : node(_,N,_) } 1 :- selected_node(X,_).
+
+:- mapped_to(I), map(X1,V1), map(X2,V2), 
+   selected_edge(X1,X2,L),  not edge(I,V1,V2,L).
+
+:- mapped_to(I), map(X,V), selected_node(X,L), not node(I,V,L).
+
+   
+#show mapped_to/1.
+#show map/2.
