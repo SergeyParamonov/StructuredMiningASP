@@ -1,6 +1,6 @@
 -output: output/gSpan/bloodbarr.output
 -file: data/gSpan/bloodbarr.gsp
--support: 0.300000
+-support: 0.150000
 -sep: 0
 average graph size : 22.600484
 average density : 0.140493
@@ -421,5 +421,5 @@ thread 0 terminate
 thread 1 terminate
 thread 2 terminate
 thread 3 terminate
-elapsed time->execute 104.465000
-elapsed time 147.681000
+elapsed time->execute 209.468000
+elapsed time 251.568000

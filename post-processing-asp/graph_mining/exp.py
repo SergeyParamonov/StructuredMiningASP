@@ -7,9 +7,9 @@ from wrapper import fpMining_pure, fpMining_postpro
 
 def main():
     typeList = ['graph']
-    graph_supports    = [0.4, 0.35, 0.3, 0.25, 0.20,]
-    nctrer_supports   = [0.4, 0.35, 0.3, 0.25, 0.20,]
-    compound_supports = [0.4, 0.35, 0.3, 0.25, 0.20,]
+    graph_supports    = [0.4, 0.35, 0.3, 0.25, 0.20, 0.15]
+    nctrer_supports   = [0.4, 0.35, 0.3, 0.25, 0.20, 0.15]
+    compound_supports = [0.4, 0.35, 0.3, 0.25, 0.20, 0.15]
 
     params = dict()
     params['type'] = 'graph'

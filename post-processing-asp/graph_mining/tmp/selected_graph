@@ -1,4 +1,4 @@
-selected_sup(129).
+selected_sup(69).
 selected_edge(0,1,1).
 selected_edge(1,1,1).
 selected_edge(1,2,1).
@@ -16,5 +16,5 @@ selected_node(1,6).
 selected_node(2,6).
 selected_node(3,6).
 selected_node(4,6).
-selected_node(5,7).
+selected_node(5,6).
 selected_node(6,6).
